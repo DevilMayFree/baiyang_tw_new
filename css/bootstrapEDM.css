@@ -1,0 +1,146 @@
+/*!
+ * Bootstrap v3.3.5 (http://getbootstrap.com)
+ * Copyright 2011-2015 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+
+.sg {
+    width: 100%;
+}
+
+
+
+.mg-1 {
+    width: 100%;
+}
+
+.mg-2 {
+    width: 100%;
+}
+
+.mg-3 {
+    width: 100%;
+}
+
+.mg-4 {
+    width: 100%;
+}
+
+.mg-5 {
+    width: 100%;
+}
+
+.mg-6 {
+    width: 100%;
+}
+
+.mg-7 {
+    width: 100%;
+}
+
+.mg-8 {
+    width: 100%;
+}
+
+.lg-1 {
+    width: 100%;
+}
+
+.lg-2 {
+    width: 100%;
+}
+
+.lg-3 {
+    width: 100%;
+}
+
+.lg-4 {
+    width: 100%;
+}
+
+.lg-5 {
+    width: 100%;
+}
+
+.lg-6 {
+    width: 100%;
+}
+
+.lg-7 {
+    width: 100%;
+}
+
+.lg-8 {
+    width: 100%;
+}
+
+@media (min-width: 767px) {
+
+    .mg-1 {
+    width: 12.5%;
+}
+
+.mg-2 {
+    width: 25%;
+}
+
+.mg-3 {
+    width: 37.5%;
+}
+
+.mg-4 {
+    width: 50%;
+}
+
+.mg-5 {
+    width: 62.5%;
+}
+
+.mg-6 {
+    width: 75%;
+}
+
+.mg-7 {
+    width: 87.5%;
+}
+
+.mg-8 {
+    width: 100%;
+}
+
+
+    .lg-1 {
+        width: 12.5%;
+    }
+
+    .lg-2 {
+        width: 25%;
+    }
+
+    .lg-3 {
+        width: 37.5%;
+    }
+
+    .lg-4 {
+        width: 50%;
+    }
+
+    .lg-5 {
+        width: 62.5%;
+    }
+
+    .lg-6 {
+        width: 75%;
+    }
+
+    .lg-7 {
+        width: 87.5%;
+    }
+
+    .lg-8 {
+        width: 100%;
+    }
+
+
+}

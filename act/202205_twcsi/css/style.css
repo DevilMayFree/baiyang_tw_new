@@ -1,0 +1,175 @@
+html {
+  font-size: 18px;
+}
+
+body {
+  background-color: #0d1522;
+  font-size: 1rem;
+  margin: 0;
+  /*padding-top: 101px;*/
+}
+
+div {
+	margin: auto;
+	text-align: center;
+}
+
+.wrap{
+    position:fixed;right:0;left:0;z-index:90;bottom:0;top:0;
+}
+
+.tops{
+	padding-top: 70px;
+}
+.pc {
+	display: block;
+}
+
+.mobil {
+	display: none;
+}
+
+footer {
+  background-color: #6B4924;
+}
+
+img {
+	/*max-width: 1200px;*/
+	width: 100%;
+}
+
+#fix-btn {
+    position: fixed;
+    z-index: 99;
+    right: 10px;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    height: 180px;
+}
+
+#fix-btn a {
+    display: block;
+    width: 60px;
+    height: 60px;
+    margin: 5px 0;
+}
+
+
+.fixed-side{position:fixed;right:0;left:0;z-index:90;bottom:0}
+.fixed-side ul>li{margin:.5rem 0}
+.fixed-side>.row>div{height:40px;overflow:hidden;background:#9ed8f5;text-align:center;border-top:1px solid #fff;border-left:1px solid #fff}
+.fixed-side>.row>div:first-child{border-left:none}
+.fixed-side>.row>div a{color:#1c1239;text-decoration:none;font-weight:800;display:block;padding:.5rem 0;font-size:16px}
+
+#fix-btn-2 {
+    position: fixed;
+    z-index: 99;
+    right: 10px;
+    margin: auto;
+    height: 60px;
+	bottom: 5%;
+}
+
+#fix-btn-2 a {
+    display: block;
+    width: 60px;
+    height: 60px;
+    margin: 5px 0;
+}
+.goTop {
+}
+
+.my-2 {
+    margin-top: 0.5rem!important;
+    margin-bottom: 0.5rem!important;
+}
+
+.over {
+	pointer-events:none;
+}
+
+#btnbtn {
+    position: relative;
+    z-index: 10000000!important;
+    margin: 20px;
+	max-width: 40%;
+	right: 30%;
+	left: 30%;
+}
+
+#btnbtn a {
+    display: block;
+    height: 60px;
+    margin: 5px 0;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1e97cc;
+    border-color: #1169b0;
+	padding: 5px 10px;
+	margin: 10px 5px;
+	line-height: 50px;
+	font-size: 20px;
+	font-weight: 600;
+	z-index: 10000;
+	display:inline-block;
+}
+
+.btn-primary:hover {
+    color: #fff;
+	font-size: 24px;
+	font-weight: 800;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+	#fix-btn {
+		display: none;
+	}
+	.tops{
+	padding-top: 30px;
+	}
+	.pc {
+		display: none;
+	}
+	.mobil {
+	display: block!important;
+	z-index: 10;
+	}
+	#fix-btn-2 {
+    right: 6px;
+    margin: auto;
+    height: 40px;
+	bottom: 8%;
+}
+
+#fix-btn-2 a {
+    display: block;
+    width: 40px;
+    height: 40px;
+    margin: 5px 0;
+}
+	
+#btnbtn {
+    display: none;
+	/*margin: 20px;
+	max-width: 80%;
+	right: 10%;
+	left: 10%;
+	z-index: 10000000!important;*/
+}
+	
+	
+		
+}
+
+
+/*# sourceMappingURL=style.css.map */

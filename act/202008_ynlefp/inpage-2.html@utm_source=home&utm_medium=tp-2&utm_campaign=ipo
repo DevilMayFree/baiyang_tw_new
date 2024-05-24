@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<title>年輕無價 ‧ 商機無限</title>
+<meta name="keywords" content="百揚投資, 基金, 全球股票型, 趨勢, 電競, 遊戲, 健康瘦身, 寵物, 毛孩, 毛小孩, eSports, Fitness, pet, 投資, 理財,">
+<meta name="description" content="第一金年輕‧新生活傘型基金，抓住全球老中青樂活大商機，鎖定三大產業，遊戲電競、健康瘦身、寵物毛孩，啟動快樂之鑰，打開財富之門！">
+<meta property="og:title" content="年輕無價 ‧ 商機無限">
+<meta property="og:url" content="https://www.fsitc.com.tw/act/202008_ynlefp/index.html?utm_source=fb&utm_medium=fb02&utm_campaign=ipo">
+<meta property="og:image" content="https://www.fsitc.com.tw/act/202008_ynlefp/images/20200820_FB.jpg" />
+<meta property="og:description" content="第一金年輕‧新生活傘型基金，抓住全球老中青樂活大商機，鎖定三大產業，遊戲電競、健康瘦身、寵物毛孩，啟動快樂之鑰，打開財富之門！">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66853120-16"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66853120-16');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66853120-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66853120-7');
+</script>
+
+<!-- Global site tag (gtag.js) - AdWords: 793074866 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-793074866"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-793074866');
+</script>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:400,500,700,900&display=swap&subset=chinese-traditional">
+<link rel="stylesheet" href="css/bootstrap-reboot.min.css">
+<link rel="stylesheet" href="css/bootstrap-grid.min.css">
+<link rel="stylesheet" href="css/slick.css">
+<link rel="stylesheet" href="css/style.min.css">
+<link rel="stylesheet" href="css/aos.css">
+
+</head>
+<body>
+<header>
+    <div class="container d-flex justify-content-between align-items-center">
+        <div class="">
+            <a href="https://www.fsitc.com.tw" target="_blank"><img src="images/logo.svg" class="logo"></a>
+        </div>
+        <div>
+            <a href="#" class="toggle" onclick="myFunction(this)">
+                <span class="bar1"></span>
+                <span class="bar2"></span>
+                <span class="bar3"></span>
+            </a>
+            <ul class="menu text-center">
+                <li class="page"><a href="index.html#section1" class="external">年輕<br><span class="icon-dot"></span><br>新生活</a></li>
+                <li class="page"><a href="index.html#s-item02" class="external">電競<br><span class="icon-dot"></span><br>玩起來</a></li>
+                <li class="page"><a href="index.html#s-item01" class="external">健身<br><span class="icon-dot"></span><br>動起來</a></li>
+                <li class="page"><a href="index.html#s-item03" class="external">寵物<br><span class="icon-dot"></span><br>毛起來</a></li>
+                <li class="page current"><a href="list.html" class="external">投資<br><span class="icon-dot"></span><br>看專題</a></li>
+                <!--<li class="page"><a href="javascript:;" class="external">優惠<br><span class="icon-dot"></span><br>拿到手</a></li>-->
+                <li class="socials">
+                    <a href="http://line.me/ti/p/%40xmz3656a" target="_blank" class="external"><img src="images/icon-line.svg"></a>
+                    <a href="https://www.facebook.com/FSITCeFunds/" target="_blank" class="external"><img src="images/icon-fb.svg"></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</header>
+<div id="section2" class="list-banner">
+    <h2 class="text-center">年輕無價 商機無限</h2>
+    <h1 class="text-center">第一金<span>年輕<span class="icon-dot"></span>新生活</span>傘型基金</h1>
+    <ul>
+        <li>全球 eSports <br>電競基金</li>
+		<li>全球 Fitness <br>健康瘦身基金</li>
+        <li>全球 Pet <br>毛小孩基金</li>
+    </ul>
+</div>
+<div class="inpage">
+    <div class="container">
+        <h2 class="inpage-title mb-4">新生活商機，投資看專題</h2>
+        <div class="content">
+          
+            <h3>》獲利撐竿跳，電競漲勢猛</h3>
+            <p>電競蓬勃發展，並朝職業化快速推進，從遊戲開發、營運平台、到周邊設備的產業供應鏈形成，拉動電競相關企業獲利井噴式爆發。根據歐洲最大指數公司Stoxx編制之全球eSports電競指數的預估每股盈餘，至2022年時，將攀升到33.06美元，較今年的24.62美元，增加34％。有雙位數獲利成長的強力奧援，電競指數的表現如同裝上噴射引擎般，一飛沖天，2012/6/18以來(8/14日止)高達588.34%，比那斯達克的漲幅多出307.75％。</p>
+			<div class="chart">
+                
+                <h4>全球 eSports 遊戲電競產業預估每股盈餘</h4>
+                <img src="images/topic2_1.png">
+                <p class="ex">資料來源：Bloomberg、百揚投資整理，截至2020/8/4，以 STOXX 全球遊戲電競指數（STOXX Global ex China A Video Gaming &amp; eSports Index）為參考指數</p>
+            </div>
+			
+            <p>以前電子遊戲多半是下載程式到電腦，或購買遊戲主機的個人或家庭娛樂，所以很難達到群聚效應。然而在娛樂線上化、行動化後，遊戲規則完全改變，在業者大力推廣電子遊戲定期競賽，並透過社群平台的推波助瀾後，電競賽事從小眾變大眾市場，全球觀眾從各種網路平台如亞馬遜的Twitch、YouTube、騰訊等收看。根據Newzoo統計，2019年觀看人數達4.6億人，比NBA的2.31億人多出一倍，預估2023年將達6.5億人。當全世界約有9％的人口都在關注電競時，您怎能忽略其龐大的商機。</p>
+			<p>當然「工欲善其事，必先利其器」，電競比賽之所以好看、爆發，遊戲開發商的投入自然不可少，高手過招周邊配備當然與眾不同，更要有平台即時轉播及網紅的強力放送匯集人流，並吸引廣告及贊助商熱情參與，讓整體電競產業動了起來，同時擴及全球、氣勢驚人，包括NBA與MLB先後投入，奧林匹克的正式比賽也將出現電競項目，手機大廠華碩、小米也積極搶食這塊大餅，推出高階電競手機，希望從電腦衍生至手機，連蘋果也可能在年底前加入競爭行列。</p>
+			<p>大咖看重電競後市，電競指數表現同樣不俗，2012/6/18以來(8/14日止)高達588.34%，比那斯達克還猛上1.1倍，即便遇到百年難得一見的超級利空新冠疫情阻礙，也擋不住其攻勢，今年以來依舊上漲39％，3月低檔以來強彈65%，再創歷史新高。由此可見，電競不是沒出息的行業，而是一顆正冉冉升空的閃耀之星，亦是新時代、新科技背景下的娛樂大商機。</p>
+			<p>或許你我世代不同，觀念不同，但追求快樂的需求絕對相同，電競這個新時代的娛樂，不但老少咸宜，連男女都通吃，玩出的快樂商機自然不可小覷。</p>
+            <div class="chart">
+                
+                <h4>Stoxx全球 eSports 遊戲電競與那斯達克指數表現</h4>
+                <img src="images/topic2_2.png">
+                <p class="ex">資料來源：Bloomberg，百揚投資整理，截至2020/8/14，統計自 STOXX 全球遊戲電競指數（STOXX Global ex China A Video Gaming &amp; eSports Index）起始日 2012/6/18。<strong>以過去績效進行模擬情境之報酬率，僅為歷史資料模擬結果，不代表任何基金或相關投資組合實際報酬率及未來績效保證；不同時間進行模擬操作，結果可能不同</strong></p>
+            </div>
+            
+      </div>
+  </div>
+</div>
+<footer>
+    <div class="container py-5">
+        <p>
+            <strong>百揚投資獨立經營管理。本基金經金管會核准或同意生效，惟不表示絕無風險。基金經理公司以往之經理績效不保證基金之最低投資收益；基金經理公司除盡善良管理人之注意義務外，不負責基金之盈虧，亦不保證最低之收益，投資人申購前應詳閱基金公開說明書。有關基金應負擔之費用及基金之相關投資風險已揭露於基金之公開說明書或投資人須知中，基金經理公司及各銷售機構備有公開說明書，歡迎索取，或自行至基金經理公司官網（www.fsitc.com.tw）、公開資訊觀測站（mops.twse.com.tw）下載。匯率走勢可能影響所投資之海外資產而使資產價值變動。本資料提及之經濟走勢預測不必然代表該基金之績效，基金投資風險請詳閱基金公開說明書。以過去績效進行模擬投資組合之報酬率，僅為歷史資料模擬投資組合之結果，不代表任何基金或相關投資組合之實際報酬及未來績效保證；不同時間進行模擬操作，結果可能不同。本資料提及之企業、指數或投資標的，僅為舉例說明之用，不代表任何投資之推薦。基金風險報酬等級，依投信投顧公會分類標準，由低至高分為RR1~RR5等五個等級。此分類係基於一般市況反映市場價格波動風險，無法涵蓋所有風險，不宜作為投資唯一依據，投資人仍應注意所投資基金之個別風險，並考量個人風險承擔能力、資金可運用期間等，始為投資判斷。本基金之風險可能含有產業景氣循環變動、流動性不足、外匯管制、投資地區政經社會變動或其他投資風險。遞延手續費N級別，持有未滿1、2、3年，手續費率分別為3%、2%、1%，於買回時以申購金額、贖回金額孰低計收，滿3年者免付。</strong><span class="note">（第一金證券投資信託股份有限公司 | 台北市民權東路三段 6 號 7 樓 | 02-2504-1000）</span>
+        </p>
+    </div>
+</footer>
+<div class="fixed-side">
+    <ul class="d-none d-md-block">
+        <li><a href="https://www.fsitc.com.tw/etrade" target="_blank"><img src="images/fixed-01.png"></a></li>
+        <li><a href="https://www.fsitc.com.tw/opensingin.aspx" target="_blank"><img src="images/fixed-02.png"></a></li>
+        <li><a href="https://www.fsitc.com.tw/ContactUs.aspx" target="_blank"><img src="images/fixed-03.png"></a></li>
+        <li><a href="#top"><img src="images/fixed-04.png"></a></li>
+    </ul>
+    <div class="row mx-0 d-md-none">
+        <div class="col-4"><a href="https://www.fsitc.com.tw/etrade" target="_blank">立即下單</a></div>
+        <div class="col-4"><a href="https://www.fsitc.com.tw/opensingin.aspx" target="_blank">我要開戶</a></div>
+        <div class="col-4"><a href="https://www.fsitc.com.tw/ContactUs.aspx" target="_blank">跟我聯絡</a></div>
+    </div>
+</div>
+<!--<a href="#top" class="gotop d-md-none"><img src="images/top.png"></a>//-->
+<script src="js/jquery-3.4.1.min.js"></script>
+<script src="js/jquery.scrollTo.min.js"></script>
+<script src="js/aos.js"></script>
+<script src="js/slick.min.js"></script>
+<script src="js/jquery.nav.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>

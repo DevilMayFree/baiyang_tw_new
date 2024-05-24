@@ -1,0 +1,347 @@
+
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>百揚投資</title>
+    <!-- favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="/Etrade/Content/images/favicon.ico">
+    <!-- JS_CSS -->
+    <link href="/Etrade/Content/css/jquery.mmenu.css" rel="stylesheet" type="text/css">
+    <link href="/Etrade/Content/css/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css">
+    <!-- CSS -->
+    <link href="/Etrade/Content/css/global.css?20231221" rel="stylesheet" type="text/css">
+    <link href="/Etrade/Content/css/index.css?20231129" rel="stylesheet" type="text/css">
+    <link href="/Etrade/Content/css/inner.css?v=20231221" rel="stylesheet" type="text/css">
+    <link href="/Etrade/Content/css/forVuefix.css" rel="stylesheet" type="text/css">
+    
+    <style type="text/css">
+        [v-cloak] {
+            display: none !important;
+        }
+    </style>
+</head>
+<body>
+    <!-- page -->
+    <div class="page" id="vueAppTemplate" v-cloak>
+        <!-- popup -->
+        <div v-cloak :class="(alertMessage!='')? 'popup open' : 'popup'">
+    <!-- open -->
+    <div class="pagesize">
+        <div class="popup_area">
+            <h3 class="popup_title" v-html="alertMessage"></h3>
+            <div class="btn" v-if="alertNoContinue">
+                <a style="cursor:pointer" v-on:click="alertMessage = ''">確定</a>
+            </div>
+            <div class="btn" v-else>
+                <a style="cursor:pointer" v-on:click="alertContinue">確定</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+        <!-- wrapper -->
+        <div class="wrapper">
+            <div class="header">
+                <div class="pagesize">
+                    <a class="header_logo" href="https://www.fsitc.com.tw/" target="_blank"></a>
+                    <div class="web header_inner">
+                        <div class="btn_header">
+                            
+                            
+                            <a class="line" href="http://line.me/ti/p/%40xmz3656a"></a>
+                        </div>
+                    </div>
+                    <!-- 小網menu -->
+                    <div class="mobile header_inner">
+                        <div class="btn_header">
+                            <a class="line" href="http://line.me/ti/p/%40xmz3656a"></a>
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- container -->
+            
+
+<div class="container">
+<form action="/Etrade/Login/Reset" id="sForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="ROdpIfDxN4brQ27qg9Jfmh5YIMoqi100Xh-81CQsFUdBg2wk5104ZcQgEkf23n-kFsTT2hDJMvXVtC9Z8Z_4bLtg0ps1" />        <div class="pagesize">
+            <!-- 登入會員-->
+            <div class="signIn">
+                <div class="inputBox">
+                    <h2>忘記使用者代碼/密碼</h2>
+                    <p class="tSmall color_red botM1">僅提供本國自然人及外國自然人線上補發使用者代碼/密碼</p>
+                    <ul class="formboxList">
+                        <li>
+                            <div class="formbox input">
+                                <div class="formbox_title">補發項目</div>
+                                <div class="formbox_inner">
+                                    <div class="formbox_inner">
+
+                                        <input type="checkbox" id="kind_1" value="1" v-model="kinds" name="kinds">
+                                        <label for="kind_1">
+                                            <span class="icon"></span>使用者代碼
+                                        </label>
+
+                                        <input type="checkbox" id="kind_2" value="2" v-model="kinds" name="kinds">
+                                        <label for="kind_2">
+                                            <span class="icon"></span>密碼
+                                        </label>
+                                    </div>
+                                    <p v-if="$v.kinds.$error" class="tSmall color_red" v-html="vErrMsg($v.kinds)"></p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="formbox input">
+                                <div class="formbox_title">身分證號</div>
+                                <div class="formbox_inner">
+                                    <div class="formbox_inner formbox_function">
+                                        <input type="text" name="userAName" v-model.trim="$v.userAccount.$model" placeholder="請輸入身分證字號或居留證字號" maxlength="10" @keyup="ToUpper()" v-if="eyeShow" />
+                                        <input type="password" name="userAName" v-model.trim="$v.userAccount.$model" placeholder="請輸入" maxlength="10" @keyup="ToUpper()" v-if="!eyeShow" />
+                                        <a href="javascript:void(0)" class="btn_eye" @click="toggleEye($event)"></a>
+                                    </div>
+                                    <p v-if="$v.userAccount.$error" class="tSmall color_red" v-html="vErrMsg($v.userAccount)"></p>
+                                </div>
+                            </div>
+                        </li>
+                        
+                        <li>
+                            <div class="formbox input">
+                                <div class="formbox_title">生日</div>
+                                <div class="formbox_inner">
+                                    <div class="formbox_inner">
+                                        <input type="text" name="userBirth" maxlength="7" v-model.trim="$v.userBirth.$model" placeholder="請輸入民國年共7碼，如：0540101" />
+                                        <p v-if="$v.userBirth.$error" class="tSmall color_red" v-html="vErrMsg($v.userBirth)"></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="formbox input">
+                                <div class="formbox_title">原留電話</div>
+                                <div class="formbox_inner">
+                                    <div class="formbox_inner">
+                                        <input type="text" name="userTel" maxlength="20" v-model.trim="$v.userTel.$model" placeholder="請輸入電話號碼，不含區碼及分機" />
+                                        <p v-if="$v.userTel.$error" class="tSmall color_red" v-html="vErrMsg($v.userTel)"></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="formbox input">
+                                <div class="formbox_title">原留信箱</div>
+                                <div class="formbox_inner">
+                                    <div class="formbox_inner">
+                                        <input type="text" name="userEmail" maxlength="40" v-model.trim="$v.userEmail.$model" placeholder="請輸入信箱" />
+                                        <p v-if="$v.userEmail.$error" class="tSmall color_red" v-html="vErrMsg($v.userEmail)"></p>
+                                        <p class="tSmall color_red">如果您已忘記原留之Email／聯絡電話，請洽客服人員0800-005-908，或下載<a href="https://www.fsitc.com.tw/ViewFile.aspx?path=5&amp;id=29" target="_blank">受益人基本資料、印鑑(含姓名)變更申請書</a>辦理。謝謝！</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="formbox input">
+                                <div class="formbox_title">驗證碼</div>
+                                <div class="formbox_inner">
+                                    <div class="formbox_inner formbox_flex">
+                                        <input type="text" name="checkCode" maxlength="4" v-model.trim="$v.checkCode.$model" placeholder="請輸入驗證碼">
+                                        <img id="vcodeimg" src="/Etrade/Login/GetImage/1" alt="圖片驗證碼" @click="clickRemoveChangeCode" />
+                                    </div>
+                                    <p v-if="$v.checkCode.$error" class="tSmall color_red" v-html="vErrMsg($v.checkCode)"></p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+
+                    <div class="btn btn_main botM3">
+                        <a class="btn_submit" href="javascript:void(0)" v-on:click="submit">確定</a>
+                    </div>
+                </div>
+
+                <div class="noticeBox">
+                    <p class="color_red">
+                        提醒您：<br />
+                        ＊以上所填資料需與您原留資料一致。系統確認無誤後，將發送新密碼至您原留電子信箱，若十分鐘後未收到，歡迎來電 0800-005-908為您服務。
+                        <br />
+                        ＊微軟自2022年6月15日起已停止支援IE瀏覽器，建議您透過Chrome、Firefox、Edge等瀏覽器進行操作，以獲得較佳的瀏覽體驗。
+                    </p>
+                </div>
+            </div>
+
+        </div>
+</form></div>
+
+
+
+            <div class="footer">
+    <div class="pagesize">
+        <div class="footer_inner">
+            <div class="footer_text">
+                <div class="footer_link">
+                    
+                    <a href="https://www.fsitc.com.tw/FooterLink.aspx?ID=1006" target="_blank">隱私權政策</a>
+                    <a href="https://www.fsitc.com.tw/FooterLink.aspx?ID=1007" target="_blank">使用本站政策</a>
+                    <a href="https://www.fsitc.com.tw/FooterLink.aspx?ID=1008" target="_blank">投資人資安手冊</a>
+                    <a href="https://www.fsitc.com.tw/FooterLink.aspx?ID=1009" target="_blank">蒐集個資應告知事項</a>
+                </div>
+                <div class="footer_info">
+                    <span>第一金證券投資信託股份有限公司 版權所有</span>
+                    <span>台北市10477民權東路三段6號7樓</span>
+                    <span>公司電話：(02)2504-1000</span>
+                    <span>客服中心諮詢專線：0800-005-908 ｜ 客服諮詢傳真：(02)2515-5628</span>
+                    <span>樂齡諮詢專線：(02)2506-3855</span>
+                    <span>客服電子信箱：service@fsitc.com.tw ｜ 臨櫃服務：請事先來電客服中心預約</span>
+                    <span>營業人：第一金證券投資信託股份有限公司 ｜ 營利事業統一編號：22102023</span>
+                </div>
+            </div>
+            <div class="footer_map">
+                <a href="https://www.fsitc.com.tw/ManagerBranch.aspx?ID=3" target="_blank">台北總公司</a>
+                <a href="https://www.fsitc.com.tw/ManagerBranch.aspx?ID=1" target="_blank">新竹分公司</a>
+                <a href="https://www.fsitc.com.tw/ManagerBranch.aspx?ID=2" target="_blank">台中分公司</a>
+                <a href="https://www.fsitc.com.tw/ManagerBranch.aspx?ID=4" target="_blank">高雄分公司</a>
+            </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+    <script src="/Etrade/Scripts/jquery-3.6.0.min.js" type="text/javascript"></script>
+    <script src="/Etrade/Scripts/vue.2.0.js" type="text/javascript"></script>
+    <script src="/Etrade/Scripts/vuelidate/vuelidate.min.js" type="text/javascript"></script>
+    <script src="/Etrade/Scripts/vuelidate/validators.min.js" type="text/javascript"></script>
+    <script src="/Etrade/Scripts/swiper/vue.awesome-swiper.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        var mixinArray = []; var componentObjs = {};
+        var rootPath = '/Etrade';
+        Vue.use(vuelidate.default);
+        var _v = validators;
+        var _vwp = vuelidate.withParams;
+    </script>
+    <script src="/Etrade/Scripts/js/main.js?v=20231115"></script>
+    <script src="/Etrade/Scripts/js/globalsite.js?20230105" type="text/javascript"></script>
+    <script src="/Etrade/Scripts/dist/utils/helpers.js"></script>
+    
+    <script type="text/javascript">
+        var mainPageValidationsMixin = {
+            data: {
+                kinds: JSON.parse('[]'),
+                userAccount: '',
+                userBirth: '',
+                userTel: '',
+                userEmail: '',
+                checkCode: '',
+                submitStatus: null
+            },
+            validations: {
+                kinds: {
+                    required: _vwp({ msg: '請勾選需要補發項目' }, _v.required)
+                },
+                userAccount: {
+                    required: _vwp({ msg: '請輸入身分證字號、統一編號或護照號碼' }, _v.required),
+                    regex: _vwp({ msg: '請輸入正確格式' }, _v.helpers.regex('regex', new RegExp('^([A-Z]{0,1}[0-9]{9}$)|^([0-9]{8,9}$)|^([A-Z]{0,2}[0-9]{8}$)'))),
+                },
+                /*
+                userName: {
+                    required: _vwp({ msg: '請輸入姓名' }, _v.required),
+                },*/
+                userBirth: {
+                    required: _vwp({ msg: '請輸入民國年共7碼，如：0540101' }, _v.required),
+                    regex: _vwp({ msg: '請輸入民國年共7碼，如：0540101' }, _v.helpers.regex('regex', new RegExp('^[0-1]\\d{1,2}[0-1]\\d[0-3]\\d$'))),
+                },
+                userTel: {
+                    required: _vwp({ msg: '請輸入電話號碼，不含區碼' }, _v.required),
+                    regex: _vwp({ msg: '請輸入正確格式' }, _v.numeric),
+                },
+                userEmail: {
+                    required: _vwp({ msg: '請輸入信箱' }, _v.required),
+                    email: _vwp({ msg: '請輸入正確格式' }, _v.email),
+                },
+                checkCode: {
+                    required:_vwp({ msg: '請輸入驗證碼' }, _v.required),
+                },
+            },
+            methods: {
+                submit: function () {
+                    if (this.submitStatus == 'OK') {
+                        return;
+                    }
+
+                    this.submitStatus = 'PENDING'
+                    this.$v.$touch()
+                    if (this.$v.$invalid) {
+                        this.submitStatus = 'ERROR'
+                    } else {
+                        this.submitStatus = 'OK'
+                        $("#sForm").submit();
+                    }
+                }
+            }
+        };
+        mixinArray.push(mainPageValidationsMixin);
+    </script>
+    <script src="/Etrade/Scripts/dist/Login/Reset.js?20231206" type="text/javascript"></script>
+
+
+    <script type="text/javascript">
+        var app = new Vue({
+            el: '#vueAppTemplate',
+            mixins: mixinArray,
+            data: {
+                alertNoContinue: true,
+                alertMessage: '', alertBtn: '',
+            },
+            methods: {
+                vErrMsg: function (validateModel) {
+                    return getFieldErrMsg(validateModel);
+                },
+                alertContinue: function () {
+                    if (this.alertNoContinue == false && typeof this.pageAlert !== "undefined") {
+                        this.pageAlert();
+                    } else {
+                        //console.log("alertContinue function not exsit.")
+                        this.alertMessage = '';
+                        this.alertBtn = '確定';
+                        this.alertNoContinue = true;
+                    }
+                },
+            },
+            mounted: function () {
+            },
+            beforeCreate: function () {
+                //IE把placeholder,避免觸發vuelidate
+                if (window.navigator.userAgent.match(/MSIE|Trident/)) {
+                    $('input[type=text]').each(function () {
+                        var $t = $(this);
+                        $t.attr("placeholder", "");
+                    });
+                    $('input[type=password]').each(function () {
+                        var $t = $(this);
+                        $t.attr("placeholder", "");
+                    });
+                }
+            }
+        });
+
+        //取得vuelidate的錯誤訊息
+        function getFieldErrMsg(validation) {
+            if (validation.$error) {
+                var rtnMsg = [];
+                $.each(validation, function (key, val) {
+                    if (key.charAt(0) !== "$" && val == false) {
+                        $.each(validation.$params, function (key2, value) {
+                            if (key === key2) {
+                                rtnMsg.push(value["msg"]);
+                            }
+                        });
+                    }
+                });
+                return rtnMsg.join("<br/>");
+            }
+        }
+    </script>
+</body>
+</html>

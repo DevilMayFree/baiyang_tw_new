@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<title>年輕無價 ‧ 商機無限</title>
+<meta name="keywords" content="百揚投資, 基金, 全球股票型, 趨勢, 電競, 遊戲, 健康瘦身, 寵物, 毛孩, 毛小孩, eSports, Fitness, pet, 投資, 理財,">
+<meta name="description" content="電競玩出新高度，全球也出現越來越多的遊戲玩家、網紅，市調機構預估，未來三年全世界玩家人數突破 30 億人，等於每三人就有一個玩家！有人有商機！快瞭解...">
+<meta property="og:title" content="快樂新商機，電競 • 來勁">
+<meta property="og:url" content="https://www.fsitc.com.tw/act/202008_ynlefp/inpage-1.html?utm_source=fb&utm_medium=fb02&utm_campaign=ipo">
+<meta property="og:image" content="https://www.fsitc.com.tw/act/202008_ynlefp/images/20200825_FB.jpg" />
+<meta property="og:description" content="電競玩出新高度，全球也出現越來越多的遊戲玩家、網紅，市調機構預估，未來三年全世界玩家人數突破 30 億人，等於每三人就有一個玩家！有人有商機！快瞭解... ">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66853120-16"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66853120-16');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66853120-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-66853120-7');
+</script>
+
+<!-- Global site tag (gtag.js) - AdWords: 793074866 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-793074866"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-793074866');
+</script>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:400,500,700,900&display=swap&subset=chinese-traditional">
+<link rel="stylesheet" href="css/bootstrap-reboot.min.css">
+<link rel="stylesheet" href="css/bootstrap-grid.min.css">
+<link rel="stylesheet" href="css/slick.css">
+<link rel="stylesheet" href="css/style.min.css">
+<link rel="stylesheet" href="css/aos.css">
+
+</head>
+<body>
+<header>
+    <div class="container d-flex justify-content-between align-items-center">
+        <div class="">
+            <a href="https://www.fsitc.com.tw" target="_blank"><img src="images/logo.svg" class="logo"></a>
+        </div>
+        <div>
+            <a href="#" class="toggle" onclick="myFunction(this)">
+                <span class="bar1"></span>
+                <span class="bar2"></span>
+                <span class="bar3"></span>
+            </a>
+            <ul class="menu text-center">
+                <li class="page"><a href="index.html#section1" class="external">年輕<br><span class="icon-dot"></span><br>新生活</a></li>
+                <li class="page"><a href="index.html#s-item02" class="external">電競<br><span class="icon-dot"></span><br>玩起來</a></li>
+                <li class="page"><a href="index.html#s-item01" class="external">健身<br><span class="icon-dot"></span><br>動起來</a></li>
+                <li class="page"><a href="index.html#s-item03" class="external">寵物<br><span class="icon-dot"></span><br>毛起來</a></li>
+                <li class="page current"><a href="list.html" class="external">投資<br><span class="icon-dot"></span><br>看專題</a></li>
+                <!--<li class="page"><a href="javascript:;" class="external">優惠<br><span class="icon-dot"></span><br>拿到手</a></li>-->
+                <li class="socials">
+                    <a href="http://line.me/ti/p/%40xmz3656a" target="_blank" class="external"><img src="images/icon-line.svg"></a>
+                    <a href="https://www.facebook.com/FSITCeFunds/" target="_blank" class="external"><img src="images/icon-fb.svg"></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</header>
+<div id="section2" class="list-banner">
+    <h2 class="text-center">年輕無價 商機無限</h2>
+    <h1 class="text-center">第一金<span>年輕<span class="icon-dot"></span>新生活</span>傘型基金</h1>
+    <ul>
+        <li>全球 eSports <br>電競基金</li>
+		<li>全球 Fitness <br>健康瘦身基金</li>
+        <li>全球 Pet <br>毛小孩基金</li>
+    </ul>
+</div>
+<div class="inpage">
+    <div class="container">
+        <h2 class="inpage-title mb-4">新生活商機，投資看專題</h2>
+        <div class="content">
+          
+            <h3>》快樂新商機，電競 • 來勁</h3>
+            <p>以前，大家認為打球沒前途，但社會觀念改變，現在，打球不只是運動、是個人興趣，也可以很有出息、可大賺錢的職業！如進入NBA、大聯盟等級的球員，年薪動輒千萬美元起跳，因為這些職業比賽背後，有一個龐大收視群、成群的贊助商及消費金額驚人的運動市場！現在，一種因Z世代而興起的運動競賽，它潛在商機比各種球類都可觀，它就是電子遊戲競技，簡稱電競。</p>
+            <p>如果你以為，電競等於打電動，那可是天大的誤會！電競，不只是打發時間的娛樂，更是融合戰略、技巧、速度、團隊的競賽。根據Newzoo預估，目前全球遊戲產業約為1600億美元，比電影、音樂加起來還多兩倍，且每年還以9%的速度成長；重要的是，隨著電競職業化的發展，現在觀眾人數已經超越美國NBA職籃，且在競賽的可看性越來越高，聚集大批觀眾的同時，金流來了，媒體、廣告、贊助商、周邊商品成為營收強勁成長的來源，預期未來5年，會以18%的速度擴張，成為一股不可忽視的新興娛樂投資機會。</p>
+			<p>你知道嗎？電競的直播網紅，年薪就輕易超過千萬美元；一場電競遊戲冠軍隊伍的獎金，高達1500萬美元，幾乎是NBA冠軍球隊的4倍有餘。如果你已經錯過當電競選手的黃金年齡，也不知道如何當網紅，分食電競的轉播大餅，為了幫你圈住這股由Z世代蔓延開來的新商機，百揚投資繼科技進化的AI系列之後，全新推出以人口及社會變遷下衍生的年輕新生活傘型基金，其中全球eSports電競基金鎖定老少咸宜的快樂商機，投資以遊戲開發、營運平台、遊戲設備三大主軸，精選全世界優質的遊戲、電競企業股票，基金的標竿指數近8年表現，年化報酬率高達26.21%，年化波動16.78%，報酬風險1.56倍，遠超過MSCI世界指數，精彩度跟電競一樣炫目奪人。</p>
+            <div class="chart">
+                
+                <h4>STOXX 全球遊戲電競指數 歷史回測表現</h4>
+                <img src="images/topic1_1.png">
+                <p class="ex">資料來源：Bloomberg，百揚投資整理，統計自 STOXX 全球遊戲電競指數（原名 STOXX Global ex China A Video Gaming &amp; eSports Index）起始日 2012/6/18 至 2020/7/31。<strong>以過去績效進行模擬情境之報酬率，僅為歷史資料模擬結果，不代表任何基金或相關投資組合實際報酬率及未來績效保證；不同時間進行模擬操作，結果可能不同</strong></p>
+            </div>
+            
+      </div>
+  </div>
+</div>
+<footer>
+    <div class="container py-5">
+        <p>
+            <strong>百揚投資獨立經營管理。本基金經金管會核准或同意生效，惟不表示絕無風險。基金經理公司以往之經理績效不保證基金之最低投資收益；基金經理公司除盡善良管理人之注意義務外，不負責基金之盈虧，亦不保證最低之收益，投資人申購前應詳閱基金公開說明書。有關基金應負擔之費用及基金之相關投資風險已揭露於基金之公開說明書或投資人須知中，基金經理公司及各銷售機構備有公開說明書，歡迎索取，或自行至基金經理公司官網（www.fsitc.com.tw）、公開資訊觀測站（mops.twse.com.tw）下載。匯率走勢可能影響所投資之海外資產而使資產價值變動。本資料提及之經濟走勢預測不必然代表該基金之績效，基金投資風險請詳閱基金公開說明書。以過去績效進行模擬投資組合之報酬率，僅為歷史資料模擬投資組合之結果，不代表任何基金或相關投資組合之實際報酬及未來績效保證；不同時間進行模擬操作，結果可能不同。本資料提及之企業、指數或投資標的，僅為舉例說明之用，不代表任何投資之推薦。基金風險報酬等級，依投信投顧公會分類標準，由低至高分為RR1~RR5等五個等級。此分類係基於一般市況反映市場價格波動風險，無法涵蓋所有風險，不宜作為投資唯一依據，投資人仍應注意所投資基金之個別風險，並考量個人風險承擔能力、資金可運用期間等，始為投資判斷。本基金之風險可能含有產業景氣循環變動、流動性不足、外匯管制、投資地區政經社會變動或其他投資風險。遞延手續費N級別，持有未滿1、2、3年，手續費率分別為3%、2%、1%，於買回時以申購金額、贖回金額孰低計收，滿3年者免付。</strong><span class="note">（第一金證券投資信託股份有限公司 | 台北市民權東路三段 6 號 7 樓 | 02-2504-1000）</span>
+        </p>
+    </div>
+</footer>
+<div class="fixed-side">
+    <ul class="d-none d-md-block">
+        <li><a href="https://www.fsitc.com.tw/etrade" target="_blank"><img src="images/fixed-01.png"></a></li>
+        <li><a href="https://www.fsitc.com.tw/opensingin.aspx" target="_blank"><img src="images/fixed-02.png"></a></li>
+        <li><a href="https://www.fsitc.com.tw/ContactUs.aspx" target="_blank"><img src="images/fixed-03.png"></a></li>
+        <li><a href="#top"><img src="images/fixed-04.png"></a></li>
+    </ul>
+    <div class="row mx-0 d-md-none">
+        <div class="col-4"><a href="https://www.fsitc.com.tw/etrade" target="_blank">立即下單</a></div>
+        <div class="col-4"><a href="https://www.fsitc.com.tw/opensingin.aspx" target="_blank">我要開戶</a></div>
+        <div class="col-4"><a href="https://www.fsitc.com.tw/ContactUs.aspx" target="_blank">跟我聯絡</a></div>
+    </div>
+</div>
+<!--<a href="#top" class="gotop d-md-none"><img src="images/top.png"></a>//-->
+<script src="js/jquery-3.4.1.min.js"></script>
+<script src="js/jquery.scrollTo.min.js"></script>
+<script src="js/aos.js"></script>
+<script src="js/slick.min.js"></script>
+<script src="js/jquery.nav.js"></script>
+<script src="js/site.js"></script>
+</body>
+</html>

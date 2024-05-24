@@ -1,0 +1,8 @@
+﻿.Popup-box {
+    animation: none;
+}
+
+    .Popup-box.active {
+        animation: Popup_show .3s cubic-bezier(0.2, 0.64, 0.26, 0.97) 1;
+        animation-fill-mode: forwards
+    }

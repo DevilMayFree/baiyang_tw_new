@@ -1,0 +1,137 @@
+
+//<p>Title: WebATM web JavaScript files</p>
+//
+//20160309
+		var mlIsLoad=false;
+        var mlOsType="41";
+		var mlBrowserType="41";
+		var ml_appName = navigator.appName;
+		var ml_platform = navigator.platform;
+		var ml_userAgent=navigator.userAgent;
+		switch(ml_platform)
+		{
+			case "Win32":
+			   mlOsType="11";
+			   break;
+			case "Win64":
+			   mlOsType="12";
+			   break;
+			case "MacIntel"://
+                mlOsType="29";
+			   if ((ml_userAgent.indexOf("Mac OS X 10.4")!= -1) || (ml_userAgent.indexOf("Mac OS X 10_4")!= -1))
+			   {
+			       mlOsType="21";
+			   }
+				if ((ml_userAgent.indexOf("Mac OS X 10.5")!= -1) || (ml_userAgent.indexOf("Mac OS X 10_5")!= -1))
+			   {
+			       mlOsType="22";
+			   }
+			   if ((ml_userAgent.indexOf("Mac OS X 10.6")!= -1) || (ml_userAgent.indexOf("Mac OS X 10_6")!= -1))
+			   {
+			       mlOsType="23";
+			   }
+			   if ((ml_userAgent.indexOf("Mac OS X 10.7")!= -1) || (ml_userAgent.indexOf("Mac OS X 10_7")!= -1))
+			   {
+			       mlOsType="24";
+			   }
+			   if ((ml_userAgent.indexOf("Mac OS X 10.8")!= -1) || (ml_userAgent.indexOf("Mac OS X 10_8")!= -1))
+			   {
+			       mlOsType="25";
+			   }
+			   if ((ml_userAgent.indexOf("Mac OS X 10.9")!= -1) || (ml_userAgent.indexOf("Mac OS X 10_9")!= -1))
+			   {
+			       mlOsType="26";
+			   }
+			   if ((ml_userAgent.indexOf("Mac OS X 10.10")!= -1) || (ml_userAgent.indexOf("Mac OS X 10_10")!= -1))
+			   {
+			       mlOsType="27";
+			   }
+			   break;
+			case "Linux i686":
+			   mlOsType="31";
+			   break;
+			default:
+			   mlOsType="41";
+			   break;
+		}
+		
+		if (mlOsType=="41")
+		{
+          //alert("本系統未支援您的作業系統平台 ml_platform:<"+ml_platform+"> ml_userAgent:<"+ml_userAgent+">");
+		}
+		switch(ml_appName)
+		{
+		     case "Microsoft Internet Explorer":
+			     mlBrowserType="11";
+			     break;
+ 		     case "Netscape":
+ 		       if (ml_userAgent.indexOf("Trident")!= -1)
+			     {
+			        mlBrowserType="11";//20150623 for IE11
+			     }
+                 if (ml_userAgent.indexOf("Edge")!= -1)
+			     {
+			        mlBrowserType="12";//20151229 for Edge
+			     }
+			     if (ml_userAgent.indexOf("Firefox")!= -1)
+			     {
+			        mlBrowserType="21";
+			     }
+			     if (ml_userAgent.indexOf("Chrome")!= -1)
+			     {
+			        mlBrowserType="22";
+			     }
+			     else
+                 {
+			        if (ml_userAgent.indexOf("Safari")!= -1)
+			        {
+			           mlBrowserType="23";//20160104
+			        }
+                 }
+			     break;
+			  case "Opera":
+			     mlBrowserType="24";
+			     break;
+		     default:
+			     mlBrowserType="41";
+			     break;
+		}
+		
+		if (mlBrowserType=="41")
+		{
+         //alert("本系統未支援您的瀏覽器類型ml_appName:<"+ml_appName+"> ml_userAgent:<"+ml_userAgent+">");
+		}
+
+		
+		if (mlOsType=="11")
+		{
+		    if (mlBrowserType == "11" || mlBrowserType == "12" || mlBrowserType == "21" || mlBrowserType == "22" || mlBrowserType == "23" || mlBrowserType == "24")//20160309
+			{
+			 mlIsLoad=true;
+			}
+			else
+			{
+			
+			}
+		}
+		
+		if ((mlOsType=="23")||(mlOsType=="24")||(mlOsType=="25")||(mlOsType=="26")||(mlOsType=="27")||(mlOsType=="29"))//20161212
+		{
+			if(mlBrowserType=="21"||mlBrowserType=="22"||mlBrowserType=="23")
+			{
+			 mlIsLoad=true;
+			}
+			else
+			{
+			
+			}
+		}
+if (mlIsLoad==true)
+{
+	//alert("load");
+var ports=[8007,9007,443];
+eval(function(p,a,c,k,e,d){e=function(c){return(c<a?"":e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)d[e(c)]=k[c]||e(c);k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1;};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p;}('e c$=["","","","\\1f\\a\\k\\l\\b\\q","\\d\\y\\j\\I\\a\\k\\2","\\s\\a\\s\\s\\G\\j\\k\\R\\b\\j\\r\\1\\l\\a","\\y\\j\\I\\a\\k","\\N\\j\\r\\b",\'\\t\\k\\w\\a\\1b\\G\\k\\a\\w\',"\\N\\j\\r\\b","\\q\\b\\b\\O\\s\\1P\\1t\\1t\\f\\g\\Z\\1v\\S\\1v\\S\\1v\\f\\1P","\\1t\\1H\\a\\1F\\m\\y\\1p\\3c","\\j\\O\\a\\k","\\N\\35\\R\\y","\\s\\a\\k\\w","\\r\\a\\s\\O\\j\\k\\s\\a\\y\\a\\1q\\b","\\N\\j\\r\\b","\\z\\a\\s\\s\\1\\l\\a","\\S\\Y\\Y","\\37\\f\\Y\\Y","","\\s\\O\\1f\\G\\b","\\Y\\Y","\\S","\\D\\D\\D\\D","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\1G\\a\\b\\u\\j\\z\\1o\\a\\r\\s\\G\\j\\k","\\D\\D\\D\\D","\\X\\W\\1a\\1c","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\J\\j\\B\\k\\O\\t\\b","\\O\\1\\r\\s\\a\\B\\k\\b","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\R\\a\\b\\u\\1\\r\\w\\m\\o\\b\\G\\U\\a","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\J\\j\\m\\o\\b\\G\\U\\a\\y\\m\\u","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\u\\q\\a\\o\\I\\u\\1\\r\\w\\m\\o\\b\\G\\U\\a","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\u\\j\\k\\k\\a\\o\\b\\J\\r\\G\\U\\a\\r","\\D\\D\\D\\D","\\X\\W\\1a\\1c","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\J\\G\\s\\o\\j\\k\\k\\a\\o\\b\\J\\r\\G\\U\\a\\r","\\D\\D\\D\\D","\\X\\W\\1a\\1c","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\K\\G\\s\\b\\H\\a\\1\\w\\a\\r\\s\\v\\1\\z\\a","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\u\\q\\a\\o\\I\\u\\1\\r\\w\\B\\k\\s\\a\\r\\b","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\u\\j\\k\\k\\a\\o\\b\\u\\1\\r\\w","\\D\\D\\D\\D","\\X\\W\\1a\\1c","\\3d","\\S","\\y\\j\\I\\a\\k","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\J\\G\\s\\o\\j\\k\\k\\a\\o\\b\\u\\1\\r\\w","\\D\\D\\D\\D","\\X\\W\\1a\\1c","\\y\\j\\I\\a\\k","\\t\\k\\w\\a\\1b\\G\\k\\a\\w","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\u\\q\\a\\o\\I\\u\\1\\r\\w\\u\\q\\1\\k\\l\\a","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\H\\a\\1\\w\\M\\1\\s\\G\\o\\J\\1\\b\\1","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\H\\a\\1\\w\\m\\t\\b\\q\\B\\k\\m\\o\\o\\b\\v\\j","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\R\\a\\b\\H\\a\\1\\w\\a\\r\\y\\L\\O\\a\\d\\1\\x\\2","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\1o\\a\\r\\G\\1b\\L\\N\\B\\v\\d\\1\\x\\2","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\u\\q\\1\\k\\l\\a\\N\\B\\v\\d\\1\\x\\2","\\d\\1\\16\\2","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\J\\j\\K\\j\\l\\G\\k\\y\\m\\u","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\J\\j\\B\\k\\1E\\t\\G\\r\\L\\y\\m\\u\\d\\1\\x\\2","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\J\\j\\y\\r\\1\\k\\s\\1b\\a\\r\\y\\m\\u\\d\\1\\x\\2","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\J\\j\\N\\1\\L\\y\\1\\1q\\y\\m\\u\\d\\1\\x\\2","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\J\\j\\N\\1\\L\\1j\\a\\a\\y\\m\\u\\d\\1\\x\\2","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\J\\j\\B\\k\\s\\M\\j\\r\\r\\j\\1u\\y\\m\\u\\d\\1\\x\\2","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\H\\a\\1\\w\\y\\m\\u\\K\\j\\l","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\1G\\a\\b\\m\\b\\z\\u\\j\\w\\a\\d\\1\\x\\2","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\J\\j\\N\\1\\L\\1p\\j\\k\\a\\L\\y\\m\\u\\d\\1\\x\\2","\\1\\f\\2\\z\\b\\q\\d\\1\\g\\2\\J\\j\\v\\a\\b\\1F\\1\\k\\I\\y\\m\\u\\d\\1\\x\\2","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\1o\\1\\1f\\t\\a","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\1o\\1\\1f\\t\\a\\y\\m\\u","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\u\\1\\r\\w\\y\\L\\O\\a","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\u\\1\\r\\w\\B\\s\\m\\o\\b\\G\\U\\a","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\H\\1\\k\\w\\j\\z\\v\\j","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\1p\\1\\s\\b\\a\\r\\m\\o\\o\\j\\t\\k\\b\\v\\j","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\y\\m\\u\\K\\j\\l\\D","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\y\\m\\u\\K\\j\\l\\1K","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\y\\m\\u\\K\\j\\l\\Z","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\y\\m\\u\\K\\j\\l\\1k","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\y\\m\\u\\K\\j\\l\\1i","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\y\\m\\u\\K\\j\\l\\16","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\y\\m\\u\\K\\j\\l\\x","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\y\\m\\u\\K\\j\\l\\g","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\y\\m\\u\\K\\j\\l\\f","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\y\\m\\u\\K\\j\\l\\S","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\1Q\\k\\o\\y\\m\\u","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\B\\o\\o\\R\\a\\1E\\v\\j","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\o\\o\\j\\t\\k\\b\\u\\j\\t\\k\\b","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\R\\a\\s\\s\\G\\j\\k\\y\\m\\u","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\u\\j\\t\\k\\b","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\m\\o\\o\\j\\t\\k\\b\\v\\j\\Z","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\m\\o\\o\\j\\t\\k\\b\\v\\j\\1k","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\m\\o\\o\\j\\t\\k\\b\\v\\j\\1i","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\m\\o\\o\\j\\t\\k\\b\\v\\j\\16","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\m\\o\\o\\j\\t\\k\\b\\v\\j\\x","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\m\\o\\o\\j\\t\\k\\b\\v\\j\\g","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\m\\o\\o\\j\\t\\k\\b\\v\\j\\f","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\m\\o\\o\\j\\t\\k\\b\\v\\j\\S","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\M\\1\\k\\I\\v\\j\\Z","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\M\\1\\k\\I\\v\\j\\1k","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\M\\1\\k\\I\\v\\j\\1i","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\M\\1\\k\\I\\v\\j\\16","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\M\\1\\k\\I\\v\\j\\x","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\M\\1\\k\\I\\v\\j\\g","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\M\\1\\k\\I\\v\\j\\f","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\t\\b\\q\\B\\k\\M\\1\\k\\I\\v\\j\\S","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\u\\1\\r\\w\\v\\j","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\o\\o\\j\\t\\k\\b\\v\\j\\Z","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\o\\o\\j\\t\\k\\b\\v\\j\\1k","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\o\\o\\j\\t\\k\\b\\v\\j\\1i","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\o\\o\\j\\t\\k\\b\\v\\j\\16","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\o\\o\\j\\t\\k\\b\\v\\j\\x","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\o\\o\\j\\t\\k\\b\\v\\j\\g","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\o\\o\\j\\t\\k\\b\\v\\j\\f","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\m\\o\\o\\j\\t\\k\\b\\v\\j\\S","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\u\\1\\r\\w\\H\\a\\z\\1\\r\\I","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\B\\s\\s\\t\\a\\r\\M\\1\\k\\I\\v\\j","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\s\\q\\R\\1H\\f\\g","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\u\\1\\r\\w\\u\\q\\1\\k\\l\\a","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\H\\a\\1\\w\\a\\r\\B\\k\\s\\a\\r\\b","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\H\\a\\1\\w\\a\\r\\v\\1\\z\\a","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\H\\a\\1\\w\\a\\r\\D","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\H\\a\\1\\w\\a\\r\\1K","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\H\\a\\1\\w\\a\\r\\Z","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\H\\a\\1\\w\\a\\r\\1k","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\H\\a\\1\\w\\a\\r\\1i","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\H\\a\\1\\w\\a\\r\\16","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\H\\a\\1\\w\\a\\r\\x","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\H\\a\\1\\w\\a\\r\\g","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\H\\a\\1\\w\\a\\r\\f","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\H\\a\\1\\w\\a\\r\\S","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\H\\a\\1\\w\\a\\r\\u\\j\\t\\k\\b","\\1\\f\\2\\l\\a\\b\\d\\1\\g\\2\\1Q\\r\\r\\j\\r\\B\\k\\1b\\j","\\D\\D\\D\\D","\\X\\W\\1a\\1c","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\1b\\v\\a\\1u\\N\\G\\k\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\B\\k\\m\\o\\o\\j\\t\\k\\b\\v\\j\\R\\q\\j\\1u\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\1s\\a\\L\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\k\\j\\k\\j\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\1p\\a\\r\\o\\q\\1\\k\\b\\B\\w\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\m\\o\\o\\j\\t\\k\\b\\v\\1\\z\\a\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\1s\\G\\k\\w\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\1j\\a\\a\\y\\L\\O\\a\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\1j\\a\\a\\v\\1\\z\\a\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\m\\l\\a\\k\\b\\M\\1\\k\\I\\v\\j\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\B\\k\\m\\o\\o\\j\\t\\k\\b\\v\\j\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\R\\a\\r\\U\\a\\r\\J\\1\\b\\a\\y\\G\\z\\a\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\B\\k\\M\\1\\k\\I\\v\\j\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\m\\z\\j\\t\\k\\b\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\m\\o\\o\\j\\t\\k\\b\\v\\j\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\1j\\w\\u\\q\\I\\u\\j\\w\\a\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\N\\u\\j\\w\\a\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\R\\a\\s\\s\\G\\j\\k\\1s\\a\\L\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\H\\a\\1\\w\\a\\r\\y\\L\\O\\a\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\H\\a\\1\\w\\a\\r\\v\\1\\z\\a\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\y\\1q\\k\\v\\1\\z\\a\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\y\\1q\\k\\y\\L\\O\\a\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\u\\q\\1\\k\\k\\a\\1f\\d\\1\\x\\2","\\1\\f\\2\\s\\a\\b\\d\\1\\g\\2\\1j\\w\\B\\w\\d\\1\\x\\2"];E 1R(9){e T=c$[0];e 1z=1r;e 1x=c$[0];e 1h=c$[0];e 1C=1r;e 2e=1w;1A{2f(1e=1m;1e<1O[c$[3]];1e++){1A{e 1g=2a 2b();e 1I=c$[4]+C[c$[5]][c$[6]];P(2c C[c$[5]][c$[7]]!==c$[8]&&1C==1r){1h=C[c$[5]][c$[7]];1C=1y;1e--}1J{1h=1O[1e]};1x=c$[10]+1h+c$[11]+9+1I;1g[c$[12]](c$[13],1x,1r);1g[c$[14]](1M);T=1g[c$[15]];1g=1M;1z=1y;C[c$[5]][c$[7]]=1h;1U}1D(1n){T=1n[c$[17]]}};P(1z==1y){T=c$[18]+T}1J{T=c$[19]+T};h T}1D(1n){}};E i(9){e 1d=c$[0];1A{1d=1R(9);e V=1d[c$[21]](c$[22]);P(V[1m]!=c$[23]){h c$[24]};h V[1w]}1D(1n){}};e 1W={1X:E(){e 9=c$[25];e Q=i(9);P(Q==c$[24])1l c$[27];h Q},20:E(){e 9=c$[28];h C[c$[29]](i(9))},2D:E(){e 9=c$[30];h C[c$[29]](i(9))},2E:E(){e 9=c$[31];h C[c$[29]](i(9))},2F:E(){e 9=c$[32];h C[c$[29]](i(9))},2A:E(){e 9=c$[33];e Q=i(9);P(Q==c$[24])1l c$[27];h C[c$[29]](i(9))},2B:E(){e 9=c$[36];e Q=i(9);P(Q==c$[24])1l c$[27];h C[c$[29]](i(9))},2C:E(){e 9=c$[39];h C[c$[29]](i(9))},2G:E(){e 9=c$[40];h C[c$[29]](i(9))},2K:E(){e 9=c$[41];e 1B=i(9);P(1B==c$[24])1l c$[27];e V=1B[c$[21]](c$[44]);P(V[1m]==c$[23]){C[c$[5]][c$[6]]=V[1w]};h C[c$[29]](V[1m])},2J:E(){e 9=c$[47];e 1d=i(9);P(1d==c$[24])1l c$[27];C[c$[5]][c$[6]]=c$[51];h C[c$[29]](1d)},2q:E(){e 9=c$[52];h C[c$[29]](i(9))},2r:E(){e 9=c$[53];h C[c$[29]](i(9))},2m:E(){e 9=c$[54];h C[c$[29]](i(9))},2n:E(n){e 9=c$[55]+A(n);h C[c$[29]](i(9))},2o:E(n){e 9=c$[56]+A(n);h C[c$[29]](i(9))},2s:E(n,1L){e 9=c$[57]+A(n)+c$[58]+A(1L);h C[c$[29]](i(9))},2w:E(){e 9=c$[59];h C[c$[29]](i(9))},2x:E(n){e 9=c$[2y]+A(n);h C[c$[29]](i(9))},2t:E(n){e 9=c$[2u]+A(n);h C[c$[29]](i(9))},2v:E(n){e 9=c$[5Q]+A(n);h C[c$[29]](i(9))},5A:E(n){e 9=c$[5G]+A(n);h C[c$[29]](i(9))},5H:E(n){e 9=c$[5J]+A(n);h C[c$[29]](i(9))},5z:E(){e 9=c$[5D];h C[c$[29]](i(9))},5K:E(n){e 9=c$[5j]+A(n);h C[c$[29]](i(9))},5i:E(n){e 9=c$[5c]+A(n);h C[c$[29]](i(9))},5f:E(n){e 9=c$[5y]+A(n);h C[c$[29]](i(9))},p 5m(){e 9=c$[5r];h i(9)},p 5s(){e 9=c$[5o];h i(9)},p 5p(){e 9=c$[5t];h i(9)},p 3a(){e 9=c$[5w];h i(9)},p 5v(){e 9=c$[5n];h i(9)},p 5g(){e 9=c$[5e];h i(9)},p 5d(){e 9=c$[5h];h i(9)},p 5l(){e 9=c$[5O];h i(9)},p 5k(){e 9=c$[5L];h i(9)},p 5N(){e 9=c$[5M];h i(9)},p 5R(){e 9=c$[5P];h i(9)},p 5B(){e 9=c$[5E];h i(9)},p 5I(){e 9=c$[5F];h i(9)},p 5C(){e 9=c$[4f];h i(9)},p 4e(){e 9=c$[4g];h i(9)},p 4d(){e 9=c$[4a];h i(9)},p 49(){e 9=c$[4c];h i(9)},p 4b(){e 9=c$[4o];h i(9)},p 4n(){e 9=c$[4q];h i(9)},p 4p(){e 9=c$[4m];h i(9)},p 4j(){e 9=c$[4i];h i(9)},p 4l(){e 9=c$[4k];h i(9)},p 48(){e 9=c$[3S];h i(9)},p 3R(){e 9=c$[3U];h i(9)},p 3T(){e 9=c$[3Q];h i(9)},p 3N(){e 9=c$[3M];h i(9)},p 3P(){e 9=c$[3O];h i(9)},p 43(){e 9=c$[42];h i(9)},p 46(){e 9=c$[45];h i(9)},p 3Z(){e 9=c$[3W];h i(9)},p 3V(){e 9=c$[3Y];h i(9)},p 3X(){e 9=c$[4r];h i(9)},p 4R(){e 9=c$[4Q];h i(9)},p 4T(){e 9=c$[4S];h i(9)},p 4P(){e 9=c$[4M];h i(9)},p 4L(){e 9=c$[4O];h i(9)},p 4N(){e 9=c$[50];h i(9)},p 4Z(){e 9=c$[5b];h i(9)},p 5a(){e 9=c$[4Y];h i(9)},p 4V(){e 9=c$[4U];h i(9)},p 4X(){e 9=c$[4W];h i(9)},p 4K(){e 9=c$[4y];h i(9)},p 4x(){e 9=c$[4A];h i(9)},p 4z(){e 9=c$[4w];h i(9)},p 4t(){e 9=c$[4s];h i(9)},p 4v(){e 9=c$[4u];h i(9)},p 4H(){e 9=c$[4G];h i(9)},p 4J(){e 9=c$[4I];h i(9)},p 4F(){e 9=c$[4C];h i(9)},p 4B(){e 9=c$[4E];h i(9)},p 4D(){e 9=c$[4h];h i(9)},p 1N(){e 9=c$[5x];h i(9)},p 5q(){e 9=c$[5u];h i(9)},p 2p(){e 9=c$[2z];h i(9)},p 2I(){e 9=c$[2H];h i(9)},p 2M(){e 9=c$[2L];h i(9)},p 1V(){e 9=c$[1Y];h i(9)},p 26(){e 9=c$[1Z];h i(9)},p 1S(){e 9=c$[1T];h i(9)},p 2i(){e 9=c$[2h];h i(9)},p 2g(){e 9=c$[2l];h i(9)},p 2k(){e 9=c$[2j];h i(9)},p 2d(){e 9=c$[3u];h i(9)},p 3t(){e 9=c$[3s];e Q=i(9);P(Q==c$[24])h c$[27];h Q},F 3x(n){e 9=c$[3w]+A(n);h i(9)},F 3v(n){e 9=c$[3r]+A(n);h i(9)},F 3n(n){e 9=c$[3m]+A(n);h i(9)},F 3l(n){e 9=c$[3q]+A(n);h i(9)},F 3p(n){e 9=c$[3o]+A(n);h i(9)},F 3y(n){e 9=c$[3I]+A(n);h i(9)},F 3H(n){e 9=c$[3G]+A(n);h i(9)},F 3L(n){e 9=c$[3K]+A(n);h i(9)},F 3J(n){e 9=c$[3F]+A(n);h i(9)},F 3B(n){e 9=c$[3A]+A(n);h i(9)},F 3z(n){e 9=c$[3E]+A(n);h i(9)},F 3D(n){e 9=c$[3C]+A(n);h i(9)},F 3k(n){e 9=c$[2W]+A(n);h i(9)},F 2V(n){e 9=c$[2U]+A(n);h i(9)},F 2Z(n){e 9=c$[2Y]+A(n);h i(9)},F 2X(n){e 9=c$[2T]+A(n);h i(9)},F 2P(n){e 9=c$[2O]+A(n);h i(9)},F 2N(n){e 9=c$[2S]+A(n);h i(9)},F 2R(n){e 9=c$[2Q]+A(n);h i(9)},F 1N(n){e 9=c$[34]+A(n);h i(9)},F 3g(n){e 9=c$[3f]+A(n);h i(9)},F 3e(n){e 9=c$[3j]+A(n);h i(9)},F 3i(n){e 9=c$[3h]+A(n);h i(9)},F 38(n){e 9=c$[3b]+A(n);h i(9)}}',62,364,'|x61|x3d|||||||str|x65|x74|_|x26|var|x31|x32|return|send|x6f|x6e|x67|x41|s1|x63|get|x68|x72|x73|x75|x43|x4e|x64|x33|x54|x6d|encodeURIComponent|x49|window|x39|function|set|x69|x52|x6b|x44|x4c|x79|x42|x50|x70|if|tmp|x53|x30|resp|x76|sp|u7dda|u9023|x7c|x37|||||||x34||||u5931|x66|u6557|ret|iii|x6c|xhr|tport|x35|x46|x36|throw|0x0|err|x56|x4d|x78|false|x4b|x2f|x77|x2e|0x1|URL|true|isOK|try|rec|sess|catch|x71|x62|x47|x57|str2|else|x38|s2|null|ReaderName|ports|x3a|x45|post|Reader3|127|break|Reader5|FCBWebATMObj|GetComVersion|125|126|DoInput||||||Reader4||||new|XMLHttpRequest|typeof|ReaderCount|firstport|for|Reader1|128|Reader2|130|Reader0|129|ReadAuthInAcctNo|SetReaderType|VerifyPIN|Reader8|CheckCardChange|ReadBasicData|ChangePIN|DoTransferTAC|61|DoPayTaxTAC|DoLoginTAC|DoInquiryTAC|60|122|ConnectDriver|DisconnectDriver|ListReadersName|SetCardActive|DoActiveTAC|CheckCardActive|CheckCardInsert|123|Reader7|DisconnectCard|ConnectCard|124|Reader6|SessionKey|151|PCode|153|ReaderType|152|150|148|Amount|147|FdChkCode|149|AccountNo|||||154|x4f||x2d|FdId||CardIsActive|158|x3f|x2c|TxnType|155|TxnName|157|Channel|156|InBankNo|nono|137|Key|139|MerchantId|138|136|132|ErrorInfo|131|InAccountNoShow|135|fNewPin|AccountName|InAccountNo|144|AgentBankNo|146|ServerDateTime|145|143|141|Kind|140|FeeName|142|FeeType|94|AuthInAccountNo3|95|AuthInAccountNo2|93|AuthInAccountNo5|91|AuthInAccountNo4|92|AuthInBankNo6|98|AuthInBankNo5|99|AuthInBankNo7|||96|AuthInAccountNo1||97|AuthInAccountNo0||AuthInAccountNo6|EncTAC|84|IccSeqNo|85|TACLog0|TACLog1|82|83|119|89|AuthInCount|90|AuthInAccountNo7|88|AccountCount|86|SessionTAC|87|100|113|AccountNo1|114|AccountNo0|112|AccountNo3|110|AccountNo2|111|CardChange|117|ReaderInsert|118|shSW12|115|CardRemark|116|IssuerBankNo|AccountNo4|AuthInBankNo1|103|AuthInBankNo0|104|AuthInBankNo2|101|AuthInBankNo4|102|AuthInBankNo3|108|AccountNo6|109|AccountNo5|107|CardNo|105||||||||||AccountNo7|106|67|TACLog9|74|DoNetbankTAC|MasterAccountNo|75|DoPayMoneyTAC|66|TACLog7|TACLog8|Value|73|70|CardType|Reader9|69|ValueTAC|71|121|RandomNo|72|120|68|ReadTACLog|DoPayFeeTAC|TACLog4|TACLog2|65|80|81|63|DoInsBorrowTAC|TACLog3|64|GetAtmCode|77|78|TACLog6|76|79|62|TACLog5'.split('|'),0,{}))
+}			
+			
+		
+	

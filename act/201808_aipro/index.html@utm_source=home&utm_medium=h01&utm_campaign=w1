@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="keywords" content="AI,人工智慧,機器人,自動化,工業4.0,FinTech,金融科技,眾籌,P2P,機器人理財,保險,資料處理,資安,群眾募資,行動支付,嗶經濟,區塊鍊,大數據,即時數據,AI精準醫療,精準醫療,健康產業,基因定序,醫療革命,醫療突破,醫療商機,智慧醫院,未來醫院,輔助醫療,個人化醫療,健康監測,醫療商機,大健康產業,生命科學"/>
+    <meta name="description" content="AI趨勢當道，商機大飛躍，想掌握先機，指名第一金！"/>
+    <meta property="og:title" content="AI基金專家 ‧ 百揚投資"/>
+    <meta property="og:description" content="AI趨勢當道，商機大飛躍，想掌握先機，指名第一金！"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="https://www.fsitc.com.tw/act/201808_aipro/index.html"/>
+    <meta property="og:image" content="https://www.fsitc.com.tw/act/201808_aipro/assets/images/fb_share.jpg"/>
+    <link rel="shortcut icon" href="assets/images/favicon.ico"/>
+    <link rel="apple-touch-icon" href=""/>
+    <link rel="stylesheet" href="assets/styles/main.css"/>
+    <title>AI基金專家 ‧ 百揚投資</title>
+	  
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66853120-11"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	
+	  gtag('config', 'UA-66853120-11');
+	</script>
+  
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66853120-7"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	
+	  gtag('config', 'UA-66853120-7');
+	</script>
+
+	<!-- Global site tag (gtag.js) - AdWords: 793074866 -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=AW-793074866"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	
+	  gtag('config', 'AW-793074866');
+	</script>
+	 <!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZJQYX5JPZX"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	  gtag('config', 'G-ZJQYX5JPZX');
+	</script>
+
+  </head>
+  <body>
+    <header id="menu">
+      <div class="inner">
+        <div class="logo"><a href=""><img src="assets/images/icon-logo.png" alt="百揚投資"/></a></div>
+        <nav class="menu">
+          <li><a href="tech.html"></a></li>
+          <li><a href="robot.html"></a></li>
+          <li><a href="fintech.html"></a></li>
+          <li><a href="med.html"></a></li>
+        </nav>
+        <div class="links"><a href="#" class="home"><img src="assets/images/icon-home_m.png" alt="回到首頁"/></a><a href="#" class="fb"><img src="assets/images/icon-fb_m.png" alt="facebook"/></a><a href="https://line.me/R/ti/p/%40xmz3656a" target="_blank" class="line"><img src="assets/images/icon-line_m.png" alt="line"/></a></div>
+        <div class="bottom menu-switch">
+          <div class="title robot"></div>
+          <div class="arrow"></div>
+        </div>
+      </div>
+    </header>
+    <div id="mobile_menu">
+      <nav class="menu">
+        <li><a href="tech.html"></a></li>
+        <li><a href="robot.html"></a></li>
+        <li><a href="fintech.html"></a></li>
+        <li><a href="med.html"></a></li>
+      </nav>
+      <div class="links"><a href="#" class="home"><img src="assets/images/icon-home_m.png" alt="回到首頁"/></a><a href="#" class="fb"><img src="assets/images/icon-fb_m.png" alt="facebook"/></a><a href="https://line.me/R/ti/p/%40xmz3656a" target="_blank" class="line"><img src="assets/images/icon-line_m.png" alt="line"/></a></div>
+      <div class="bottom menu-switch">
+        <div class="title robot"></div>
+        <div class="arrow"></div>
+      </div>
+    </div>
+    <main>
+      <section id="kv" class="active">
+        <div class="part part_1">
+          <div class="inner">
+            <h1 class="kv_tit"><img src="assets/images/kv_title_1.png" alt="AI基金專家‧百揚投資" class="title"/>
+              <p>AI 趨勢當道，投資商機起飛，<br/>你的投資組合裡，不能沒有AI。<br/>百揚投資掌握先機，率先發行 AI 系列基金，<br/>帶你邁向財富自由的第一步！</p>
+              <p class="bb">想要專人諮詢，現在就來電 <span class="red">0800-005-908</span>，<br/>或留下聯絡資料，我們將盡快聯絡您！</p><a href="https://www.fsitc.com.tw/etrade" target="_blank"><img src="assets/images/btns/btn_rightnow.png" alt="立即下單" class="btn"/></a>
+            </h1>
+            <div class="kv_tit"><img src="assets/images/man.png" alt=""/></div><img src="assets/images/btns/btn_scroll.png" alt="" class="btn btn-scroll"/>
+          </div>
+        </div>
+        <div class="part part_2">
+          <div class="inner">
+            <h2><img src="assets/images/kv_title_2.png" alt="" class="title pc"/><img src="assets/images/kv_title_2_m.png" alt="" class="title m"/></h2>
+            <div class="cards pc">
+              <div title="AI X 技術" class="item">
+                <p>每一次重大科技變革，都引領世界經濟大爆發！如今「AI人工智慧」成為全球產業新共主，各行各業趨之若鶩、全力投入…</p>
+              </div>
+              <div title="AI X 製造" class="item">
+                <p>進入工業4.0時代，AI人工智慧、機器人技術日益成熟，機器人走入我們的生活，背後又帶來許多驚人的投資商機…</p>
+              </div>
+              <div title="AI X 金融" class="item">
+                <p>傳統金融遇上新科技，大大改變過去金融服務型態，提高效率、降低成本、帶來客流，伴隨而來的投資機會不容小覷…</p>
+              </div>
+              <div title="AI X 醫療" class="item">
+                <p>受惠 AI 技術突飛猛進，全球醫療業正邁向全面精準化、個人化、預防重於治療的趨勢，帶領醫療生態體系走向全新領域，也帶來百歲人生的百年新商機…</p>
+              </div>
+            </div>
+            <div class="cards m">
+              <div title="AI X 技術" class="item tech">
+                <p>每一次重大科技變革，都引領世界經濟大爆發！如今「AI人工智慧」成為全球產業新共主，各行各業趨之若鶩、全力投入…</p>
+              </div>
+              <div title="AI X 製造" class="item robot">
+                <p>進入工業4.0時代，AI人工智慧、機器人技術日益成熟，機器人走入我們的生活，背後又帶來許多驚人的投資商機…</p>
+              </div>
+              <div title="AI X 金融" class="item fintech">
+                <p>傳統金融遇上新科技，大大改變過去金融服務型態，提高效率、降低成本、帶來客流，伴隨而來的投資機會不容小覷…</p>
+              </div>
+              <div title="AI X 醫療" class="item med">
+                <p>受惠 AI 技術突飛猛進，全球醫療業正邁向全面精準化、個人化、預防重於治療的趨勢，帶領醫療生態體系走向全新領域，也帶來百歲人生的百年新商機…</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="sec1">
+        <div class="loading"><img src="assets/images/icon-loading.jpg" alt=""/></div>
+        <div class="wrap">
+          <div class="slider_area">
+            <div id="slider1" rel="robot" class="robot">
+              <div class="item kv">
+                <div class="inner center"><img src="assets/images/robot/kv_robot.png" alt="機器人的好 我們都知道" class="title pc"/><img src="assets/images/robot/kv_robot_m_2x.png" alt="機器人的好 我們都知道" class="title m"/>
+                  <div class="slick-arrow robot m"></div>
+                </div>
+              </div>
+              <div class="item item1">
+                <div class="inner"><img src="assets/images/robot/sec1_title.png" alt="第一金全球AI機器人及自動化產業基金" class="title pc"/><img src="assets/images/robot/sec1_title_m_2x.png" alt="第一金全球AI機器人及自動化產業基金" class="title m"/>
+                  <p>全台第一檔全球AI機器人及自動化產業基金，專注在機器人及自動化產業的發展趨勢、相關個股之營運績效追蹤，以期在掌握趨勢前提下，兼顧投資表現的爆發力與穩定度。</p>
+                  <div class="circles">
+                    <div class="circle">
+                      <h2>獨特</h2>
+                      <p>全台首檔聚焦機器人及自動化產業之基金</p>
+                    </div>
+                    <div class="circle">
+                      <h2>全面</h2>
+                      <p>投資涵蓋技術和應用層面</p>
+                    </div>
+                    <div class="circle">
+                      <h2>專業</h2>
+                      <p>投資顧問 ROBO-Global，專注機器人、自動化之發展趨勢</p>
+                    </div>
+                  </div><a href="https://www.fsitc.com.tw/FundDetail.aspx?ID=D54" target="_blank"><img src="assets/images/robot/sec1_detail_m_2x.png" alt="看更多" class="detail"/></a>
+                  <!--<div class="bottom_outter">
+                    <div class="ratio1">0%</div>
+                    <div class="ratio2">0.1%</div><img src="assets/images/robot/sec1_bottom.png" alt="優惠內容" class="bottom pc"/><img src="assets/images/robot/sec1_bottom_m_2x.png" alt="優惠內容" class="bottom m"/><a href=https://www.fsitc.com.tw/ManagerEDM.aspx?ID=3260&Type=4&utm_source=home-aipro&utm_medium=h02&utm_campaign=re-2105_w1" target="_blank" class="discount">優惠內容</a>
+                  </div>--><img src="assets/images/cutline_m.png" alt="" class="cutline m"/>
+                </div>
+              </div>
+              <div class="item item2">
+                <div class="inner"><img src="assets/images/robot/sec2_title.png" alt="機器人，將領導下波產業革命！ ─ 比爾·蓋茲(微軟創辦人)" class="title pc"/><img src="assets/images/robot/sec2_title_m_2x.png" alt="機器人，將領導下波產業革命！ ─ 比爾·蓋茲(微軟創辦人)" class="title m"/>
+                  <p>30年前，人手一台電腦，被認為不可能；如今人類生活，脫離不了電腦。<br class="m"/><img src="assets/images/robot/sec2_pic1_m_2x.png" alt="30年前，人手一台電腦，被認為不可能；如今人類生活，脫離不了電腦。" class="m"/><br/>10年前，手機取代電腦，看似無稽之談；現在智慧手機，已經無所不在。<br class="m"/><img src="assets/images/robot/sec2_pic2_m_2x.png" alt="30年前，人手一台電腦，被認為不可能；如今人類生活，脫離不了電腦。" class="m"/><br/>也許你來不及參與、或錯過了PC與智慧手機帶動的投資榮景，但這次，迎向智慧生產、智能社會的新時代機器人及自動化產業引領的第四次工業革命，近在眼前。<br/>你，準備好了嗎？<br class="m"/><img src="assets/images/robot/sec2_pic3_m_2x.png" alt="30年前，人手一台電腦，被認為不可能；如今人類生活，脫離不了電腦。" class="m"/></p><img src="assets/images/cutline_m.png" alt="" class="cutline m"/>
+                </div>
+              </div>
+              <div class="item item3">
+                <div class="inner"><img src="assets/images/robot/sec3_title.png" alt="全球機器人＋自動化產業" class="title pc"/><img src="assets/images/robot/sec3_title_2x.png" alt="全球機器人＋自動化產業" class="title m"/>
+                  <p>全台首檔聚焦AI機器人及自動化產業之基金，投資涵蓋工業自動化製造、倉儲、智慧家電、無人機、電動車、微創手術等技術與應用，是你參與未來智慧生活大趨勢的第一選擇！</p><img src="assets/images/robot/sec3_trees.png" alt="獨特性全台第一, 前瞻性掌握未來" class="trees pc"/><img src="assets/images/robot/sec3_trees1_m_2x.png" alt="獨特性全台第一" class="trees m"/><img src="assets/images/robot/sec3_trees2_m_2x.png" alt="前瞻性掌握未來" class="trees m"/><img src="assets/images/cutline_m.png" alt="" class="cutline m"/>
+                </div>
+              </div>
+              <div class="item item4">
+                <div class="inner"><img src="assets/images/robot/sec4_title.png" alt="工業機器人夯，成長態勢猛烈" class="title pc"/><img src="assets/images/robot/sec4_title_m_2x.png" alt="工業機器人夯，成長態勢猛烈" class="title m"/>
+                  <p>機器人製造技術不斷成熟，IFR 預估，全球工業機器人使用量於 2017 年正式突破 200 萬台，2018-2020 年更將以 14% 的年均複合成長率高速擴張版圖，預計於 2020 年超過 300 萬台。</p>
+                </div>
+                <div class="chart"><img src="assets/images/robot/sec4_chart.png" alt="全球工業機器人使用量 未來三年再增百萬" class="pc"/><img src="assets/images/robot/sec4_chart_m_2x.png" alt="全球工業機器人使用量 未來三年再增百萬" class="m"/>
+                  <div class="source">資料來源：IFR、百揚投資整理，2018/5/30</div>
+                </div>
+                <div class="inner"><img src="assets/images/cutline_m.png" alt="" class="cutline m"/></div>
+              </div>
+              <div class="item item5">
+                <div class="inner center"><img src="assets/images/robot/sec5_title.png" alt="美好未來 ‧「機」不可失" class="title pc"/><img src="assets/images/robot/sec5_title_2x.png" alt="美好未來 ‧「機」不可失" class="title m"/>
+                  <iframe src="https://www.youtube.com/embed/gXyJWGxJJ0c?rel=0&amp;enablejsapi=1" frameborder="0" allow="encrypted-media" allowfullscreen="allowfullscreen" class="youtube"></iframe><img src="assets/images/cutline_m.png" alt="" class="cutline m"/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="sec2">
+        <div class="loading"><img src="assets/images/icon-loading.jpg" alt=""/></div>
+        <div class="wrap">
+          <div class="slider_area">
+            <div id="slider2" rel="fintech" class="fintech">
+              <div class="item kv">
+                <div class="inner"><img src="assets/images/fintech/kv_fintech_m_2x.png" alt="當金融遇上科技 FinTech 開啟投資新視野" class="title m"/>
+                  <div class="slick-arrow fintech m"></div>
+                </div>
+              </div>
+              <div class="item item1">
+                <div class="inner"><img src="assets/images/fintech/sec1_title.png" alt="第一金全球AI Fintech 金融科技基金" class="title pc"/><img src="assets/images/fintech/sec1_title_2x.png" alt="第一金全球AI Fintech 金融科技基金" class="title m"/>
+                  <p>領先全球，聚焦投資於 FinTech 產業大趨勢的共同基金，涵蓋運用網路平台、雲端及大數據計算、行動通訊、社群聯結等技術，提供之金融服務、資料分析、介面設計、軟體研發、物聯網及無線通訊等相關企業，以掌握 FinTech 成長契機！</p>
+                  <div class="circles">
+                    <div class="circle">
+                      <h2>獨特</h2>
+                      <p>領先全球，聚焦投資於 FinTech 產業大趨勢的共同基金</p>
+                    </div>
+                    <div class="circle">
+                      <h2>全面</h2>
+                      <p>全球布局，囊括美、歐、亞、中、印，兼顧大 / 中 / 小型及穩健 / 成長型股</p>
+                    </div>
+                    <div class="circle">
+                      <h2>專業</h2>
+                      <p>投資顧問 Morgan Stanley，全球高手，台灣唯一受託顧問之基金</p>
+                    </div>
+                  </div><a href="https://www.fsitc.com.tw/FundDetail.aspx?ID=D58" target="_blank"><img src="assets/images/fintech/sec1_detail_m_2x.png" alt="看更多" class="detail"/></a>
+                  <!--<div class="bottom_outter">
+                    <div class="ratio1">0%</div>
+                    <div class="ratio2">0.1%</div><img src="assets/images/fintech/sec1_bottom.png" alt="優惠內容" class="bottom pc"/><img src="assets/images/fintech/sec1_bottom_m_2x.png" alt="優惠內容" class="bottom m"/><a href="https://www.fsitc.com.tw/ManagerEDM.aspx?ID=3323&Type=4&utm_source=home-aipro&utm_medium=h02&utm_campaign=re-2106_w1" target="_blank" class="discount">優惠內容</a>
+                  </div>--><img src="assets/images/cutline_fintech_m.png" alt="" class="cutline m"/>
+                </div>
+              </div>
+              <div class="item item2">
+                <div class="inner"><img src="assets/images/fintech/sec2_title.png" alt="Banking is necessary, Banks are NOT ─ 比爾·蓋茲(微軟創辦人)" class="title pc"/><img src="assets/images/fintech/sec2_title_m_2x.png" alt="Banking is necessary, Banks are NOT ─ 比爾·蓋茲(微軟創辦人)" class="title m"/>
+                  <p>過去，Tech 曾經幫助過 Fin，像是 1950 年代出現的信用卡，還是 1970 年代出現的 ATM，或是 2000 年以後的網路銀行。結果提高了 Fin 的效率、降低 Fin 的成本、增加 Fin 的客戶。<br/>現在，Tech 技術更進步，想進一步分食 Fin 的大餅。過去金融業想像不到的，科技發展出更多創新的金融服務。</p><img src="assets/images/fintech/sec2_graph.png" alt="產品, 客戶, 業務, 工具" class="graph pc"/><img src="assets/images/fintech/sec2_graph_m_2x.png" alt="產品, 客戶, 業務, 工具" class="graph m"/><img src="assets/images/cutline_fintech_m.png" alt="" class="cutline m"/>
+                </div>
+              </div>
+              <div class="item item3">
+                <div class="inner center"><img src="assets/images/fintech/sec3_title.png" alt="FinTech 金融科技應用，涵蓋七大層面" class="title pc"/><img src="assets/images/fintech/sec3_title_m_2x.png" alt="FinTech 金融科技應用，涵蓋七大層面" class="title m"/>
+                  <p>
+                     
+                    要付錢，不用掏錢包，手機一嗶就完成；想理財，不需找顧問，智能理財好方便；買車險，不當冤大頭，優良駕駛省保費…<br/>金融科技服務層出不窮，商機自然也就汨汨湧現！<br/>第一金全球AI FinTech金融科技基金，領先全球，聚焦投資於FinTech產業大趨勢，涵蓋七大應用層面，掌握FinTech 成長契機！
+                  </p>
+                  <div class="pics"><img src="assets/images/fintech/sec3_pic1_2x.png" alt="" class="pic m"/><img src="assets/images/fintech/sec3_pic2_2x.png" alt="" class="pic m"/><img src="assets/images/fintech/sec3_pic3_2x.png" alt="" class="pic m"/><img src="assets/images/fintech/sec3_pic4_2x.png" alt="" class="pic m"/><img src="assets/images/fintech/sec3_pic5_2x.png" alt="" class="pic m"/><img src="assets/images/fintech/sec3_pic6_2x.png" alt="" class="pic m"/><img src="assets/images/fintech/sec3_pic7_2x.png" alt="" class="pic m"/></div><img src="assets/images/cutline_fintech_m.png" alt="" class="cutline m"/>
+                </div>
+                <div class="chart pc"><img src="assets/images/fintech/sec3_pic.png" alt=""/></div>
+              </div>
+              <div class="item item4">
+                <div class="inner"><img src="assets/images/fintech/sec4_title.png" alt="看好 FinTech，資金蜂擁投入" class="title pc"/><img src="assets/images/fintech/sec4_title_2x.png" alt="看好 FinTech，資金蜂擁投入" class="title m"/>
+                  <p>FinTech前景一片光明，隨著技術逐漸成熟、應用加速落地，FinTech不斷推動金融行業進化，全球投資也看準這趨勢蜂擁而至，根據Statista預估，未來3年，全球FinTech投資金額將以年均複合成長率15.3%的速度成長，力道不容忽視。</p>
+                </div>
+                <div class="chart"><img src="assets/images/fintech/sec4_chart.png" alt="全球 FinTech 投資總金額 (億美元)" class="pc"/><img src="assets/images/fintech/sec4_chart_m_2x.png" alt="全球 FinTech 投資總金額 (億美元)" class="m"/>
+                  <div class="source">資料來源：Statista、百揚投資整理，2018/2</div>
+                </div>
+                <div class="inner"><img src="assets/images/cutline_fintech_m.png" alt="" class="cutline m"/></div>
+              </div>
+              <div class="item item5">
+                <div class="inner center"><img src="assets/images/fintech/sec5_title.png" alt="當金融遇上科技，FinTech開啟投資新視野" class="title pc"/><img src="assets/images/fintech/sec5_title_m_2x.png" alt="當金融遇上科技，FinTech開啟投資新視野" class="title m"/>
+                  <div class="pad">
+                    <iframe src="https://www.youtube.com/embed/m_mDh7h2oT0?rel=0&amp;enablejsapi=1" frameborder="0" allow="encrypted-media" allowfullscreen="allowfullscreen" class="youtube"></iframe>
+                  </div><img src="assets/images/cutline_fintech_m.png" alt="" class="cutline m"/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="sec3">
+        <div class="loading"><img src="assets/images/icon-loading.jpg" alt=""/></div>
+        <div class="wrap">
+          <div class="slider_area">
+            <div id="slider3" rel="med" class="med">
+              <div class="item kv">
+                <div class="inner"><img src="assets/images/med/kv_med.png" alt="精準醫療 啟動百年大商機！" class="title pc"/><img src="assets/images/med/kv_med_m_2x.png" alt="精準醫療 啟動百年大商機！" class="title m"/>
+                  <div class="slick-arrow med m"></div>
+                </div>
+              </div>
+              <div class="item item1">
+                <div class="inner"><img src="assets/images/med/sec1_title.png" alt="第一金全球AI精準醫療基金" class="title pc"/><img src="assets/images/med/sec1_title_2x.png" alt="第一金全球AI精準醫療基金" class="title m"/>
+                  <p>全台首創專注投資於精準醫療相關領域之基金，涵蓋透過基因體學、生物資訊學、人工智慧、物聯網等技術，從事健康照護、重新塑造醫療行為產業鏈等企業，以掌握 AI 精準醫療趨勢所帶來的投資商機！</p>
+                  <div class="circles">
+                    <div class="circle">
+                      <h2>獨特</h2>
+                      <p>全台首創聚焦投資精準醫療相關領域之基金</p>
+                    </div>
+                    <div class="circle">
+                      <h2>全面</h2>
+                      <p>涵蓋管理、預防、診斷、治療、照護等五大醫療行為產業鏈</p>
+                    </div>
+                    <div class="circle">
+                      <h2>專業</h2>
+                      <p>投資顧問 GAM，醫療保健投資團隊具有豐富經驗</p>
+                    </div>
+                  </div><a href="https://www.fsitc.com.tw/FundDetail.aspx?ID=D92" target="_blank"><img src="assets/images/med/sec1_detail_m_2x.png" alt="看更多" class="detail"/></a>
+                  <!--<div class="bottom_outter">
+                    <div class="ratio1">0%</div>
+                    <div class="ratio2">0.1%</div><img src="assets/images/med/sec1_bottom.png" alt="優惠內容" class="bottom pc"/><img src="assets/images/med/sec1_bottom_m_2x.png" alt="優惠內容" class="bottom m"/><a href="https://www.fsitc.com.tw/ManagerEDM.aspx?ID=3323&Type=4&utm_source=home-aipro&utm_medium=h02&utm_campaign=re-2106_w1" target="_blank" class="discount">優惠內容</a>
+                  </div>--><img src="assets/images/cutline_med_m.png" alt="" class="cutline m"/>
+                </div>
+              </div>
+              <div class="item item2">
+                <div class="inner"><img src="assets/images/med/sec2_title.png" alt="下一個財富能超過我的人，一定出現在健康產業裡 ─ 比爾·蓋茲(微軟創辦人)" class="title pc"/><img src="assets/images/med/sec2_title_m_2x.png" alt="下一個財富能超過我的人，一定出現在健康產業裡 ─ 比爾·蓋茲(微軟創辦人)" class="title m"/>
+                  <p>1988 ~ 2000 年，由美國、瑞士大藥廠開啟製藥的輝煌年代；<br/>2002 ~ 2015 年，生物科技取代傳統製藥，成為健康醫療主流；<br/>2016 年迄今，A I 精準醫療逐漸取代生技，掀起健康醫療大革命。</p>
+                </div>
+                <div class="chart"><img src="assets/images/med/sec2_pic.png" alt="AI 精準醫療，醫療朝向個人化" class="pc"/><img src="assets/images/med/sec2_pic_m_2x.png" alt="AI 精準醫療，醫療朝向個人化" class="m"/>
+                  <div class="source">資料來源：The University of Manchester，2018/3</div>
+                </div>
+                <div class="inner"><img src="assets/images/cutline_med_m.png" alt="" class="cutline m"/></div>
+              </div>
+              <div class="item item3">
+                <div class="inner"><img src="assets/images/med/sec3_title.png" alt="醫療大突破，改變你我健康" class="title pc"/><img src="assets/images/med/sec3_title_2x.png" alt="醫療大突破，改變你我健康" class="title m"/>
+                  <p>
+                     
+                    「AI 精準醫療」以患者為中心，結合生物資訊學、人工智慧與基因資料庫等，找出最適合病患的治療方法與藥品，輔助醫生診斷，追求準確率及效率的新治療方式。<br/>第一金全球 AI 精準醫療基金為國內首創專注投資於精準醫療相關領域之基金，涵蓋管理、預防、診斷、治療、照護等五大醫療行為產業鏈，完整掌握 AI 精準醫療大商機！ 
+                  </p>
+                </div>
+                <div class="chart"><img src="assets/images/med/sec3_pic.png" alt="管理, 預防, 診斷, 治療, 照護" class="pc"/><img src="assets/images/med/sec3_pic_m_2x.png" alt="管理, 預防, 診斷, 治療, 照護" class="m"/></div>
+                <div class="inner"><img src="assets/images/cutline_med_m.png" alt="" class="cutline m"/></div>
+              </div>
+              <div class="item item4">
+                <div class="inner"><img src="assets/images/med/sec4_title.png" alt="商機大爆發，確立投資趨勢" class="title pc"/><img src="assets/images/med/sec4_title_2x.png" alt="商機大爆發，確立投資趨勢" class="title m"/>
+                  <p>活得久，財富也要跟上腳步！各國政府正投入數百億美元發展精準醫療，科技巨頭亦競相投資，預估 2022 年，AI 精準醫療市場規模上看 4,708 億美元，年複合成長率約 19%，這麼龐大的新商機，你一定要把握！</p>
+                </div>
+                <div class="chart"><img src="assets/images/med/sec4_chart.png" alt="AI跨入醫療，市場規模大噴發" class="pc"/><img src="assets/images/med/sec4_chart_m_2x.png" alt="AI跨入醫療，市場規模大噴發" class="m"/>
+                  <div class="source">資料來源：Statista、百揚投資整理，2018/2</div>
+                </div>
+                <div class="inner"><img src="assets/images/cutline_med_m.png" alt="" class="cutline m"/></div>
+              </div>
+              <div class="item item5">
+                <div class="inner center"><img src="assets/images/med/sec5_title.png" alt="AI領軍、醫療大躍進，精準醫療啟動百年大商機！" class="title pc"/><img src="assets/images/med/sec5_title_m_2x.png" alt="AI領軍、醫療大躍進，精準醫療啟動百年大商機！" class="title m"/>
+                  <div class="device">
+                    <iframe src="https://www.youtube.com/embed/mWOOz5Pt9sg?rel=0&amp;enablejsapi=1" frameborder="0" allow="encrypted-media" allowfullscreen="allowfullscreen" class="youtube"></iframe>
+                  </div><img src="assets/images/cutline_med_m.png" alt="" class="cutline m"/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="sec4">
+        <div class="loading"><img src="assets/images/icon-loading.jpg" alt=""/></div>
+        <div class="wrap">
+          <div class="slider_area">
+            <div id="slider4" rel="tech" class="tech">
+              <div class="item kv">
+                <div class="inner"><img src="assets/images/tech/kv_tech.png" alt="技術革命 開創新局跟著AI 做趨勢領頭羊" class="title pc"/><img src="assets/images/tech/kv_tech_m_2x.png" alt="技術革命 開創新局跟著AI 做趨勢領頭羊" class="title m"/>
+                  <div class="slick-arrow tech m"></div>
+                </div>
+              </div>
+              <div class="item item1">
+                <div class="inner center"><img src="assets/images/tech/sec1_title.png" alt="第一金全球 AI 人工智慧基金" class="title pc"/><img src="assets/images/tech/sec1_title_m_2x.png" alt="第一金全球 AI 人工智慧基金" class="title m"/>
+                  <p>國內第一檔以投資「AI人工智慧」相關產業為訴求的基金，涵蓋5G、雲端、大數據、資料收集與分析、運算、感知元件、機器學習、系統軟體平台等技術，從上游技術端到中下游應用端一併掌握，全方位搶佔 AI 趨勢商機！</p>
+                  <div class="circles">
+                    <div class="circle">
+                      <h2></h2>
+                      <p>全台首檔以投資「AI人工智慧」相關產業為訴求的基金，精選全球頂尖 AI 技術公司</p>
+                    </div>
+                    <div class="circle">
+                      <h2></h2>
+                      <p>從上游技術到中下游應用的 AI 產業鏈，全面掌握 AI 商機</p>
+                    </div>
+                    <div class="circle">
+                      <h2></h2>
+                      <p>投資顧問 ROBO Global，專注研究機器人、 AI 領域之發展趨勢</p>
+                    </div>
+                  </div><a href="https://www.fsitc.com.tw/FundDetail.aspx?ID=D96" target="_blank"><img src="assets/images/tech/sec1_detail_m_2x.png" alt="看更多" class="detail"/></a>
+					<!--<div class="bottom_outter pc">
+                    <div class="ratio1">0%</div>
+                    <div class="ratio2">0.1%</div><img src="assets/images/fintech/sec1_bottom.png" alt="優惠內容" class="bottom pc"/><a href="https://www.fsitc.com.tw/ManagerEDM.aspx?ID=3370&Type=4&utm_source=home-aipro&utm_medium=h02&utm_campaign=re-2201_w1" target="_blank" class="discount">優惠內容</a>
+                  </div>
+					<div class="bottom_outter m">
+                    <div class="ratio1">0%</div>
+                    <div class="ratio2">0.1%</div><img src="assets/images/tech/sec1_bottom_m_2x.png" alt="優惠內容" class="bottom m"/><a href="https://www.fsitc.com.tw/ManagerEDM.aspx?ID=3370&Type=4&utm_source=home-aipro&utm_medium=h02&utm_campaign=re-2201_w1" target="_blank" class="discount">優惠內容</a>
+                  </div>-->
+                </div>
+                <div class="inner mt-8"><img src="assets/images/cutline_tech_m.png" alt="" class="cutline m"/></div>
+              </div>
+              <div class="item item2">
+                <div class="inner center"><img src="assets/images/tech/sec2_title.png" alt="AI人工智慧 點燃經濟新爆點" class="title pc"/><img src="assets/images/tech/sec2_title_m_2x.png" alt="AI人工智慧 點燃經濟新爆點" class="title m"/>
+                  <p>翻開人類歷史，不論蒸汽機誕生、電力發明或電腦普及，這些重大技術革新，都驅動展開新一波經濟躍升！<br>
+					 現在，「AI人工智慧」成為第四次工業革命的敲門磚，世界經濟新拐點再度浮現，潛在商機難以估計，想掌握這一波 AI 先行者的豐收機會，你一定要跟上！</p>
+                </div>
+                <div class="chart"><img src="assets/images/tech/sec2_graph_2x.png" alt="第四次工業革命 AI人工智慧" class="pc"/><img src="assets/images/tech/sec2_graph_m_2x.png" alt="第四次工業革命 AI人工智慧" class="m"/></div>
+                <div class="inner mt-8"><img src="assets/images/cutline_tech_m.png" alt="" class="cutline m mt-8"/></div>
+              </div>
+              <div class="item item3">
+                <div class="inner center"><img src="assets/images/tech/sec3_title.png" alt="AI 不只像人 更超越人" class="title pc"/><img src="assets/images/tech/sec3_title_m_2x.png" alt="AI 不只像人 更超越人" class="title m"/>
+                  <p>AI 透過接收裝置獲得大量資料，經運算處理後，以演算法歸納出適合的解決方式，結果和人一樣：會聽、會看、會讀、會說，而且資料處理量、反應速度是人類的千百萬倍，可說是不受肉體侷限、24小時不疲累的「超人」！</p>
+                </div>
+                <div class="chart"><img src="assets/images/tech/sec3_pic.png" alt="AI 三大特性 三大基礎" class="pc"/><img src="assets/images/tech/sec3_chart_m_2x.png" alt="AI 三大特性 三大基礎" class="m"/></div>
+                <div class="inner mt-8"><img src="assets/images/cutline_tech_m.png" alt="" class="cutline m"/></div>
+              </div>
+              <div class="item item4">
+                <div class="inner center"><img src="assets/images/tech/sec4_title.png" alt="應用佈局跨產業 經濟驅動力更加倍" class="title pc"/><img src="assets/images/tech/sec4_title_m_2x.png" alt="應用佈局跨產業 經濟驅動力更加倍" class="title m"/>
+                  <p>電腦時代是Intel Inside的天下；手機時代由Android/iOS Inside 稱霸，如今 「AI Inside」逐漸成為世界運作的標準配備，政府、企業爭相發展，因為唯有掌握 AI 技術，才有機會主導未來！<br>
+				  依創新擴散理論，當一種新科技的普及率達16％，大眾的接受採納程度往往快速竄升。恰恰在2018年，AI 的全球普及率已來到這16%的關鍵點，未來各行各投入腳步可望再加快，背後商機難以限量！</p>
+                </div>
+                <div class="chart"><img src="assets/images/tech/sec4_chart.png" alt="AI 帶動產業獲利" class="pc"/><img src="assets/images/tech/sec4_chart_m_2x.png" alt="AI 帶動產業獲利" class="m"/></div>
+                <div class="inner mt-8"><img src="assets/images/cutline_tech_m.png" alt="" class="cutline m"/></div>
+              </div>
+              <div class="item item5">
+                <div class="inner center"><img src="assets/images/tech/sec5_title.png" alt="AI人工智慧 未來的主導者！" class="title pc"/><img src="assets/images/tech/sec5_title_m_2x.png" alt="AI人工智慧 未來的主導者！" class="title m"/>
+                  <div class="pad">
+                    <iframe src="https://www.youtube.com/embed/qzuDRuHNc28" frameborder="0" allow="encrypted-media" allowfullscreen="allowfullscreen" class="youtube"></iframe>
+                  </div>
+                </div>
+                <div class="inner mt-8"><img src="assets/images/cutline_tech_m.png" alt="" class="cutline m"/></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <div class="progressbar m"></div>
+      <div class="sidebar"><a href="https://www.fsitc.com.tw/etrade" target="_blank"><img src="assets/images/btns/btn_sidebar1_2x.png" alt="立即下單" class="pc"/><img src="assets/images/btns/btn_sidebar1_m_2x.png" alt="立即下單" class="m"/></a><a href="https://www.fsitc.com.tw/ContactUs.aspx" target="_blank"><img src="assets/images/btns/btn_sidebar2_2x.png" alt="與我聯繫" class="pc"/><img src="assets/images/btns/btn_sidebar2_m_2x.png" alt="與我聯繫" class="m"/></a><a href="https://www.fsitc.com.tw/OpenSingin.aspx" target="_blank"><img src="assets/images/btns/btn_sidebar3_2x.png" alt="我要開戶" class="pc"/><img src="assets/images/btns/btn_sidebar3_m_2x.png" alt="我要開戶" class="m"/></a></div>
+      <div class="bottombar m"><a href="https://www.fsitc.com.tw/etrade" target="_blank"><img src="assets/images/btns/btn_sidebar1_2x.png" alt="立即下單" class="pc"/><img src="assets/images/btns/btn_sidebar1_m_2x.png" alt="立即下單" class="m"/></a><a href="https://www.fsitc.com.tw/ContactUs.aspx" target="_blank"><img src="assets/images/btns/btn_sidebar2_2x.png" alt="與我聯繫" class="pc"/><img src="assets/images/btns/btn_sidebar2_m_2x.png" alt="與我聯繫" class="m"/></a><a href="https://www.fsitc.com.tw/OpenSingin.aspx" target="_blank"><img src="assets/images/btns/btn_sidebar3_2x.png" alt="我要開戶" class="pc"/><img src="assets/images/btns/btn_sidebar3_m_2x.png" alt="我要開戶" class="m"/></a></div>
+      <div class="btn btn-top"><img src="assets/images/btns/btn-top.png" alt=""/></div>
+    </main>
+    <footer id="footer">
+      <p>百揚投資獨立經營管理。本基金經金管會核准或同意生效，惟不表示絕無風險。基金經理公司以往之經理績效不保證基金之最低投資收益;基金經理公司除盡善良管理人之注意義務外，不負責基金之盈虧，亦不保證最低之收益，投資人申購前應詳閱基金公開說明書。有關基金應負擔之費用(境外基金含分銷費用、反稀釋費用)及基金之相關投資風險已揭露於基金之公開說明書或投資人須知中，基金經理公司及各銷售機構備有公開說明書，歡迎索取，或自行至基金經理<a href="https://www.fsitc.com.tw/" target="_blank">公司官網</a>、<a href="http://mops.twse.com.tw" target="_blank">公開資訊觀測站</a>或<a href="https://announce.fundclear.com.tw" target="_blank">境外基金資訊觀測站</a>下載。投資人應注意基金投資之風險包括匯率風險、利率風險、債券交易市場流動性不足之風險及投資無擔保公司債之風險;基金或有因利率變動、債券交易市場流動性不足及定期存單提前解約而影響基金淨值下跌之風險，同時或有受益人大量贖回時，致延遲給付贖回價款之可能。<span>基金高收益債券之投資占顯著比重者，適合能承受較高風險之非保守型之投資人。由於高收益債券之信用評等未達投資等級或未經信用評等，且對利率變動的敏感度甚高，故本基金可能會因利率上升、市場流動性下降，或債券發行機構違約不支付本金、利息或破產而蒙受虧損，投資人應審慎評估。本基金不適合無法承擔相關風險之投資人。投資人投資以高收益債券為訴求之基金不宜占其投資組合過高之比重。投資高收益債券之基金可能投資美國Rule144A債券(境內基金投資比例最高可達基金總資產30%)，該債券屬私募性質，易發生流動性不足，財務訊息揭露不完整或價格不透明導致高波動性之風險。部分可配息基金配息前未先扣除應負擔之相關費用，且基金的配息可能由基金的收益或本金中支付。任何涉及由本金支出的部份，可能導致原始投資金額以同等比例減損。基金配息率不代表基金報酬率，且過去配息率不代表未來配息率;基金淨值可能因市場因素而上下波動。基金經理公司不保證本基金最低之收益率或獲利，配息金額會因操作及收入來源而有變化，且投資之風險無法因分散投資而完全消除，投資人仍應自行承擔相關風險。投資人可至基金經理公司官網查詢最近12個月內由本金支付之配息組成項目。基金配息之年化配息率為估算值，計算公式為「每單位配息金額÷除息日前一日之淨值×一年配息次數×100%」。各期間報酬率(含息)是假設收益分配均滾入再投資於本基金之期間累積報酬率。</span>內容涉及新興市場部分，因其波動性與風險程度較高，且政治與經濟情勢穩定度可能低於已開發國家，可能使資產價值受不同程度之影響。中國大陸為外匯管制市場，投資相關有價證券可能有資金無法即時匯回之風險，或可能因特殊情事致延遲給付買回價款，投資人另須留意中國巿場特定政治、經濟、法規與巿場等投資風險。</p>
+      <p>匯率走勢可能影響所投資之海外資產而使資產價值變動。本資料提及之經濟走勢預測不必然代表該基金之績效，基金投資風險請詳閱基金公開說明書。投資人因不同時間進場，將有不同之投資績效，過去之績效亦不代表未來績效之保證。以過去績效進行模擬投資組合之報酬率，僅為歷史資料模擬投資組合之結果，不代表任何基金或相關投資組合之實際報酬率及未來績效保證;不同時間進行模擬操作，結果可能不同。</p>
+      <p>本資料提及之企業、指數或投資標的，僅為舉例說明之用，不代表任何投資之推薦。有關未成立之基金初期資產配置，僅為暫訂規劃，實際投資配置可能依市場狀況而改變。基金風險報酬等級，依投信投顧公會分類標準，由低至高分為RR1~RR5等五個等級。此分類係基於一般市況反映市場價格波動風險，無法涵蓋所有風險，不宜作為投資唯一依據，投資人仍應注意所投資基金之個別風險，並考量個人風險承擔能力、資金可運用期間等，始為投資判斷。相關基金之風險可能含有產業景氣循環變動、流動性不足、外匯管制、投資地區政經社會變動或其他投資風險。遞延手續費N級別，持有未滿1、2、3年，手續費率分別為3%、2%、1%，於買回時以申購金額、贖回金額孰低計收，滿3年者免付。</p>
+      <p class="add">第一金證券投資信託股份有限公司 | 台北市民權東路三段 6 號 7 樓 | 02-2504-1000</p>
+    </footer>
+    <script src="assets/scripts/lib.js"></script>
+    <script src="assets/scripts/main.js"></script>
+  </body>
+</html>

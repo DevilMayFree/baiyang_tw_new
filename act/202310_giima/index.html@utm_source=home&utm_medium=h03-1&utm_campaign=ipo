@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="挖掘並實踐對社會、環境可創造正面影響力，同時追求潛在收益的投資機會。做好事顧好利，第一金全球永續影響力投資多重資產基金(本基金有一定比重得投資於非投資等級之高風險債券且配息來源可能為本金或收益平準金) 是你投資的新選擇！">
+    <meta name="keywords" content="百揚投資、多重資產基金、投資理財、永續、影響力投資、聯合國永續發展目標SDGS、ESG、月配息、能源轉型、普惠包容、健康福祉、永續產業、賦能平權、資源效率">
+    <meta property="og:title" content="｜做好事 顧好利｜讓你的錢，發揮改變世界的力量！">
+    <meta property="og:description" content="挖掘並實踐對社會、環境可創造正面影響力，同時追求潛在收益的投資機會。做好事顧好利，第一金全球永續影響力投資多重資產基金(本基金有一定比重得投資於非投資等級之高風險債券且配息來源可能為本金或收益平準金) 是你投資的新選擇！">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="images/ogp.jpg">
+    <meta property="og:image:secure_url" content="images/ogp.jpg">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="638">
+    <meta property="og:image:alt" content="挖掘並實踐對社會、環境可創造正面影響力，同時追求潛在收益的投資機會。做好事顧好利，第一金全球永續影響力投資多重資產基金(本基金有一定比重得投資於非投資等級之高風險債券且配息來源可能為本金或收益平準金) 是你投資的新選擇！">
+    <meta name="theme-color" media="(prefers-color-scheme: light)" content="black">
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="black">
+    <title>｜做好事 顧好利｜讓你的錢，發揮改變世界的力量！</title>
+    <link rel="stylesheet" href="./libs/fonts.google.css" crossorigin="anonymous">
+    <link href="./libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+    <link href="./libs/owl-carousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="./libs/owl-carousel/assets/owl.theme.default.min.css" rel="stylesheet">
+    <link href="./libs/animate.min.css" rel="stylesheet">
+    <link href="./libs/aos/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="./css/styles.css">
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZJQYX5JPZX"></script>
+    <script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-ZJQYX5JPZX")</script>
+  </head>
+  <body data-bs-spy="scroll" data-bs-target="#navbar">
+    <div class="wrapper"><a id="home"></a>
+      <div class="preload"></div>
+      <div class="hud">
+        <ul>
+          <li><a href="https://www.fsitc.com.tw/etrade/" target="_blank">立即下單</a></li>
+          <li><a href="https://www.fsitc.com.tw/openacc/open_apply.aspx?utm_source=act&amp;utm_medium=ipo-btn&amp;utm_campaign=ipo-2310_w1" target="_blank">我要開戶</a></li>
+          <li><a href="https://www.fsitc.com.tw/ContactUs.aspx" target="_blank">跟我聯絡</a></li>
+          <li class="d-md-none"><a href="#kv">回到首頁</a></li>
+        </ul>
+      </div>
+      <div class="hud--gototop"><a href="#kv">
+          <div class="d-none">回到首頁</div>
+          
+          <svg id="uuid-fc9c2684-8df1-400c-94c6-1d553cf45245" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48.33 48.33">
+            <g id="uuid-a28fd07f-4b8f-4b87-9ba8-23da0b858c23" data-name="top bar">
+              <g>
+                <rect width="48.33" height="48.33" style="fill:#113356;opacity:.3"></rect>
+                <polyline points="10.36 31.07 24.17 17.26 37.97 31.07" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.42px"></polyline>
+              </g>
+            </g>
+          </svg></a></div>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top" id="navbar">
+        <div class="container align-items-center justify-content-center"><a class="navbar-brand me-auto" href="https://www.fsitc.com.tw/" target="_blank">
+            <div class="d-none">百揚投資</div>
+            
+            <svg id="uuid-87d0f4e6-06b1-4495-8135-a724aac54a7b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 270.44 62.86">
+              <defs>
+                <linearGradient id="uuid-b68b573e-943c-497d-b523-65a3438407df" x1="6.58" y1="50.46" x2="50.69" y2="5.32" gradientUnits="userSpaceOnUse">
+                  <stop offset="0" stop-color="#a97c38"></stop>
+                  <stop offset=".13" stop-color="#aa7e3b"></stop>
+                  <stop offset=".23" stop-color="#af8445"></stop>
+                  <stop offset=".32" stop-color="#b89056"></stop>
+                  <stop offset=".4" stop-color="#c4a06d"></stop>
+                  <stop offset=".49" stop-color="#d4b58c"></stop>
+                  <stop offset=".5" stop-color="#d7b992"></stop>
+                  <stop offset=".51" stop-color="#d4b58c"></stop>
+                  <stop offset=".6" stop-color="#c4a06d"></stop>
+                  <stop offset=".68" stop-color="#b89056"></stop>
+                  <stop offset=".77" stop-color="#af8445"></stop>
+                  <stop offset=".87" stop-color="#aa7e3b"></stop>
+                  <stop offset="1" stop-color="#a97c38"></stop>
+                </linearGradient>
+                <linearGradient id="uuid-0527934c-5536-4b18-8c50-ff6db773bd72" x1="57.41" y1="12.53" x2="14.32" y2="57.56" gradientUnits="userSpaceOnUse">
+                  <stop offset="0" stop-color="#004c36"></stop>
+                  <stop offset=".12" stop-color="#034e38"></stop>
+                  <stop offset=".22" stop-color="#0d5540"></stop>
+                  <stop offset=".31" stop-color="#1e624c"></stop>
+                  <stop offset=".39" stop-color="#35745e"></stop>
+                  <stop offset=".47" stop-color="#548b76"></stop>
+                  <stop offset=".5" stop-color="#60947f"></stop>
+                  <stop offset=".53" stop-color="#548b76"></stop>
+                  <stop offset=".61" stop-color="#35745e"></stop>
+                  <stop offset=".69" stop-color="#1e624c"></stop>
+                  <stop offset=".78" stop-color="#0d5540"></stop>
+                  <stop offset=".88" stop-color="#034e38"></stop>
+                  <stop offset="1" stop-color="#004c36"></stop>
+                </linearGradient>
+                <linearGradient id="uuid-f5502aa5-c4f9-4aa5-82b0-a6c9f95a1999" x1="32.97" y1="4.72" x2="24.7" y2="44.27" gradientUnits="userSpaceOnUse">
+                  <stop offset="0" stop-color="#74432a"></stop>
+                  <stop offset=".3" stop-color="#a97c38"></stop>
+                  <stop offset="1" stop-color="#74432a"></stop>
+                </linearGradient>
+                <linearGradient id="uuid-163e1240-7c81-4ce2-9b1d-c8f5e7a24173" x1="32.48" y1="5.39" x2="25.04" y2="44.94" gradientUnits="userSpaceOnUse">
+                  <stop offset="0" stop-color="#bf9249"></stop>
+                  <stop offset=".3" stop-color="#f1e3ca"></stop>
+                  <stop offset="1" stop-color="#bf9249"></stop>
+                </linearGradient>
+                <linearGradient id="uuid-074a71d2-b899-4f9c-81de-f065bfd70657" x1="39.86" y1="18.73" x2="31.32" y2="58.14" gradientUnits="userSpaceOnUse">
+                  <stop offset="0" stop-color="#003e2b"></stop>
+                  <stop offset=".7" stop-color="#004c36"></stop>
+                  <stop offset="1" stop-color="#003e2b"></stop>
+                </linearGradient>
+                <linearGradient id="uuid-376aff94-af41-484b-a818-cef9b86637c7" x1="31.76" y1="58.05" x2="39.76" y2="18.63" gradientUnits="userSpaceOnUse">
+                  <stop offset="0" stop-color="#00694f"></stop>
+                  <stop offset=".3" stop-color="#e7f2f2"></stop>
+                  <stop offset="1" stop-color="#00694f"></stop>
+                </linearGradient>
+              </defs>
+              <g id="uuid-fd37299f-b354-4a07-b04e-191bf443e8c8" data-name="top bar">
+                <g>
+                  <g>
+                    <path d="m242.85,14.39s-2.15,8.66-8.17,14.45l1.72,1.13s1.64-1.06,3.81-3.18v21.39h4.27v-26.43c1.2-1.72,2.37-3.7,3.36-5.95l-4.98-1.4Zm25.41,2.24h-19.81v2.44h19.81v-2.44Zm-19.81,12.1h19.81v-2.44h-19.81v2.44Zm0,5.39h19.81v-2.44h-19.81v2.44Zm-2.19-12.78v2.43h24.19v-2.43h-24.19Zm2.19,26.83h17.37c1.64,0,2.44-.28,2.44-3.7v-7.35h-19.81v11.05Zm4.27-8.61h11.27v6.18h-11.27v-6.18Z" style="fill:#004c36"></path>
+                    <path d="m205.75,31.39v-6.02h2.41v-2.43h-2.41v-7.43h-4.26v7.43h-3.48v2.43h3.48v7.94l-4.48,2.01,1.11,3.67,3.37-2.16v8.91h-3.54v2.43h5.36c1.64,0,2.44-.28,2.44-3.69v-10.38l2.2-1.41.21-2.38-2.41,1.08Zm16.25,12.28c3-2.23,5.34-5.55,5.41-10.49h0v-1.95h-16.09v1.95h0c.07,4.94,2.41,8.27,5.41,10.49-2.16,1.22-5.01,2.01-8.76,2.63l.93,1.87s5.47-.31,10.47-2.87c5,2.56,10.47,2.87,10.47,2.87l.92-1.87c-3.75-.62-6.6-1.41-8.76-2.63Zm-2.63-1.85c-3.96-3.45-4.13-7.02-4.09-8.16h8.18c.04,1.14-.13,4.71-4.09,8.16Zm-2.49-22.86v-.06h5.5v6.7c0,3.4.81,3.69,2.44,3.69h5.36v-2.43h-3.54v-10.39h-14.03v2.12s.36,8.35-4.06,10.15l1.23,1.42s7.1-1.65,7.1-11.2Z" style="fill:#004c36"></path>
+                    <g>
+                      <path d="m175.71,36.47h10.92v-2.43h-10.92v-4.3h6.2v-2.44h-16.66v2.44h6.2v4.3h-10.92v2.43h10.92v8.84h-14.17v2.44h32.6v-2.44h-14.17v-8.84Zm.34-21.38h-4.95s-2.14,7.61-15.24,14.65l1.16,1.83s10.81-3.91,16.55-11.99c5.74,8.07,16.56,11.99,16.56,11.99l1.15-1.83c-13.1-7.05-15.24-14.65-15.24-14.65Zm-11.3,21.88l-1.5,1.19s2.42,4.29,3.14,7.36l3.62-2.81s-3.95-4.65-5.26-5.74Zm14.1,8.32c1.47-1.46,5.93-5.74,5.93-5.74l-3.98-2.5c-1.8,4.84-4.03,6.95-4.03,6.95l2.08,1.29Z" style="fill:#004c36"></path>
+                      <g>
+                        <path d="m97.16,35.51v-3.27h9.26c1.64,0,2.44-.29,2.44-3.7v-4.44h-27.87v2.43h11.89v3.27h-13.95v3.96c0,3.41.8,4.18,2.44,4.18h7.68c-.61,1.23-3.19,4.61-10.88,8.16l.99,1.9s8.2-1.93,13.72-8.16v8.32h4.27v-10.22h9.07v5.67h-5.48v2.43h7.31c1.64,0,2.44-.29,2.44-3.7v-6.84h-13.34Zm0-8.98h7.43v3.27h-7.43v-3.27Zm-4.27,8.98h-9.68v-3.27h9.68v3.27Zm-8.8-15.82h1.71c.45.59,1.67,1.79,2.33,3.66l3.48-1.11s-1.02-1.22-2.49-2.55h5.48v-2.44h-8.35c.48-.6.96-1.25,1.45-1.94l-4.68-1.4s-.84,4.2-5.16,8.6l1.72,1.13s1.72-.87,4.53-3.94Zm11.82,3.94s1.72-.87,4.53-3.94h1.71c.45.59,1.67,1.79,2.33,3.66l3.48-1.11c-1.12-1.35-1.14-1.34-2.49-2.55h5.23v-2.44h-8.11c.48-.6.97-1.25,1.45-1.94l-4.68-1.4s-.84,4.2-5.16,8.6l1.72,1.13Z" style="fill:#004c36"></path>
+                        <path d="m149.2,29.7v3.29h-32.49v-3.29h32.49Z" style="fill:#004c36"></path>
+                      </g>
+                    </g>
+                  </g>
+                  <g>
+                    <g>
+                      <rect x="24.96" y="24.13" width="14.61" height="14.61" transform="translate(-12.77 32.02) rotate(-45)" style="fill:#a97c38"></rect>
+                      <polygon points="32.27 21.1 42.6 31.43 41.56 31.43 41.56 31.43 32.27 22.13 32.27 21.1" style="fill:#bf9249"></polygon>
+                      <polygon points="32.27 22.13 22.97 31.43 22.97 31.43 21.93 31.43 32.27 21.1 32.27 22.13" style="fill:#d7b992"></polygon>
+                      <polygon points="32.27 41.77 21.93 31.43 22.97 31.43 22.97 31.43 32.27 40.73 32.27 41.77" style="fill:#bf9249"></polygon>
+                      <polygon points="32.27 40.73 41.56 31.43 41.56 31.43 42.6 31.43 32.27 41.77 32.27 40.73" style="fill:#74432a"></polygon>
+                    </g>
+                    <path d="m6.17,30.88C6.17,15.12,19.1,2.34,35.06,2.34c7.17,0,13.73,2.58,18.78,6.85l.25-.25C48.35,3.41,40.5,0,31.84,0,14.26,0,0,14.08,0,31.45c0,14.33,11.75,25.5,26.25,25.5,7.83,0,14.86-2.98,19.68-8.35l-.15-.15c-4.2,3.6-9.73,5.56-15.79,5.56-13.15,0-23.82-10.13-23.82-23.14Z" style="fill:url(#uuid-b68b573e-943c-497d-b523-65a3438407df)"></path>
+                    <path d="m58.36,31.99c0,15.76-12.94,28.53-28.89,28.53-7.17,0-13.73-2.58-18.78-6.85l-.25.25c5.74,5.53,13.59,8.94,22.24,8.94,17.59,0,31.84-14.08,31.84-31.45,0-14.34-11.75-25.5-26.25-25.5-7.84,0-14.87,2.98-19.68,8.35l.15.15c4.2-3.6,9.73-5.56,15.79-5.56,13.15,0,23.82,10.13,23.82,23.14Z" style="fill:url(#uuid-0527934c-5536-4b18-8c50-ff6db773bd72)"></path>
+                    <path d="m31.98,52.97c-11.86,0-21.91-9.62-21.91-21.47,0-17.29,12.62-27.27,27.66-27.27,5.95,0,11.45,1.91,15.93,5.14l.18-.18c-5.05-4.27-11.61-6.85-18.78-6.85C19.1,2.34,6.17,15.12,6.17,30.88c0,13,10.66,23.14,23.82,23.14,6.06,0,11.58-1.96,15.79-5.56l-.27-.27c-3.69,2.99-8.4,4.79-13.53,4.79Z" style="fill:url(#uuid-f5502aa5-c4f9-4aa5-82b0-a6c9f95a1999)"></path>
+                    <path d="m35.09,2.34C19.05,2.34,6.05,15.13,6.05,30.92c0,13.02,10.72,23.17,23.94,23.17,6.08,0,11.64-1.96,15.86-5.56l-.07-.07c-4.17,3.44-9.6,5.32-15.54,5.32-13.14,0-23.79-10.04-23.79-22.92C6.45,15.24,19.37,2.59,35.3,2.59c7.06,0,13.52,2.48,18.53,6.6l.06-.06c-5.07-4.24-11.63-6.8-18.8-6.8Z" style="fill:url(#uuid-163e1240-7c81-4ce2-9b1d-c8f5e7a24173)"></path>
+                    <path d="m38.28,5.91c-7.84,0-14.87,2.98-19.68,8.35l.42.42c3.7-3,8.4-4.79,13.53-4.79,11.86,0,21.91,9.62,21.91,21.47,0,17.3-12.61,27.28-27.66,27.28-5.95,0-11.45-1.91-15.93-5.15l-.43.43c5.74,5.53,13.58,8.94,22.24,8.94,17.59,0,31.84-14.08,31.84-31.45,0-14.34-11.75-25.5-26.25-25.5Z" style="fill:none"></path>
+                    <path d="m32.55,9.89c11.86,0,21.91,9.62,21.91,21.47,0,17.3-12.61,27.28-27.66,27.28-5.95,0-11.45-1.91-15.93-5.15l-.18.18c5.05,4.27,11.61,6.85,18.78,6.85,15.96,0,28.89-12.77,28.89-28.53,0-13.01-10.67-23.14-23.82-23.14-6.06,0-11.59,1.96-15.79,5.56l.27.27c3.7-3,8.4-4.79,13.53-4.79Z" style="fill:url(#uuid-074a71d2-b899-4f9c-81de-f065bfd70657)"></path>
+                    <path d="m29.44,60.52c16.04,0,29.04-12.79,29.04-28.58,0-13.03-10.72-23.17-23.94-23.17-6.09,0-11.64,1.96-15.86,5.56l.07.08c4.17-3.44,9.6-5.32,15.54-5.32,13.14,0,23.79,10.04,23.79,22.92,0,15.61-12.92,28.26-28.86,28.26-7.06,0-13.52-2.48-18.53-6.6l-.06.06c5.07,4.24,11.63,6.79,18.8,6.79Z" style="fill:url(#uuid-376aff94-af41-484b-a818-cef9b86637c7)"></path>
+                  </g>
+                </g>
+              </g>
+            </svg></a>
+          <div class="navbar-social"><a class="social-link" href="http://line.me/ti/p/%40xmz3656a" target="_blank"><img src="./images/icon/icon-line.png" alt="LINE"></a><a class="social-link" href="https://www.facebook.com/FSITCeFunds/" target="_blank"><img src="./images/icon/icon-fb.png" alt="Facebook"></a></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon is-collapse">
+              
+              <svg id="uuid-7e476ae0-9664-4e4e-916d-53444acc2fe3" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27.65 24.77">
+                <g id="uuid-d9603cd5-7ea0-43f3-beae-9c62e6325f19" data-name="top bar">
+                  <g>
+                    <path d="m26.21,2.88H1.44c-.79,0-1.44-.64-1.44-1.44h0C0,.64.64,0,1.44,0h24.77c.79,0,1.44.64,1.44,1.44h0c0,.79-.64,1.44-1.44,1.44Z" style="fill:#16365c"></path>
+                    <path d="m26.21,13.82H1.44c-.79,0-1.44-.64-1.44-1.44h0c0-.79.64-1.44,1.44-1.44h24.77c.79,0,1.44.64,1.44,1.44h0c0,.79-.64,1.44-1.44,1.44Z" style="fill:#16365c"></path>
+                    <path d="m26.21,24.77H1.44c-.79,0-1.44-.64-1.44-1.44h0c0-.79.64-1.44,1.44-1.44h24.77c.79,0,1.44.64,1.44,1.44h0c0,.79-.64,1.44-1.44,1.44Z" style="fill:#16365c"></path>
+                  </g>
+                </g>
+              </svg></span><span class="navbar-toggler-icon is-open">
+              
+              <svg id="uuid-1e473c54-3a1c-4dd5-8eac-a2b7063a61ea" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+                <g id="uuid-fdee8cdc-a6d7-4720-bd67-50991c1fb156" data-name="top menu">
+                  <g>
+                    <path d="m19.59,2.41L2.41,19.59c-.55.55-1.44.55-1.99,0H.41c-.55-.55-.55-1.44,0-1.99L17.59.41c.55-.55,1.44-.55,1.99,0h0c.55.55.55,1.44,0,1.99Z" style="fill:#c6ad81"></path>
+                    <path d="m17.59,19.59L.41,2.41C-.14,1.86-.14.96.41.41h0C.96-.14,1.86-.14,2.41.41l17.18,17.18c.55.55.55,1.44,0,1.99h0c-.55.55-1.44.55-1.99,0Z" style="fill:#c6ad81"></path>
+                  </g>
+                </g>
+              </svg></span></button>
+          <div class="collapse navbar-collapse d-flex flex-column flex-lg-row align-items-center justify-content-center" id="navbarContent">
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0 justify-content-end">
+              <li class="nav-item"><a class="nav-link active" aria-current="page" href="#section-video"><span>趨勢前線</span></a></li>
+              <li class="nav-item"><a class="nav-link" href="#section-01"><span>永續行動</span></a></li>
+              <li class="nav-item"><a class="nav-link" href="#section-02"><span>義利兼顧</span></a></li>
+              <li class="nav-item"><a class="nav-link" href="#section-03"><span>投資新星</span></a></li>
+              <li class="nav-item"><a class="nav-link" href="#section-download"><span>資料下載</span></a></li>
+              <li class="nav-item"><a class="nav-link" href="#section-action"><span>立即申購</span></a></li>
+            </ul>
+            <div class="d-lg-none navbar-social mt-2 mb-4"><a class="social-link" href="http://line.me/ti/p/%40xmz3656a" target="_blank"><img src="./images/icon/icon-line.png" alt="LINE"></a><a class="social-link" href="https://www.facebook.com/FSITCeFunds/" target="_blank"><img src="./images/icon/icon-fb.png" alt="Facebook"></a></div>
+          </div>
+        </div>
+      </nav>
+      <div class="kv" id="kv">
+        <div class="container">
+          <div class="row align-items-center justify-content-center">
+            <div class="col-md-6">
+              <div class="kv-wording text-center text-md-start" data-aos="fade-down" data-aos-delay="300">
+                <div class="kv-subtitle">第一金全球<span class="kv-highlight">永續影響力投資</span>多重資產基金<span class="text-gray">(本基金有一定比重得投資於非投資等級之高風險債券且配息來源可能為本金或收益平準金)</span></div>
+                <div class="kv-title">
+                  <div class="d-none">做好事 顧好利</div>
+                  <div class="img-response img-response-pos" style="padding-bottom:calc(100% / 1920 * 322)"><img src="./images/kv/kv-title.png"></div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="kv-image">
+                <div class="img-response img-response-pos" data-aos="fade-in" data-aos-delay="600" style="padding-bottom:calc(100% / 1000 * 1003)"><img data-aos="fade-down" src="./images/kv/kv-image.png"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="kv-deco">
+          <div class="kv-deco-title text-center text-md-start">
+            <div data-aos="fade-down">
+              <h5>影響力投資，簡單來說就是</h5>
+              <h3>讓你的錢，發揮改變世界的力量！</h3>
+            </div>
+          </div>
+          <div class="d-none d-md-block img-response img-response-pos" style="padding-bottom:calc(100% / 2000 * 924)"><img src="./images/kv/kv-gress.png"><img class="balloon animate__animated animate__infinite animate__float animate__slower" data-aos="fade-up" src="./images/kv/kv-balloon.png"><img class="cloud-01 animate__animated animate__infinite animate__cloud animate__slowest animate__delay-2s" data-aos="fade-up" src="./images/kv/kv-cloud-01.png"><img class="cloud-02 animate__animated animate__infinite animate__cloud animate__slowest" data-aos="fade-up" src="./images/kv/kv-cloud-02.png"><img class="cloud-03 animate__animated animate__infinite animate__cloud animate__slowest animate__delay-3s" data-aos="fade-up" src="./images/kv/kv-cloud-03.png">
+            <div class="factory">
+              <div class="img-response img-response-pos" style="padding-bottom:calc(100% / 1000 * 937)"><img data-aos="fade-up" src="./images/kv/kv-factory.png"><img class="coin-01 animate__animated animate__infinite animate__float animate__slow" data-aos="fade-up" src="./images/kv/kv-factory-coin-01.png"><img class="coin-02 animate__animated animate__infinite animate__float animate__slower" data-aos="fade-up" src="./images/kv/kv-factory-coin-02.png"><img class="coin-03 animate__animated animate__infinite animate__float animate__slowest" data-aos="fade-up" src="./images/kv/kv-factory-coin-03.png"></div>
+            </div>
+          </div>
+          <div class="d-md-none img-response img-response-pos" style="padding-bottom:calc(100% / 1056 * 823)"><img src="./images/kv/kv-mobile-grass.png"><img class="balloon animate__animated animate__infinite animate__float animate__slower" data-aos="fade-up" src="./images/kv/kv-balloon.png"></div>
+        </div>
+      </div>
+      <div class="content" id="content">
+        <div class="section section-video" id="section-video">
+          <div class="container">
+            <div class="section-wrapper">
+              <div class="section-title">
+                <div class="d-none">趨勢前線</div>
+                <div class="d-none d-md-block img-response img-response-pos" style="padding-bottom:calc(100% / 927 * 2786)"><img class="animate__animated animate__infinite animate__title_image animate__slowest" data-aos="fade-down" src="./images/sections/section-video/section-video-title-image.png"><img data-aos="fade-down" src="./images/sections/section-video/section-video-title.png"></div>
+                <div class="d-md-none img-response img-response-pos" style="padding-bottom:calc(100% / 775 * 309)"><img data-aos="fade-down" src="./images/sections/section-video/section-video-mobile-title.png"></div>
+              </div>
+              <div class="section-content">
+                <div class="section-tabs" id="section-video-tabs">
+                  <div class="section-tabs-item active"><span>做好事顧好利 發揮影響力</span></div>
+                </div>
+                <div class="section-paper">
+                  <div class="section-carousel owl-carousel" id="section-video-carousel" data-options="{&quot;animateIn&quot;: &quot;animate__fadeIn&quot;, &quot;animateOut&quot;: &quot;animate__fadeOut&quot;, &quot;items&quot;: 1, &quot;loop&quot;: true, &quot;nav&quot;: true, &quot;autoplay&quot;: false, &quot;autoplayTimeout&quot;: 6000, &quot;navContainerClass&quot;: &quot;owl-nav section-carousel-nav&quot;, &quot;colorArrow&quot;: &quot;#1F3B65&quot;, &quot;colorSwitcher&quot;: &quot;#section-video-tabs&quot;}">
+                    <div class="section-carousel-item">
+                      <div class="section-carousel-content">
+                        <div class="section-carousel-video">
+                          <div class="img-response img-response-pos" style="padding-bottom:calc(100% / 16 * 9)"><img src="./images/sections/section-video/bg.jpg">
+                            <iframe width="100%" height="100%" data-src="https://www.youtube.com/embed/R9ik7K3Roxg" src="https://www.youtube.com/embed/R9ik7K3Roxg" title="做好事顧好利 發揮影響力" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="section section-01" id="section-01">
+          <div class="container">
+            <div class="section-wrapper">
+              <div class="section-title">
+                <div class="d-none">永續行動</div>
+                <div class="d-none d-md-block img-response img-response-pos" style="padding-bottom:calc(100% / 927 * 2786)"><img class="animate__animated animate__infinite animate__title_image animate__slowest" data-aos="fade-down" src="./images/sections/section-01/section-01-title-image.png"><img data-aos="fade-down" src="./images/sections/section-01/section-01-title.png"></div>
+                <div class="d-md-none img-response img-response-pos" style="padding-bottom:calc(100% / 775 * 309)"><img data-aos="fade-down" src="./images/sections/section-01/section-01-mobile-title.png"></div>
+              </div>
+              <div class="section-content">
+                <div class="section-tabs" id="section-01-tabs">
+                  <div class="section-tabs-item active">
+                    <div class="icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.72 74.72">
+                        <path class="color" d="m72.21,53l-2.41-1.52-.11-.44,1.45-2.46c1.01-1.72.77-3.9-.61-5.34l-3.76-3.96c-.86-.91-2.04-1.39-3.23-1.39-.71,0-1.42.17-2.07.51l-2.53,1.33-.43-.13-1.4-2.48c-.8-1.42-2.3-2.27-3.89-2.27-.35,0-.7.04-1.05.12l-5.22,1.26-.62-1.03,3.73-.91c1.99-.49,3.4-2.28,3.4-4.33v-5.92c0-2.05-1.39-3.84-3.39-4.33l-3.73-.92,1.99-3.29c1.06-1.76.79-4.01-.66-5.46l-4.18-4.19c-.86-.86-2-1.31-3.16-1.31-.79,0-1.59.21-2.31.64l-3.29,1.99-.91-3.73C33.35,1.43,31.56.03,29.51.03c0,0-5.92,0-5.93,0-2.05,0-3.84,1.4-4.33,3.39l-.92,3.73-3.29-1.99c-.72-.43-1.52-.65-2.31-.65-1.15,0-2.29.45-3.15,1.3l-4.19,4.18c-1.45,1.45-1.73,3.71-.67,5.46l1.99,3.29-3.73.92c-1.99.49-3.4,2.28-3.4,4.33v5.92c0,2.05,1.39,3.84,3.39,4.33l3.73.92-1.99,3.29c-1.06,1.76-.79,4.01.66,5.46l4.18,4.19c.86.86,2,1.31,3.16,1.31.79,0,1.59-.21,2.31-.64l3.29-1.99.91,3.73c.49,1.99,2.28,3.4,4.33,3.4,0,0,5.92,0,5.93,0,2.05,0,3.84-1.4,4.33-3.39l.92-3.73.94.57-1.36,4.61c-.56,1.91.21,3.97,1.9,5.03l2.41,1.52.11.44-1.45,2.46c-1.01,1.72-.77,3.9.61,5.34l3.76,3.96c.86.91,2.04,1.39,3.23,1.39.71,0,1.42-.17,2.07-.51l2.53-1.33.43.13,1.4,2.48c.8,1.42,2.3,2.27,3.88,2.27.35,0,.7-.04,1.05-.12l5.31-1.28c1.94-.47,3.33-2.17,3.41-4.16l.11-2.85.33-.31s2.88.03,2.9.03c1.98,0,3.72-1.3,4.28-3.2l1.54-5.24c.56-1.91-.21-3.97-1.9-5.03Z"></path>
+                        <path d="m65.89,54.28l-.95-3.95,2.37-4.01-3.76-3.96-4.13,2.17-3.9-1.15-2.29-4.06-5.31,1.28-.19,4.66-2.95,2.8-4.66-.05-1.54,5.24,3.94,2.49.95,3.95-2.37,4.01,3.76,3.96,4.13-2.17,3.9,1.15,2.29,4.06,5.31-1.28.19-4.66,2.95-2.8,4.66.05,1.54-5.24-3.94-2.49Zm-13.41,6.59c-3.24-.95-5.09-4.35-4.13-7.59.95-3.24,4.35-5.09,7.59-4.13,3.24.95,5.09,4.35,4.13,7.59-.95,3.24-4.35,5.09-7.59,4.13Z" style="fill:#fff"></path>
+                        <path d="m49.01,29.95v-5.92s-5.96-1.47-5.96-1.47l-1.71-4.13,3.18-5.25-4.18-4.19-5.26,3.18-4.12-1.71-1.46-5.97h-5.92s-1.47,5.96-1.47,5.96l-4.13,1.71-5.25-3.18-4.19,4.18,3.18,5.26-1.71,4.12-5.97,1.46v5.92s5.96,1.47,5.96,1.47l1.71,4.13-3.18,5.25,4.18,4.19,5.26-3.18,4.12,1.71,1.46,5.97h5.92s1.47-5.96,1.47-5.96l4.13-1.71,5.25,3.18,4.19-4.18-3.18-5.26,1.71-4.12,5.97-1.46Zm-21.33,5.85c-4.88.64-9.35-2.8-9.99-7.68-.64-4.88,2.8-9.35,7.68-9.99,4.88-.64,9.35,2.8,9.99,7.68.64,4.88-2.8,9.35-7.68,9.99Z" style="fill:#fff"></path>
+                      </svg>
+                    </div><span>政府推動</span>
+                  </div>
+                  <div class="section-tabs-item">
+                    <div class="icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.72 74.72">
+                        <path class="color" d="m74.36,36.66c-.08-.56-.18-1.08-.29-1.58-.39-1.93-.98-3.88-1.76-5.77-.35-.86-.77-1.75-1.3-2.73-.16-.31-.34-.63-.53-.95-.1-.19-.2-.37-.32-.55-.04-.07-.09-.14-.13-.21l.45-.45c.96-.96,1.49-2.24,1.49-3.6s-.53-2.64-1.49-3.6l-4.74-4.74c-.96-.96-2.24-1.49-3.6-1.49s-2.64.53-3.6,1.49l-.84.84c-.06-.03-.12-.07-.18-.1-.39-.21-.75-.39-1.12-.55-.17-.09-.35-.17-.56-.26l-.23-.1c-.41-.18-.84-.37-1.25-.53-.04-.02-.08-.03-.12-.05-.13-.05-.26-.09-.39-.14.16-.53.26-1.08.26-1.66v-2.74c0-3.2-2.6-5.8-5.8-5.8h-10.98c-3.2,0-5.8,2.6-5.8,5.8v2.74c0,.58.11,1.14.27,1.67-.25.09-.51.18-.75.28-1.69.67-3.33,1.49-4.82,2.41-.54.33-1.07.67-1.66,1.09-.45.32-.91.65-1.35,1-.13.1-.27.21-.43.34-.44.36-.88.72-1.26,1.08-.47.42-.94.86-1.44,1.37-.44.45-.87.92-1.25,1.36-.38.43-.77.89-1.22,1.47-.03.03-.08.1-.08.1-.34.44-.67.9-1,1.39-.06.08-.12.16-.16.23-.77,1.16-.91,2.54-.52,3.77h-4.61c-3.2,0-5.8,2.6-5.8,5.8,0,.37.04.73.1,1.08-3.1.11-5.59,2.66-5.59,5.79s2.49,5.68,5.59,5.79c-.07.35-.1.71-.1,1.08,0,.62.1,1.21.28,1.77-1.8.98-3.03,2.9-3.03,5.09,0,3.2,2.6,5.8,5.8,5.8h9.94c-.19,1.29.17,2.64,1.13,3.67,5.99,6.39,14.46,10.06,23.24,10.06,17.57,0,31.87-14.3,31.87-31.87,0-1.61-.12-3.23-.36-4.82Z"></path>
+                        <path d="m37.36,11.29h2.74v2.2c.84-.08,1.73-.14,2.74-.14s1.88.04,2.74.12v-2.18h2.74c.75,0,1.37-.62,1.37-1.37v-2.74c0-.75-.62-1.37-1.37-1.37h-10.98c-.75,0-1.37.62-1.37,1.37v2.74c0,.75.62,1.37,1.37,1.37Z" style="fill:#fff"></path>
+                        <path d="m62.16,18.9l-1.11,1.11c.65.56,1.3,1.18,1.95,1.84l1.06-1.06,1.41,1.43c.23.23.6.26.86.05.03,0,.05-.03.08-.05l.95-.95c.26-.26.26-.69,0-.95l-4.73-4.73c-.26-.26-.69-.26-.95,0l-.95.95c-.1.1-.16.23-.16.37-.05.21.01.41.16.58l1.43,1.41Z" style="fill:#fff"></path>
+                        <path d="m45.6,41.48c0-1.51-1.24-2.74-2.74-2.74s-2.74,1.24-2.74,2.74c0,.75.3,1.44.81,1.93.49.51,1.18.81,1.94.81,1.51,0,2.74-1.24,2.74-2.74Z" style="fill:#fff"></path>
+                        <path d="m11.29,34.62h8.23c.76,0,1.37-.61,1.37-1.37s-.61-1.37-1.37-1.37h-8.23c-.76,0-1.37.61-1.37,1.37s.61,1.37,1.37,1.37Z" style="fill:#fff"></path>
+                        <path d="m26.38,40.11c0-.76-.61-1.37-1.37-1.37H5.8c-.76,0-1.37.61-1.37,1.37s.61,1.37,1.37,1.37h19.21c.76,0,1.37-.61,1.37-1.37Z" style="fill:#fff"></path>
+                        <path d="m30.5,45.6H11.29c-.76,0-1.37.61-1.37,1.37s.61,1.37,1.37,1.37h19.21c.76,0,1.37-.61,1.37-1.37s-.61-1.37-1.37-1.37Z" style="fill:#fff"></path>
+                        <path d="m23.64,53.83c0-.76-.61-1.37-1.37-1.37h-13.72c-.76,0-1.37.61-1.37,1.37s.61,1.37,1.37,1.37h13.72c.76,0,1.37-.61,1.37-1.37Z" style="fill:#fff"></path>
+                        <path d="m38.13,44.25l-9.32,9.32-.48.51.51.55c3.66,3.91,8.65,6.07,14.01,6.07,10.59,0,19.21-8.62,19.21-19.21s-8.62-19.21-19.21-19.21c-.45,0-.92.01-1.37.05v13.85c.44-.12.89-.18,1.37-.18s.93.05,1.37.18c2.37.6,4.12,2.76,4.12,5.31,0,3.03-2.46,5.49-5.49,5.49-1.02,0-1.96-.27-2.79-.77-.81-.47-1.48-1.14-1.94-1.95Z" style="fill:#fff"></path>
+                        <path d="m69.98,37.31c-.07-.47-.15-.91-.25-1.36-.34-1.72-.86-3.38-1.52-4.97-.33-.81-.71-1.59-1.13-2.36-.15-.3-.33-.6-.51-.91-.04-.1-.1-.19-.16-.29-.21-.36-.43-.7-.66-1.04-.23-.36-.48-.71-.74-1.07-.77-1.04-1.61-2.03-2.51-2.96h.01c-.63-.65-1.29-1.26-1.96-1.84h-.01c-.26-.21-.52-.41-.78-.63-.81-.62-1.63-1.21-2.5-1.74-.29-.18-.58-.36-.88-.52-.29-.16-.59-.33-.89-.48-.33-.18-.66-.34-1-.49-.12-.07-.25-.12-.37-.18-.1-.04-.19-.08-.29-.12-.37-.16-.75-.33-1.13-.48-.33-.12-.65-.23-.97-.34-.3-.11-.6-.21-.91-.3-.51-.15-1.03-.3-1.54-.41-.3-.08-.6-.15-.91-.21-.4-.08-.8-.16-1.21-.22-.52-.08-1.04-.15-1.58-.21-.91-.1-1.81-.14-2.74-.14s-1.84.04-2.74.15c-.51.05-1,.11-1.5.19-.01-.01-.04-.01-.05,0-.45.07-.89.15-1.33.25-.12.01-.25.04-.36.08-.37.07-.71.16-1.07.26-.19.04-.38.1-.58.16-.3.08-.62.16-.92.27-.19.05-.37.12-.55.19-.34.11-.69.23-1.02.37-1.47.58-2.87,1.28-4.2,2.1-.48.29-.93.59-1.4.92-.41.29-.82.59-1.22.91-.08.05-.16.12-.25.19-.38.32-.77.63-1.14.97-.41.37-.82.75-1.22,1.15-.38.4-.77.81-1.14,1.24-.36.4-.7.82-1.03,1.25-.01.03-.04.04-.05.07-.32.41-.62.84-.91,1.26-.03.04-.05.07-.08.11l2.28,1.54,2.26,1.54c4.1-6.07,10.91-9.69,18.21-9.69,12.1,0,21.96,9.85,21.96,21.96s-9.85,21.96-21.96,21.96c-6.13,0-11.82-2.46-16.02-6.93l-2,1.88-1.99,1.88c5.16,5.5,12.46,8.66,20.01,8.66,15.14,0,27.45-12.31,27.45-27.45,0-1.41-.11-2.81-.32-4.17Z" style="fill:#fff"></path>
+                      </svg>
+                    </div><span>投入加快</span>
+                  </div>
+                  <div class="section-tabs-item">
+                    <div class="icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.72 74.72">
+                        <path class="color" d="m72.53,19.27v-1.91c0-3.51-2.86-6.37-6.37-6.37h-.22v-.39c0-3.42-2.78-6.2-6.2-6.2h-2.61c-9.54,0-15.89,2.87-19.77,5.6-3.88-2.73-10.23-5.6-19.77-5.6h-2.61c-3.42,0-6.2,2.78-6.2,6.2v.39h-.22c-3.51,0-6.37,2.86-6.37,6.37v1.91c-1.35,1.21-2.2,2.97-2.2,4.92v35.18c0,4.84,3.93,8.77,8.77,8.77h18.87c3.21,1.95,7.7,2.2,9.72,2.2s6.51-.24,9.72-2.2h18.87c4.84,0,8.77-3.93,8.77-8.77V24.18c0-1.95-.85-3.71-2.2-4.92Z"></path>
+                        <path d="m68.11,21.98v-4.63c0-1.08-.88-1.96-1.96-1.96h-4.63v-4.81c0-.99-.8-1.78-1.78-1.78h-2.61c-11.08,0-17.1,4.25-19.77,6.92-2.67-2.67-8.69-6.92-19.77-6.92h-2.61c-.99,0-1.78.8-1.78,1.78v4.81h-4.63c-1.08,0-1.96.88-1.96,1.96v4.63c-1.21,0-2.2.98-2.2,2.2v35.18c0,2.41,1.95,4.36,4.36,4.36h20.34c1.21,1.28,4.43,2.2,8.25,2.2s7.04-.92,8.25-2.2h20.34c2.41,0,4.36-1.95,4.36-4.36V24.18c0-1.21-.98-2.2-2.2-2.2ZM11.55,57.13c-.3,0-.55-.25-.55-.55V20.34c0-.3.24-.55.55-.55h1.65v33.14c0,.99.8,1.78,1.78,1.78h2.61c6.35,0,9.91,1.24,11.88,2.42H11.55Zm23.61,0s-2.79-6.48-17.21-6.59c-.2,0-.36-.16-.36-.36V13.34c0-.1.04-.19.11-.26.07-.07.16-.11.26-.11,12.9.12,17.21,6.59,17.21,6.59v37.56Zm4.39,0V19.57s4.31-6.47,17.21-6.59c.1,0,.19.04.26.11.07.07.11.16.11.26v36.84c0,.2-.16.36-.36.36-14.42.11-17.21,6.59-17.21,6.59Zm24.16-.55c0,.3-.24.55-.55.55h-17.92c1.97-1.17,5.53-2.42,11.88-2.42h2.61c.99,0,1.78-.8,1.78-1.78V19.79h1.65c.3,0,.55.24.55.55v36.24Zm-8.9-38.87c.07.07.11.16.11.26v1.48c0,.19-.15.34-.33.36-6.21.43-10.16,2.37-12.44,4.02-.08.06-.18.06-.27.02-.09-.04-.14-.13-.14-.23v-1.38c0-.2.09-.38.25-.5,2.25-1.67,6.22-3.69,12.55-4.13.1,0,.2.03.27.09Zm0,26.34c.07.07.11.16.11.26v1.48c0,.19-.15.34-.33.36-6.21.43-10.16,2.37-12.44,4.02-.08.06-.18.06-.27.02-.09-.04-.14-.13-.14-.23v-1.38c0-.2.09-.38.25-.5,2.25-1.67,6.22-3.69,12.55-4.13.1,0,.2.03.27.09Zm0-6.59c.07.07.11.16.11.26v1.48c0,.19-.15.34-.33.35-6.21.43-10.16,2.37-12.44,4.02-.08.06-.18.07-.27.02-.09-.05-.14-.13-.14-.23v-1.38c0-.2.09-.38.25-.5,2.25-1.67,6.22-3.69,12.55-4.13.1,0,.2.03.27.09Zm0-6.58c.07.07.11.16.11.26v1.48c0,.19-.15.34-.33.36-6.21.42-10.16,2.37-12.44,4.02-.08.06-.18.06-.27.02-.09-.05-.14-.13-.14-.23v-1.37c0-.2.09-.38.25-.5,2.25-1.67,6.22-3.69,12.55-4.13.1,0,.2.03.27.09Zm-12.93-.44c-.09-.04-.14-.13-.14-.23v-1.38c0-.2.09-.38.25-.5,2.25-1.67,6.22-3.69,12.54-4.13.1,0,.2.03.27.09.07.07.11.16.11.26v1.48c0,.19-.15.34-.33.36-6.21.43-10.16,2.37-12.44,4.02-.08.06-.18.07-.27.02Zm-9.18-8.69c.16.12.25.3.25.5v1.38c0,.09-.05.18-.14.23-.09.04-.19.03-.27-.02-2.28-1.65-6.23-3.59-12.44-4.02-.19-.01-.33-.17-.33-.36v-1.48c0-.1.04-.19.11-.26.07-.07.17-.1.27-.09,6.33.44,10.3,2.46,12.55,4.13Zm0,26.34c.16.12.25.3.25.5v1.38c0,.09-.05.18-.14.23-.09.04-.19.03-.27-.02-2.28-1.65-6.23-3.59-12.44-4.02-.19-.01-.33-.17-.33-.36v-1.48c0-.1.04-.19.11-.26.07-.07.17-.1.27-.09,6.33.44,10.3,2.46,12.55,4.13Zm0-6.59c.16.12.25.3.25.5v1.38c0,.1-.05.18-.14.23-.09.05-.19.04-.27-.02-2.28-1.65-6.23-3.59-12.44-4.02-.19-.01-.33-.17-.33-.35v-1.48c0-.1.04-.19.11-.26.07-.07.17-.1.27-.09,6.32.44,10.3,2.46,12.55,4.13Zm0-6.58c.16.12.25.3.25.5v1.37c0,.1-.05.18-.14.23-.09.04-.19.03-.27-.02-2.28-1.65-6.23-3.6-12.44-4.02-.19-.01-.33-.17-.33-.36v-1.48c0-.1.04-.19.11-.26.07-.07.17-.1.27-.09,6.33.44,10.3,2.46,12.55,4.13Zm0-6.58c.16.12.25.3.25.5v1.38c0,.1-.05.18-.14.23-.09.05-.19.04-.27-.02-2.28-1.65-6.23-3.59-12.44-4.02-.19-.01-.33-.17-.33-.36v-1.48c0-.1.04-.19.11-.26.07-.07.17-.1.27-.09,6.33.44,10.29,2.46,12.54,4.13Z" style="fill:#fff"></path>
+                      </svg>
+                    </div><span>6大面向</span>
+                  </div>
+                </div>
+                <div class="section-paper">
+                  <div class="section-carousel owl-carousel" id="section-01-carousel" data-options="{&quot;autoHeight&quot;: true, &quot;items&quot;: 1, &quot;loop&quot;: true, &quot;nav&quot;: true, &quot;autoplay&quot;: false, &quot;autoplayTimeout&quot;: 6000, &quot;navContainerClass&quot;: &quot;owl-nav section-carousel-nav&quot;, &quot;colorArrow&quot;: &quot;#2F5B00&quot;, &quot;colorSwitcher&quot;: &quot;#section-01-tabs&quot;}">
+                    <div class="section-carousel-item">
+                      <div class="section-carousel-title">政府訂高標  永續大行動</div>
+                      <div class="section-carousel-text">氣候異常引發的危機一波比一波嚴重，主要國家不再遲疑，紛紛擬定永續發展目標，成為至2050年前最重要的施政重心。</div>
+                      <div class="section-carousel-content">
+                        <div class="d-none">
+                          <p>美國降低通膨法案：約3700億美元，2030年前將溫室氣體排放量減少40%，2035年達到100%潔淨電能目標</p>
+                          <p>歐盟綠色新政：約1.07兆歐元，30%以上投資氣候行動計畫，100%遵循歐洲綠色新政</p>
+                          <p>中國十四五氣候目標：2030年前實現碳達峰，2060年前達到碳中和</p>
+                          <p>日本綠色基金：約2兆日元，2035年達到電動汽車替代汽油動力汽車的目標，2050年可再生能源占總發電量的50-60%</p>
+                        </div>
+                        <div class="d-none d-md-block img-response img-response-pos" style="padding-bottom:calc(100% / 1195 * 546)"><img class="lazy" data-aos="fade-down" data-src="./images/sections/section-01/section-01-01-01.png"><img class="lazy" data-aos="fade-down" data-aos-delay="100" data-src="./images/sections/section-01/section-01-01-02.png"><img class="lazy" data-aos="fade-down" data-aos-delay="300" data-src="./images/sections/section-01/section-01-01-03.png"><img class="lazy" data-aos="fade-down" data-aos-delay="500" data-src="./images/sections/section-01/section-01-01-04.png"><img class="lazy" data-aos="fade-down" data-aos-delay="700" data-src="./images/sections/section-01/section-01-01-05.png"></div>
+                        <div class="d-md-none img-response img-response-pos" style="padding-bottom:calc(100% / 907 * 1747)"><img class="lazy" data-aos="fade-down" data-src="./images/sections/section-01/section-01-01-mobile-01.png"><img class="lazy" data-aos="fade-down" data-aos-delay="100" data-src="./images/sections/section-01/section-01-01-mobile-02.png"><img class="lazy" data-aos="fade-down" data-aos-delay="300" data-src="./images/sections/section-01/section-01-01-mobile-03.png"><img class="lazy" data-aos="fade-down" data-aos-delay="500" data-src="./images/sections/section-01/section-01-01-mobile-04.png"></div>
+                      </div>
+                      <div class="section-carousel-source">資料來源：百揚投資整理，2023/7/14。</div>
+                    </div>
+                    <div class="section-carousel-item">
+                      <div class="section-carousel-title">拚永續目標  腳步要加快</div>
+                      <div class="section-carousel-text">根據聯合國貿易發展委員會估計，若2030年要達到永續發展目標，每年需投資5~7兆美元，但受疫情影響，年度資金缺口達4.2兆美元，預期未來幾年投入的速度與金額將大幅加快。</div>
+                      <div class="section-carousel-content">
+                        <div class="d-none">
+                          <p>2021~2030永續發展目標產業投資缺口</p>
+                          <p>2015 - 2030 每年投資金額 5~7 兆美元</p>
+                          <p>2015 - 2020 產業投資缺口 -2.5 兆美元</p>
+                          <p>2021 - 2030 產業投資缺口 -4.2 兆美元</p>
+                        </div>
+                        <div class="d-none d-md-block img-response img-response-pos" style="padding-bottom:calc(100% / 1195 * 546)"><img class="lazy" data-aos="fade-down" data-src="./images/sections/section-01/section-01-02-01.png"><img class="lazy" data-aos="fade-down" data-aos-delay="100" data-src="./images/sections/section-01/section-01-02-02.png"><img class="lazy" data-aos="fade-down" data-aos-delay="300" data-src="./images/sections/section-01/section-01-02-03.png"><img class="lazy animate__animated animate__infinite animate__flash animate__slower" data-src="./images/sections/section-01/section-01-02-04.svg"></div>
+                        <div class="d-md-none img-response img-response-pos" style="padding-bottom:calc(100% / 907 * 1584)"><img class="lazy" data-aos="fade-down" data-src="./images/sections/section-01/section-01-02-mobile-01.png"><img class="lazy" data-aos="fade-down" data-aos-delay="100" data-src="./images/sections/section-01/section-01-02-mobile-02.png"><img class="lazy" data-aos="fade-down" data-aos-delay="300" data-src="./images/sections/section-01/section-01-02-mobile-03.png"><img class="lazy animate__animated animate__infinite animate__flash animate__slower" data-aos="fade-down" data-aos-delay="500" data-src="./images/sections/section-01/section-01-02-mobile-04.png"></div>
+                      </div>
+                      <div class="section-carousel-source">資料來源：聯合國貿易發展委員會，百揚投資，2023/8。</div>
+                    </div>
+                    <div class="section-carousel-item">
+                      <div class="section-carousel-title">善經濟循環  聚焦6面向</div>
+                      <div class="section-carousel-text">對照聯合國永續發展目標(SDGs)，聚焦「愛護地球」與「富裕人生」涵蓋的6大面向，投資鎖定符合永續影響力投資的相關概念股。</div>
+                      <div class="section-carousel-content">
+                        <div class="d-none">
+                          <h4>愛護地球</h4>
+                          <p>能源轉型 全球首屈一指的水處理公司 威立雅環境</p>
+                          <p>永續產業 全球第一大專用晶片代工廠 台積電</p>
+                          <p>資源效率 水技術領域的全球領導者 賽萊默</p>
+                          <h4>富裕人生</h4>
+                          <p>健康福祉 全球知名大型動物蛋白油脂提煉公司 達爾琳食材公司</p>
+                          <p>普惠包容 海灣地區資產最大的商業銀行 卡達國家銀行</p>
+                          <p>賦能平權 全球第4大銀行 印度HDFC銀行</p>
+                        </div>
+                        <div class="d-none d-md-block img-response img-response-pos" style="padding-bottom:calc(100% / 1195 * 546)"><img class="lazy" data-aos="fade-right" data-aos-delay="100" data-src="./images/sections/section-01/section-01-03-01.png"><img class="lazy" data-aos="fade-left" data-aos-delay="300" data-src="./images/sections/section-01/section-01-03-02.png"><img class="lazy" data-aos="fade-in" data-src="./images/sections/section-01/section-01-03-03.png"></div>
+                        <div class="d-md-none img-response img-response-pos" style="padding-bottom:calc(100% / 907 * 1665)"><img class="lazy" data-aos="fade-down" data-src="./images/sections/section-01/section-01-03-mobile-01.png"><img class="lazy" data-aos="fade-up" data-aos-delay="100" data-src="./images/sections/section-01/section-01-03-mobile-02.png"><img class="lazy" data-aos="fade-in" data-aos-delay="300" data-src="./images/sections/section-01/section-01-03-mobile-03.png"></div>
+                      </div>
+                      <div class="section-carousel-source">資料來源：安盛投資管理(AXA IM)，百揚投資整理，2023/8，本資料提及之個股、類股或產業，僅供舉例說明，不代表任何基金必然投資，亦不代表任何有價證券或投資之推薦。</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="section section-02" id="section-02">
+          <div class="container">
+            <div class="section-wrapper">
+              <div class="section-title">
+                <div class="d-none">義利兼顧</div>
+                <div class="d-none d-md-block img-response img-response-pos" style="padding-bottom:calc(100% / 927 * 2786)"><img class="animate__animated animate__infinite animate__title_image animate__slowest" data-aos="fade-down" src="./images/sections/section-02/section-02-title-image.png"><img data-aos="fade-down" src="./images/sections/section-02/section-02-title.png"></div>
+                <div class="d-md-none img-response img-response-pos" style="padding-bottom:calc(100% / 775 * 309)"><img data-aos="fade-down" src="./images/sections/section-02/section-02-mobile-title.png"></div>
+              </div>
+              <div class="section-content">
+                <div class="section-tabs" id="section-02-tabs">
+                  <div class="section-tabs-item active">
+                    <div class="icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.72 74.72">
+                        <path class="color" d="m71.9,60.51v-.63c0-2.45-1.85-4.44-4.23-4.71v-21.28c2.38-.27,4.23-2.26,4.23-4.71v-7.63c0-1.72-.93-3.31-2.44-4.16L39.69.72c-.72-.41-1.53-.61-2.33-.61s-1.61.2-2.33.61L5.27,17.39c-1.51.84-2.44,2.43-2.44,4.16v7.63c0,2.45,1.85,4.44,4.23,4.71v21.28c-2.38.27-4.23,2.26-4.23,4.71v.63C1.16,61.25,0,62.92,0,64.86v4.99C0,72.48,2.13,74.61,4.77,74.61h65.19c2.63,0,4.77-2.13,4.77-4.77v-4.99c0-1.94-1.16-3.61-2.83-4.36Z"></path>
+                        <rect x="11.83" y="31.82" width="7.71" height="25.54" style="fill:#fff"></rect>
+                        <rect x="55.18" y="31.82" width="7.71" height="25.54" style="fill:#fff"></rect>
+                        <polygon points="67.13 64.86 67.13 59.88 7.59 59.88 7.59 64.86 4.77 64.86 4.77 69.85 69.96 69.85 69.96 64.86 67.13 64.86" style="fill:#fff"></polygon>
+                        <path d="m22.75,30.14c0,3.64,1.33,6.97,3.53,9.52v17.69h7.71v-12.99c1.08.26,2.21.39,3.37.39s2.29-.14,3.37-.39v12.99h7.71v-17.69c2.2-2.56,3.53-5.89,3.53-9.52,0-.33-.01-.65-.03-.97h15.19v-7.63L37.36,4.87,7.59,21.54v7.63h15.19c-.02.32-.03.65-.03.97Zm26.39,0c0,6.5-5.27,11.77-11.77,11.77s-11.77-5.27-11.77-11.77,5.27-11.77,11.77-11.77,11.77,5.27,11.77,11.77Z" style="fill:#fff"></path>
+                        <path d="m35.7,26.72c0-.72.73-1.05,1.48-1.05.88,0,1.6.46,1.6,1.43h4.25c0-2.61-1.47-4.35-4.09-4.86v-2.28h-3.18v2.23c-2.75.42-4.39,2.06-4.39,4.66,0,3.5,2.84,4.19,5.06,4.74,1.46.36,2.66.63,2.66,1.6,0,.84-.85,1.31-1.74,1.31-.97,0-1.82-.54-1.82-1.63h-4.37c0,2.85,1.76,4.71,4.59,5.21v2.26h3.18v-2.24c2.74-.45,4.59-2.13,4.59-4.98,0-3.51-2.96-4.27-5.23-4.86-1.45-.36-2.61-.65-2.61-1.53Z" style="fill:#fff"></path>
+                      </svg>
+                    </div><span>龐大商機</span>
+                  </div>
+                  <div class="section-tabs-item">
+                    <div class="icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.72 74.72">
+                        <path class="color" d="m74.72,45.77c-.04-6.73-.1-14.24-6.92-17.23,1.21-1.89,1.93-4.13,1.93-6.54,0-6.7-5.45-12.15-12.15-12.15-2.74,0-5.27.92-7.3,2.46-1.81-5.39-6.91-9.29-12.91-9.29s-11.09,3.9-12.9,9.29c-2.04-1.54-4.56-2.46-7.3-2.46-6.7,0-12.15,5.45-12.15,12.15,0,2.41.71,4.66,1.93,6.55C.14,31.54.07,39.08,0,45.28c0,.71,0,18.22,0,18.39,0,2.72,2.21,4.93,4.93,4.93h12.4c.73,1.82,2.5,3.11,4.57,3.11h30.9c2.08,0,3.85-1.29,4.57-3.11h12.4c2.72,0,4.93-2.21,4.93-4.93,0-.56,0-17.38,0-17.91Z"></path>
+                        <path d="m17.15,29.21c3.99,0,7.22-3.23,7.22-7.22s-3.23-7.22-7.22-7.22-7.22,3.23-7.22,7.22,3.23,7.22,7.22,7.22Z" style="fill:#fff"></path>
+                        <path d="m57.57,29.21c3.99,0,7.22-3.23,7.22-7.22s-3.23-7.22-7.22-7.22-7.22,3.23-7.22,7.22,3.23,7.22,7.22,7.22Z" style="fill:#fff"></path>
+                        <path d="m4.93,63.68h12.63v-28.02c0-1.14.2-2.22.54-3.23h-7.13c-5.2,1.01-5.95,4.4-6.03,12.9,0,.67,0,17.62,0,18.35Z" style="fill:#fff"></path>
+                        <path d="m69.79,63.68c0-.56,0-17.36,0-17.88-.06-8.85-.73-12.35-6.03-13.37h-7.13c.34,1,.54,2.09.54,3.23v28.02h12.63Z" style="fill:#fff"></path>
+                        <path d="m48.17,30.41h0s-6.13,0-6.13,0l-4.68,13.72-4.68-13.72h-6.12c-2.57,0-4.65,2.36-4.65,5.25v31.13h30.9v-31.13c0-2.9-2.08-5.25-4.65-5.25Z" style="fill:#fff"></path>
+                        <path d="m37.36,25.32c4.8,0,8.69-3.89,8.69-8.69s-3.89-8.69-8.69-8.69-8.69,3.89-8.69,8.69,3.89,8.69,8.69,8.69Z" style="fill:#fff"></path>
+                      </svg>
+                    </div><span>法人先行</span>
+                  </div>
+                  <div class="section-tabs-item">
+                    <div class="icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.72 74.72">
+                        <path class="color" d="m46.25,18.78c1.87-1.25,4.24-2.97,6.18-6.03.02-.03.04-.06.06-.09,1.71-2.84,1.97-5.42.76-7.66-.11-.2-.22-.38-.36-.56-1.27-1.73-3.28-2.61-5.97-2.61-.91,0-1.83.08-2.81.17-.96.09-1.95.18-2.87.18-1.1,0-1.93-.13-2.4-.36-2.39-1.2-4.76-1.81-7.02-1.81-1.5,0-2.9.27-4.16.81-.13.06-.26.12-.39.19-5.29,2.84-5,9.36-3.12,12.88.49.91,1.42,2.54,2.65,4.31-9.57,6.94-20.71,21.43-20.71,32.82s5.42,23.71,31.27,23.71,31.27-12.89,31.27-23.71c0-14.48-13.8-25.72-22.38-32.24Z"></path>
+                        <path d="m39.28,19.52c-.15-.12-.32-.21-.49-.3,1.97-3.92,6.46-4.14,9.57-9.05.46-.77,1.12-2.01.65-2.9h0c-1.33-1.82-7.79,1.01-12.32-1.16-2.9-1.45-5.44-1.6-7.14-.88-2.93,1.57-1.53,5.67-1.16,6.37h0c1.21,2.25,3.39,5.69,5.75,7.84-8.4,3.45-23.24,19.85-23.24,31.57,0,14.61,11.85,18.9,26.46,18.9s26.46-4.29,26.46-18.9-18.17-26.46-24.54-31.5Zm4.89,34.04c-.52,1-1.21,1.8-2.04,2.39-.75.53-1.76.94-3.07,1.23v2.91c0,.3-.24.54-.54.54h-2.92c-.3,0-.54-.24-.54-.54v-2.79c-1.21-.17-2.27-.49-3.16-.96-1.34-.69-2.61-1.63-3.76-2.78-.1-.1-.16-.24-.16-.39,0-.15.06-.28.17-.39l2.95-2.82c.21-.2.55-.2.76,0,1.78,1.77,3.5,2.67,5.1,2.67.77,0,1.41-.24,1.95-.74.53-.48.79-1.02.79-1.66,0-.54-.16-1-.5-1.41-.36-.43-1.12-.89-2.24-1.38-2.52-1.09-4.19-1.93-5.09-2.59-.93-.67-1.64-1.44-2.1-2.28-.47-.85-.71-1.77-.71-2.74,0-1.61.63-3,1.88-4.14,1.11-1.01,2.5-1.61,4.13-1.78v-2.52c0-.3.24-.54.54-.54h2.92c.3,0,.54.24.54.54v2.79c.87.22,1.63.51,2.26.85.74.4,1.59,1.05,2.59,1.99.11.1.17.25.17.4,0,.15-.07.29-.18.4l-2.99,2.72c-.21.19-.54.19-.74-.01-1.25-1.21-2.49-1.82-3.67-1.82-.67,0-1.18.15-1.58.47-.36.28-.53.59-.53.93,0,.28.16.58.49.9.26.27.88.7,2.39,1.27,2.37.92,3.95,1.68,4.84,2.34.91.67,1.62,1.49,2.11,2.44.49.96.74,2.04.74,3.21s-.27,2.27-.79,3.27Z" style="fill:#fff"></path>
+                      </svg>
+                    </div><span>兼顧收益</span>
+                  </div>
+                </div>
+                <div class="section-paper">
+                  <div class="section-carousel owl-carousel" id="section-02-carousel" data-options="{&quot;autoHeight&quot;: true, &quot;items&quot;: 1, &quot;loop&quot;: true, &quot;nav&quot;: true, &quot;autoplay&quot;: false, &quot;autoplayTimeout&quot;: 6000, &quot;navContainerClass&quot;: &quot;owl-nav section-carousel-nav&quot;, &quot;colorArrow&quot;: &quot;#2F7283&quot;, &quot;colorSwitcher&quot;: &quot;#section-02-tabs&quot;}">
+                    <div class="section-carousel-item">
+                      <div class="section-carousel-title">影響力商機  估12兆美元</div>
+                      <div class="section-carousel-text">邁向永續發展，將產生新科技、新服務或新市場，進而衍生龐大的新商機。根據世界企業永續發展委員會(WBCSD)預估，到2030年每年至少可創造12兆美元的商機。</div>
+                      <div class="section-carousel-content">
+                        <div class="d-none">
+                          <h4>預估到2030年全球永續影響力有關產值將達12兆美元</h4>
+                          <p>能源與物料 4.3兆美元</p>
+                          <p>糧食與農業 2.3兆美元</p>
+                          <p>城市發展 3.7兆美元</p>
+                          <p>健康與照護 1.8兆美元</p>
+                        </div>
+                        <div class="d-none d-md-block img-response img-response-pos" style="padding-bottom:calc(100% / 3411 * 1539)"><img class="lazy" data-aos="fade-down" data-src="./images/sections/section-02/section-02-01-01.png"><img class="lazy" data-aos="fade-down" data-aos-delay="100" data-src="./images/sections/section-02/section-02-01-02.png"><img class="lazy" data-aos="fade-down" data-aos-delay="300" data-src="./images/sections/section-02/section-02-01-03.png"><img class="lazy" data-aos="fade-down" data-aos-delay="500" data-src="./images/sections/section-02/section-02-01-04.png"><img class="lazy" data-aos="fade-down" data-aos-delay="700" data-src="./images/sections/section-02/section-02-01-05.png"><img class="lazy" data-aos="fade-in" data-aos-delay="1000" data-src="./images/sections/section-02/section-02-01-06.png" style="mix-blend-mode:multiply"></div>
+                        <div class="d-md-none img-response img-response-pos" style="padding-bottom:calc(100% / 887 * 1886)"><img class="lazy" data-aos="fade-down" data-src="./images/sections/section-02/section-02-01-mobile-01.png"><img class="lazy" data-aos="fade-down" data-aos-delay="100" data-src="./images/sections/section-02/section-02-01-mobile-02.png"><img class="lazy" data-aos="fade-down" data-aos-delay="300" data-src="./images/sections/section-02/section-02-01-mobile-03.png"><img class="lazy" data-aos="fade-down" data-aos-delay="500" data-src="./images/sections/section-02/section-02-01-mobile-04.png"><img class="lazy" data-aos="fade-down" data-aos-delay="700" data-src="./images/sections/section-02/section-02-01-mobile-05.png"></div>
+                      </div>
+                      <div class="section-carousel-source">資料來源：世界企業永續發展委員會(WBCSD)、Better Business, Better World(BSDC；更好的企業，更美好的世界)，百揚投資整理，2017/11/23。</div>
+                    </div>
+                    <div class="section-carousel-item">
+                      <div class="section-carousel-title">法人衝在前  影響力入列</div>
+                      <div class="section-carousel-text">看好永續商機，歐、美、日機構法人從被動化主動，紛紛投入影響力投資行列，並納入投資決策流程，成為國際重大趨勢。</div>
+                      <div class="section-carousel-content">
+                        <div class="d-none">
+                          <h4>挪威主權基金 逾1.2兆美元</h4>
+                          <p>投資股債前，先考慮環境、社會、公司治理（ESG）因素，透過「建立投資原則、執行所有權、永續投資」的方式，來達成其永續投資目標。</p>
+                          <h4>日本政府退休投資基金GPIF(全球最大退休基金) 逾129兆日元</h4>
+                          <p>近100%資產的投資決策納入ESG因子。激勵了大量資產管理者以及投資經理在投資流程中納入ESG從根本上改變了日本的ESG市場格局。</p>
+                          <h4>新加坡政府投資公司GIC 逾6900億美元</h4>
+                          <p>2020年建立「可持續投資基金(SIF)」，投資與永續相關的資產類別，並積極尋找良好回報的相關機會。</p>
+                          <p>採用ESG投資的整體投資組合，投資在能源轉型中發揮作用的各類企業。</p>
+                        </div>
+                        <div class="d-none d-md-block img-response img-response-pos" style="padding-bottom:calc(100% / 3411 * 1539)"><img class="lazy" data-aos="fade-down" data-src="./images/sections/section-02/section-02-02-01.png"><img class="lazy" data-aos="fade-down" data-aos-delay="100" data-src="./images/sections/section-02/section-02-02-02.png"><img class="lazy" data-aos="fade-down" data-aos-delay="300" data-src="./images/sections/section-02/section-02-02-03.png"></div>
+                        <div class="d-md-none img-response img-response-pos" style="padding-bottom:calc(100% / 877 * 1989)"><img class="lazy" data-aos="fade-down" data-src="./images/sections/section-02/section-02-02-mobile-01.png"><img class="lazy" data-aos="fade-down" data-aos-delay="100" data-src="./images/sections/section-02/section-02-02-mobile-02.png"><img class="lazy" data-aos="fade-down" data-aos-delay="300" data-src="./images/sections/section-02/section-02-02-mobile-03.png"></div>
+                      </div>
+                      <div class="section-carousel-source">資料來源：全球影響力投資聯盟(GIIN)、台灣影響力投資協會(TIIA)，百揚投資整理，2023/8，圖文僅供參考，本公司未藉此做任何推薦及獲利之保證，亦不代表上述機構對本公司發行之產品做任何推薦及保證。</div>
+                    </div>
+                    <div class="section-carousel-item">
+                      <div class="section-carousel-title">導入影響力  義利同兼顧</div>
+                      <div class="section-carousel-text">明晟全球影響力指數自2016年3月編撰以來，共出現三次技術指標由空轉多，低檔反彈超過20%，後續3、6、12個月，分別平均續漲8％、8.9％、21％，勝過ESG與世界指數。</div>
+                      <div class="section-carousel-content">
+                        <div class="d-none">
+                          <h4>全球永續影響力組合* ( 50% 美林綠色債券指數 + 50% 明晟全球永續影響力指數 )</h4>
+                          <h4>全球一般組合* ( 50% 彭博全球投資等級債指數 + 50% 明晟世界指數含新興 )</h4>
+                          <h5>2017/5/25</h5>
+                          <p>3個月全球永續影響力組合3.3 全球一般組合2.5</p>
+                          <p>6個月全球永續影響力組合6.4 全球一般組合5.9</p>
+                          <p>1年全球永續影響力組合6.2 全球一般組合6.5</p>
+                          <h5>2019/11/4</h5>
+                          <p>3個月全球永續影響力組合7.3 全球一般組合3.2</p>
+                          <p>6個月全球永續影響力組合-2.2 全球一般組合-6.3</p>
+                          <p>1年全球永續影響力組合19.8 全球一般組合6.8</p>
+                          <h5>2020/4/17</h5>
+                          <p>3個月全球永續影響力組合13.5 全球一般組合9.0</p>
+                          <p>6個月全球永續影響力組合22.5 全球一般組合13.9</p>
+                          <p>1年全球永續影響力組合37.0 全球一般組合27.0</p>
+                        </div>
+                        <div class="d-none d-md-block img-response img-response-pos" style="padding-bottom:calc(100% / 3411 * 1539)"><img class="lazy" data-aos="fade-in" data-aos-delay="100" data-src="./images/sections/section-02/section-02-03-02.png"><img class="lazy" data-aos="fade-in" data-aos-delay="300" data-src="./images/sections/section-02/section-02-03-03.png"><img class="lazy" data-aos="fade-in" data-aos-delay="500" data-src="./images/sections/section-02/section-02-03-04.png"><img class="lazy" data-src="./images/sections/section-02/section-02-03-01.png"></div>
+                        <div class="d-md-none img-response img-response-pos" style="padding-bottom:calc(100% / 886 * 1698)"><img class="lazy" data-aos="fade-in" data-aos-delay="100" data-src="./images/sections/section-02/section-02-03-mobile-02.png"><img class="lazy" data-aos="fade-in" data-aos-delay="300" data-src="./images/sections/section-02/section-02-03-mobile-03.png"><img class="lazy" data-aos="fade-in" data-aos-delay="500" data-src="./images/sections/section-02/section-02-03-mobile-04.png"><img class="lazy" data-src="./images/sections/section-02/section-02-03-mobile-01.png"></div>
+                      </div>
+                      <div class="section-carousel-source">資料來源：Bloomberg(彭博)，統計期間2017/5/25-2021/4/17，百揚投資整理，全球永續影響力組合及全球一般組合係以股、債指數各50%比重進行標準化計算， 明晟全球永續影響力指數成立日2016/3/1，此處統計係以明晟全球永續影響力指數自成立以來自低點上漲20%為起算點，計算各期間累積報酬表現；<span class="text-secondary">*此處明晟全球永續影響力、全球一般等指數組合僅為提供市場相關指標模擬組合，並非本基金採用之績效指標benchmark，以過去績效進行模擬情境之報酬率，僅為歷史資料模擬結果，不代表任何基金或相關投資組合實際報酬率及未來績效保證；不同時間進行模擬操作，結果可能不同。</span></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="section section-03" id="section-03">
+          <div class="container">
+            <div class="section-wrapper">
+              <div class="section-title">
+                <div class="d-none">投資新星</div>
+                <div class="d-none d-md-block img-response img-response-pos" style="padding-bottom:calc(100% / 927 * 2786)"><img class="animate__animated animate__infinite animate__title_image animate__slowest" data-aos="fade-down" src="./images/sections/section-03/section-03-title-image.png"><img data-aos="fade-down" src="./images/sections/section-03/section-03-title.png"></div>
+                <div class="d-md-none img-response img-response-pos" style="padding-bottom:calc(100% / 775 * 309)"><img data-aos="fade-down" src="./images/sections/section-03/section-03-mobile-title.png"></div>
+              </div>
+              <div class="section-content">
+                <div class="section-tabs" id="section-03-tabs">
+                  <div class="section-tabs-item active">
+                    <div class="icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.72 74.72">
+                        <path class="color" d="m74.09,32.24c-.61-1.09-1.61-1.89-2.77-2.3.08-.5.13-1.02.15-1.57,0-.09,0-.17,0-.26-.02-1.55-.29-3.21-.72-4.61-.79-2.66-2.04-4.64-2.18-4.86-.49-.77-1.19-1.39-2-1.79-.57-.28-1.18-.44-1.81-.5-.56-2.09-1.6-3.81-2.21-4.68-1.43-2.12-3.09-3.58-3.65-4.08-.93-.86-2.15-1.33-3.42-1.33-.15,0-.7.02-1.38.21-2.18-2.55-5.03-4.07-5.87-4.48-.69-.34-1.45-.51-2.21-.51-.28,0-.55.02-.83.07-4.25.71-4.53,4.69-4.89,9.72-.08,1.06,0,2.05.19,2.99-1.03-.13-2.08-.21-3.14-.21s-2.11.08-3.14.21c.18-.93.27-1.92.19-2.99-.36-5.03-.64-9.01-4.89-9.72-.28-.05-.55-.07-.83-.07-.76,0-1.52.17-2.21.51-.83.41-3.69,1.93-5.87,4.48-.68-.19-1.22-.21-1.38-.21-1.26,0-2.51.49-3.43,1.35-.54.48-2.2,1.94-3.6,4.01-.63.91-1.67,2.63-2.24,4.73-.63.05-1.25.22-1.82.5-.82.4-1.51,1.02-2,1.79-.14.22-1.39,2.2-2.16,4.81-.45,1.46-.72,3.12-.74,4.66,0,.09,0,.17,0,.26.02.54.07,1.06.15,1.57-1.16.4-2.17,1.21-2.78,2.3C.21,33.01,0,33.89,0,34.76c0,0,0,.61.09,1.57,0,.05.05.45.05.45.08.79.21,1.97.61,3.3.34,1.29.89,2.68,1.66,3.98-.9.82-1.43,1.92-1.58,3.01-.12.87,0,1.79.32,2.61,0,0,.24.6.7,1.52.22.43.48.94.79,1.49.05.09.11.18.16.27.35.53.75,1.09,1.19,1.66.47.62,1.48,1.83,2.91,2.94-.74,1.77-.18,3.44-.07,3.72.3.8.83,1.53,1.48,2.09,0,0,.47.4,1.3.99.38.27.83.58,1.34.9.05.03.1.06.15.09.56.32,1.13.62,1.73.91.66.31,1.49.65,2.42.92.15,1.18.67,2.03.79,2.2.47.72,1.15,1.31,1.92,1.71,0,0,.55.28,1.49.67.43.17.94.38,1.52.57.06.02.11.04.17.05.63.19,1.26.35,1.88.49,1.18.26,2.36.39,3.51.39,2.83,0,5.25-.8,6.99-2.31,1.62-1.39,2.89-3.06,3.83-4.99.91,1.9,2.19,3.58,3.82,4.98,1.75,1.52,4.17,2.32,7,2.32,1.15,0,2.33-.13,3.53-.39.61-.13,1.23-.3,1.86-.48.06-.02.11-.04.17-.05.57-.19,1.09-.4,1.53-.58.91-.38,1.46-.66,1.46-.66.77-.39,1.44-.99,1.92-1.71.12-.18.64-1.03.79-2.2.94-.28,1.77-.62,2.44-.93.57-.27,1.15-.58,1.71-.9.05-.03.1-.06.15-.09.51-.32.96-.63,1.37-.91.8-.57,1.27-.97,1.27-.97.66-.55,1.18-1.28,1.48-2.09.1-.28.66-1.95-.07-3.72,1.44-1.12,2.45-2.33,2.91-2.94.44-.57.84-1.12,1.19-1.66.06-.09.11-.18.16-.27.31-.55.58-1.05.79-1.48.46-.92.7-1.53.7-1.53.33-.82.45-1.74.32-2.61-.16-1.09-.68-2.18-1.58-3,.77-1.3,1.32-2.7,1.66-3.99.4-1.32.53-2.5.61-3.3,0,0,.04-.4.05-.45.09-.97.09-1.57.09-1.57,0-.87-.21-1.76-.63-2.52Z"></path>
+                        <path d="m24.57,59.45c.64-.85.89-1.46.89-1.46,0,0-.37-.16-.94-.39-.56-.22-1.32-.5-2.19-.74-1.75-.45-3.91-.73-6.16.36-2.26,1.08-3.48,1.56-4.06,1.88-.59.31-.56.39-.56.39,0,0,.36.3.97.74.31.22.67.47,1.09.73.42.24.89.49,1.38.73,1.99.94,4.52,1.47,6.19.59,1.68-.88,2.73-1.97,3.39-2.82Z" style="fill:#fff"></path>
+                        <path d="m30.16,61.59c-1.81-.05-3.98.17-5.93,1.74-1.96,1.56-3.04,2.31-3.53,2.75-.5.43-.45.51-.45.51,0,0,.42.21,1.11.5.35.14.76.31,1.22.46.46.14.98.28,1.51.39,2.15.47,4.73.42,6.16-.82,1.44-1.24,2.22-2.54,2.67-3.52.43-.97.54-1.62.54-1.62,0,0-.39-.07-1-.17-.6-.09-1.4-.19-2.3-.22Z" style="fill:#fff"></path>
+                        <path d="m17.76,53.75c.92-.51,1.39-.96,1.39-.96,0,0-.23-.3-.65-.73-.21-.21-.46-.46-.75-.72-.28-.28-.59-.57-.95-.85-.73-.54-1.5-1.17-2.48-1.6-.95-.45-2.01-.81-3.3-.84-2.52-.13-3.85-.34-4.52-.34-.67-.03-.69.07-.69.07,0,0,.19.47.55,1.18.18.36.4.78.66,1.23.28.43.62.89.98,1.35,1.42,1.89,3.64,3.51,5.54,3.41,1.89-.08,3.31-.7,4.23-1.2Z" style="fill:#fff"></path>
+                        <path d="m9.28,44.01c1.84.7,3.34.72,4.38.62,1.06-.12,1.67-.36,1.67-.36,0,0-.14-.35-.33-.93-.19-.58-.56-1.31-.96-2.13-.36-.83-.97-1.68-1.61-2.48-.65-.8-1.56-1.51-2.69-2.01-2.26-1.03-3.45-1.63-4.06-1.87-.62-.25-.66-.17-.66-.17,0,0,0,.47.07,1.2.08.74.15,1.75.49,2.81.53,2.07,1.9,4.61,3.69,5.31Z" style="fill:#fff"></path>
+                        <path d="m12.32,34.01c.91.52,1.54.69,1.54.69,0,0,.14-.35.3-.93.16-.57.3-1.37.44-2.26.06-.45.09-.92.08-1.41,0-.49,0-.99-.09-1.5-.18-1.03-.5-2.08-1.22-3.11-1.44-2.06-2.09-3.14-2.51-3.65-.4-.52-.48-.48-.48-.48,0,0-.98,1.52-1.59,3.58-.32,1.02-.5,2.18-.51,3.25.04,1.1.27,2.12.8,2.87,1.12,1.53,2.34,2.42,3.25,2.94Z" style="fill:#fff"></path>
+                        <path d="m16.91,24.1c.71.8,1.25,1.16,1.25,1.16,0,0,.94-1.16,1.7-2.77.76-1.63,1.39-3.71.67-6.09-.72-2.39-.97-3.71-1.13-4.38-.07-.76-.16-.74-.17-.73-.22.2-1.7,1.43-2.9,3.2-1.22,1.75-2.12,4.07-1.56,5.83.58,1.77,1.44,2.99,2.14,3.78Z" style="fill:#fff"></path>
+                        <path d="m29.4,11.63c-.36-5.06-.71-5.12-.71-5.12,0,0-5.53,2.71-5.69,6.36-.16,3.65,1.06,6.09,1.06,6.09,0,0,5.7-2.27,5.34-7.33Z" style="fill:#fff"></path>
+                        <path d="m62.61,59.1c-.58-.32-1.81-.81-4.06-1.88-2.25-1.09-4.42-.81-6.16-.36-.87.23-1.63.52-2.19.74-.57.24-.94.39-.94.39,0,0,.25.6.89,1.46.66.85,1.71,1.94,3.39,2.82,1.67.88,4.2.35,6.19-.59.5-.24.96-.49,1.38-.73.41-.26.78-.51,1.09-.73.61-.44.97-.74.97-.74,0,0,.03-.08-.56-.39Z" style="fill:#fff"></path>
+                        <path d="m54.02,66.08c-.49-.44-1.58-1.19-3.53-2.75-1.95-1.57-4.12-1.79-5.93-1.74-.9.03-1.71.13-2.3.22-.61.1-1,.17-1,.17,0,0,.11.65.54,1.62.45.98,1.22,2.27,2.67,3.52,1.43,1.24,4.01,1.29,6.16.82.54-.12,1.05-.26,1.51-.39.46-.16.88-.32,1.22-.46.69-.29,1.11-.5,1.11-.5,0,0,.05-.08-.45-.51Z" style="fill:#fff"></path>
+                        <path d="m68.23,47.71c-.67,0-2,.21-4.52.34-1.29.03-2.35.39-3.3.84-.98.43-1.75,1.06-2.48,1.6-.35.28-.67.57-.95.85-.29.26-.55.5-.75.72-.41.43-.65.73-.65.73,0,0,.47.45,1.39.96.92.49,2.34,1.12,4.23,1.2,1.9.1,4.12-1.51,5.54-3.41.36-.46.7-.92.98-1.35.26-.45.48-.87.66-1.23.36-.72.55-1.18.55-1.18,0,0-.01-.1-.69-.07Z" style="fill:#fff"></path>
+                        <path d="m69.04,34.85c-.61.23-1.81.84-4.06,1.87-1.13.51-2.05,1.22-2.69,2.01-.64.8-1.25,1.65-1.61,2.48-.39.82-.77,1.55-.96,2.13-.19.58-.33.93-.33.93,0,0,.61.25,1.67.36,1.04.1,2.54.08,4.38-.62,1.79-.69,3.17-3.24,3.69-5.31.34-1.06.4-2.08.49-2.81.07-.74.07-1.2.07-1.2,0,0-.04-.08-.66.17Z" style="fill:#fff"></path>
+                        <path d="m60.12,31.51c.14.88.28,1.68.44,2.26.16.57.3.93.3.93,0,0,.62-.17,1.54-.69.91-.52,2.13-1.41,3.25-2.94.53-.76.76-1.77.8-2.87-.02-1.07-.2-2.24-.51-3.25-.61-2.06-1.59-3.58-1.59-3.58,0,0-.08-.04-.48.48-.42.51-1.07,1.59-2.51,3.65-.72,1.02-1.04,2.07-1.22,3.11-.08.51-.09,1.01-.09,1.5,0,.49.03.97.08,1.41Z" style="fill:#fff"></path>
+                        <path d="m56.56,25.27s.54-.37,1.25-1.16c.69-.79,1.56-2.01,2.14-3.78.56-1.76-.34-4.07-1.56-5.83-1.2-1.77-2.68-3-2.9-3.2-.01-.01-.11-.03-.17.73-.16.67-.41,1.99-1.13,4.38-.72,2.38-.09,4.46.67,6.09.77,1.61,1.7,2.77,1.7,2.77Z" style="fill:#fff"></path>
+                        <path d="m50.66,18.97s1.23-2.44,1.06-6.09c-.16-3.65-5.69-6.36-5.69-6.36,0,0-.35.06-.71,5.12-.36,5.06,5.34,7.33,5.34,7.33Z" style="fill:#fff"></path>
+                        <path d="m56.87,38.59c0-10.78-8.74-19.51-19.51-19.51s-19.51,8.74-19.51,19.51,8.74,19.51,19.51,19.51,19.51-8.74,19.51-19.51Zm-7.06-2.51l-4.26,3.1-3.17,2.31,1.15,3.53,1.69,5.22c.14.44-.05.58-.42.3l-4.5-3.27-2.94-2.13-4.81,3.49-2.63,1.91c-.37.27-.56.13-.42-.3l.97-2.98,1.87-5.76-3.17-2.31-4.26-3.1c-.37-.27-.3-.49.16-.49h9.19l1.29-3.98,1.55-4.76c.14-.44.38-.44.52,0l.58,1.8h0l2.26,6.94h9.19c.46,0,.53.22.16.49Z" style="fill:#fff"></path>
+                      </svg>
+                    </div><span>３好特色</span>
+                  </div>
+                  <div class="section-tabs-item">
+                    <div class="icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.72 74.72">
+                        <path class="color" d="m65.9,57.08l-7.87-13.3c-.06-.1-.13-.19-.19-.28,4.17-6.07,5.95-13.77,4.3-21.53C59.41,9.24,47.99,0,34.98,0c-1.94,0-3.89.21-5.81.61C14.2,3.81,4.62,18.6,7.82,33.57c2.72,12.73,14.14,21.97,27.15,21.97h0c.93,0,1.86-.05,2.79-.14.05.1.09.19.15.29l7.87,13.31c1.59,2.68,4.13,4.58,7.15,5.36.95.24,1.94.37,2.92.37,2.09,0,4.14-.56,5.94-1.63,5.54-3.28,7.39-10.46,4.11-16.01Z"></path>
+                        <path d="m61.42,59.73l-7.87-13.3c-3.11,3.09-6.95,5.36-11.16,6.6l7.87,13.31c.91,1.53,2.36,2.56,3.97,2.97,1.61.41,3.37.21,4.91-.7,3.08-1.82,4.1-5.81,2.28-8.88Z" style="fill:#fff"></path>
+                        <path d="m57.04,23.06c-2.6-12.17-14.62-19.95-26.79-17.35-12.17,2.6-19.95,14.61-17.35,26.78,2.6,12.17,14.61,19.96,26.78,17.36,12.17-2.6,19.95-14.62,17.36-26.78Zm-9.22,13.04c-2.23,3.44-5.66,5.81-9.65,6.66-1.06.23-2.14.34-3.2.34h0c-7.18,0-13.48-5.1-14.98-12.13-1.77-8.26,3.52-16.43,11.79-18.19,1.06-.23,2.14-.34,3.21-.34,7.18,0,13.49,5.1,14.99,12.13.85,3.99.09,8.09-2.14,11.53Z" style="fill:#fff"></path>
+                        <path d="m24.85,31.74c-.84,0-1.59-.58-1.77-1.43-1.4-6.55,2.79-13.03,9.35-14.43.97-.22,1.94.41,2.15,1.39.21.98-.41,1.94-1.39,2.14-4.6.98-7.55,5.53-6.57,10.13.21.98-.41,1.94-1.39,2.15-.13.03-.25.04-.38.04Z" style="fill:#fff"></path>
+                      </svg>
+                    </div><span>嚴選標的</span>
+                  </div>
+                  <div class="section-tabs-item">
+                    <div class="icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.72 74.72">
+                        <path class="color" d="m37.36,0C21.52,0,8.63,12.89,8.63,28.74c0,9.51,4.67,18.29,12.37,23.62v.74c0,1.68.59,3.22,1.57,4.43-.04.25-.08.5-.08.76v1.57c0,8.2,6.67,14.87,14.88,14.87s14.88-6.67,14.88-14.87v-1.57c0-.26-.04-.51-.08-.76.98-1.21,1.57-2.76,1.57-4.43v-.74c7.7-5.33,12.37-14.11,12.37-23.62,0-15.84-12.89-28.73-28.73-28.73Z"></path>
+                        <polygon points="37.36 31.33 30.92 31.33 37.36 37.77 43.8 31.33 37.36 31.33" style="fill:#fff"></polygon>
+                        <path d="m37.36,5.35c-12.9,0-23.39,10.49-23.39,23.39,0,8.61,4.82,16.59,12.37,20.63v3.73c0,.96.78,1.74,1.74,1.74h7.54v-13.89l-10.12-10.12c-.16-.16-.29-.36-.38-.57-.17-.42-.17-.9,0-1.32.18-.43.52-.77.94-.94.21-.09.44-.13.66-.13h21.27c.23,0,.45.04.66.13.42.18.76.52.94.94.18.42.18.9,0,1.32-.09.22-.22.41-.38.57l-10.13,10.12v13.89h7.54c.96,0,1.74-.78,1.74-1.74v-3.73c7.55-4.04,12.37-12.02,12.37-20.63,0-12.9-10.49-23.39-23.39-23.39Z" style="fill:#fff"></path>
+                        <path d="m28.08,58.31c-.09,0-.17-.02-.25-.03v1.56c0,5.26,4.27,9.53,9.53,9.53s9.53-4.27,9.53-9.53v-1.56c-.08,0-.16.03-.25.03h-18.56Z" style="fill:#fff"></path>
+                      </svg>
+                    </div><span>預計投組</span>
+                  </div>
+                  <div class="section-tabs-item">
+                    <div class="icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.72 74.72">
+                        <path class="color" d="m64.49,16.99l-14.86-14.86c-1.38-1.37-3.22-2.13-5.17-2.13H15.42c-4.04,0-7.33,3.29-7.33,7.33v60.06c0,4.04,3.29,7.33,7.33,7.33h43.89c4.04,0,7.33-3.29,7.33-7.33V22.17c0-1.95-.76-3.78-2.15-5.18Z"></path>
+                        <path d="m60.4,21.08l-14.85-14.84c-.29-.29-.68-.45-1.09-.45H15.42c-.85,0-1.54.69-1.54,1.54v60.06c0,.85.69,1.54,1.54,1.54h43.89c.85,0,1.54-.69,1.54-1.54V22.17c0-.41-.16-.8-.45-1.09Zm-35.98,2.64h13.88c.85,0,1.54.69,1.54,1.54s-.69,1.54-1.54,1.54h-13.88c-.85,0-1.54-.69-1.54-1.54s.69-1.54,1.54-1.54Zm25.64,27.94h-12.69c-.85,0-1.54-.69-1.54-1.54s.69-1.54,1.54-1.54h12.69c.85,0,1.54.69,1.54,1.54s-.69,1.54-1.54,1.54Zm0-8.28h-25.39c-.85,0-1.54-.69-1.54-1.54s.69-1.54,1.54-1.54h25.39c.85,0,1.54.69,1.54,1.54s-.69,1.54-1.54,1.54Zm0-8.28h-25.39c-.85,0-1.54-.69-1.54-1.54s.69-1.54,1.54-1.54h25.39c.85,0,1.54.69,1.54,1.54s-.69,1.54-1.54,1.54Zm-4.05-14.46v-9.58l9.58,9.58h-9.58Z" style="fill:#fff"></path>
+                      </svg>
+                    </div><span>基金檔案</span>
+                  </div>
+                </div>
+                <div class="section-paper">
+                  <div class="section-carousel owl-carousel" id="section-03-carousel" data-options="{&quot;autoHeight&quot;: true, &quot;items&quot;: 1, &quot;loop&quot;: true, &quot;nav&quot;: true, &quot;autoplay&quot;: false, &quot;autoplayTimeout&quot;: 6000, &quot;navContainerClass&quot;: &quot;owl-nav section-carousel-nav&quot;, &quot;colorArrow&quot;: &quot;#14355C&quot;, &quot;colorSwitcher&quot;: &quot;#section-03-tabs&quot;}">
+                    <div class="section-carousel-item" data-index="0">
+                      <div class="section-carousel-title">第一金全球永續影響力投資多重資產基金<span class="text-gray">(本基金有一定比重得投資於非投資等級之高風險債券且配息來源可能為本金或收益平準金)</span></div>
+                      <div class="section-carousel-content">
+                        <div class="d-none">
+                          <h4>好貢獻</h4>
+                          <p>聚焦影響力投資</p>
+                          <p>投資組合實質貢獻SDGs</p>
+                          <h4>好商機</h4>
+                          <p>深度參與永續大商機</p>
+                          <p>投資報酬兼具社會效益</p>
+                          <h4>好彈性</h4>
+                          <p>操作策略好靈活</p>
+                          <p>資產配置好多元</p>
+                        </div>
+                        <div class="d-none d-md-block img-response img-response-pos" style="padding-bottom:calc(100% / 1195 * 546)"><img class="lazy" data-aos="fade-down" data-src="./images/sections/section-03/section-03-01-01.png"><img class="lazy" data-aos="fade-down" data-aos-delay="100" data-src="./images/sections/section-03/section-03-01-02.png"><img class="lazy" data-aos="fade-down" data-aos-delay="300" data-src="./images/sections/section-03/section-03-01-03.png"></div>
+                        <div class="d-md-none">
+                          <div class="img-response img-response-pos" style="padding-bottom:calc(100% / 830 * 1618)"><img class="lazy" data-aos="fade-down" data-src="./images/sections/section-03/section-03-01-mobile-01.png"><img class="lazy" data-aos="fade-down" data-aos-delay="100" data-src="./images/sections/section-03/section-03-01-mobile-02.png"><img class="lazy" data-aos="fade-down" data-aos-delay="300" data-src="./images/sections/section-03/section-03-01-mobile-03.png"></div>
+                        </div>
+                      </div>
+                      <div class="section-carousel-source"></div>
+                    </div>
+                    <div class="section-carousel-item" data-index="1">
+                      <div class="section-carousel-title">嚴選優質標的</div>
+                      <div class="section-carousel-content">
+                        <div class="d-none">
+                          <h4>聚焦成長潛力標的</h4>
+                          <p>從全球股票與債券市場中，找出接軌永續發展目標，且營收、獲利具有成長潛力的企業。</p>
+                          <h4>強化負面排除與責任投資</h4>
+                          <p>排除爭議產業（如：菸酒、武器、高汙染等產業），以及未遵循聯合國全球盟約的企業。</p>
+                          <h4>嚴選永續模範生</h4>
+                          <p>透過量化評分，挑選聯合國永續發展目標 (SDGs) 評分 > 0 的投資標的。並經由質化研究，找出主動參與並對社會或環境改善有高度貢獻的企業。</p>
+                          <h4>影響力「好」公司</h4>
+                          <p>層層篩選出股票與債券各50~80檔，建構影響力投資組合。</p>
+                        </div>
+                        <div class="d-none d-md-block img-response img-response-pos" style="padding-bottom:calc(100% / 3276 * 1753)"><img class="lazy" data-aos="fade-down" data-src="./images/sections/section-03/section-03-02-01.png"><img class="lazy" data-aos="fade-down" data-aos-delay="100" data-src="./images/sections/section-03/section-03-02-02.png"><img class="lazy" data-aos="fade-down" data-aos-delay="300" data-src="./images/sections/section-03/section-03-02-03.png"><img class="lazy" data-aos="fade-down" data-aos-delay="500" data-src="./images/sections/section-03/section-03-02-04.png"></div>
+                        <div class="d-md-none">
+                          <div class="img-response img-response-pos" style="padding-bottom:calc(100% / 830 * 1857)"><img class="lazy" data-aos="fade-down" data-src="./images/sections/section-03/section-03-02-mobile-01.png"><img class="lazy" data-aos="fade-down" data-aos-delay="100" data-src="./images/sections/section-03/section-03-02-mobile-02.png"><img class="lazy" data-aos="fade-down" data-aos-delay="300" data-src="./images/sections/section-03/section-03-02-mobile-03.png"><img class="lazy" data-aos="fade-down" data-aos-delay="500" data-src="./images/sections/section-03/section-03-02-mobile-04.png"></div>
+                        </div>
+                      </div>
+                      <div class="section-carousel-source">資料來源：安盛投資管理，百揚投資。</div>
+                    </div>
+                    <div class="section-carousel-item" data-index="2">
+                      <div class="section-carousel-title">預計投組配置</div>
+                      <div class="section-carousel-text"><p class="mb-0 small text-center text-gray">（僅為預估規劃，實際將依進場時市況調整）</p></div>
+                      <div class="section-carousel-content">
+                        <div class="d-none">
+                          <h4>資產類別比重</h4>
+                          <p>股票 41%</p>
+                          <p>固定收益 40.19%</p>
+                          <p>基金受益憑證 12%</p>
+                          <p>現金 6.81%</p>
+                          <h4>六大面向比重</h4>
+                          <h5>愛護地球</h5>
+                          <p>能源轉型：股票8.4%、固定收益23.5%、基金受益憑證12%</p>
+                          <p>永續產業：股票9.4%</p>
+                          <p>資源效率：股票5.5%</p>
+                          <h5>富裕人生</h5>
+                          <p>健康福祉：股票11.7%</p>
+                          <p>普惠包容：股票4.4%、固定收益12.4%</p>
+                          <p>賦能平權：股票1.6%、固定收益4.3%</p>
+                        </div>
+                        <div class="d-none d-md-block img-response img-response-pos" style="padding-bottom:calc(100% / 3239 * 1625)"><img class="lazy" data-aos="fade-down" data-aos-delay="100" data-src="./images/sections/section-03/section-03-03-02.png"><img class="lazy" data-aos="fade-down" data-aos-delay="300" data-src="./images/sections/section-03/section-03-03-03.png"><img class="lazy" data-aos="fade-down" data-src="./images/sections/section-03/section-03-03-01.png"></div>
+                        <div class="d-md-none">
+                          <div class="img-response img-response-pos" style="padding-bottom:calc(100% / 1003 * 1787)"><img class="lazy" data-aos="fade-down" data-aos-delay="100" data-src="./images/sections/section-03/section-03-03-mobile-02.png"><img class="lazy" data-aos="fade-down" data-aos-delay="300" data-src="./images/sections/section-03/section-03-03-mobile-03.png"><img class="lazy" data-aos="fade-down" data-src="./images/sections/section-03/section-03-03-mobile-01.png"></div>
+                        </div>
+                      </div>
+                      <div class="section-carousel-source">資料來源：百揚投資，2023/8/31，<b>僅為預估規劃，實際將依進場時市況調整。</b></div>
+                    </div>
+                    <div class="section-carousel-item" data-index="3">
+                      <div class="section-carousel-title">基金小檔案</div>
+                      <div class="section-carousel-content">
+                        <div class="row section-table mx-0 my-md-5" data-aos="fade-down">
+                          <div class="col-md-6">
+                            <div class="row">
+                              <div class="col-4 col-lg-3 section-table-title">基金類型</div>
+                              <div class="col">跨國投資多重資產型基金</div>
+                            </div>
+                            <div class="row">
+                              <div class="col-4 col-lg-3 section-table-title">基金級別</div>
+                              <div class="col">一般型｜I 類型</div>
+                            </div>
+                            <div class="row">
+                              <div class="col-4 col-lg-3 section-table-title">經理公司</div>
+                              <div class="col">百揚投資（獨立經營管理）</div>
+                            </div>
+                            <div class="row">
+                              <div class="col-4 col-lg-3 section-table-title">經理費率</div>
+                              <div class="col">一般型：1.8%｜I 類型：0.7%</div>
+                            </div>
+                            <div class="row">
+                              <div class="col-4 col-lg-3 section-table-title">計價幣別</div>
+                              <div class="col">新臺幣｜美元</div>
+                            </div>
+                            <div class="row">
+                              <div class="col-4 col-lg-3 section-table-title">配息選擇</div>
+                              <div class="col">累積｜月配息（I 類型除外）</div>
+                            </div>
+                          </div>
+                          <div class="col-md-6">
+                            <div class="row">
+                              <div class="col-4 col-lg-3 section-table-title">保管銀行</div>
+                              <div class="col">臺灣銀行</div>
+                            </div>
+                            <div class="row">
+                              <div class="col-4 col-lg-3 section-table-title">保管費率</div>
+                              <div class="col">0.26%</div>
+                            </div>
+                            <div class="row">
+                              <div class="col-4 col-lg-3 section-table-title">風險等級</div>
+                              <div class="col">RR3*</div>
+                            </div>
+                            <div class="row">
+                              <div class="col-4 col-lg-3 section-table-title">買回開放</div>
+                              <div class="col">成立起 90 日後</div>
+                            </div>
+                            <div class="row">
+                              <div class="col-4 col-lg-3 section-table-title">買回付款</div>
+                              <div class="col">T+7 個營業日內</div>
+                            </div>
+                            <div class="row">
+                              <div class="col-4 col-lg-3 section-table-title">投資顧問</div>
+                              <div class="col">巴黎安盛投資管理公司</div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="section-carousel-source is-bigger">*本基金為多重資產型基金，聚焦於具「永續影響力投資」相關概念之投資標的，其產業涵蓋範圍相較科技、金融等單一產業類型基金而言，投資範圍較為廣泛，集中度風險較低。另，本基金投資範圍以成熟國家為主，相對政經風險亦較單一國家或區域類型基金為低，故風險等級為RR3</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="section section-footer" id="section-footer">
+          <div class="container">
+            <div class="section-wrapper">
+              <div class="section-list" id="section-download">
+                <div class="section-list-item" data-aos="fade-up" data-aos-delay="0"><a class="section-list-link" href="https://www.fsitc.com.tw/ViewFile.aspx?path=1&amp;id=170" target="_blank">
+                    <div class="item-before">
+                      <div class="before animate__animated animate__infinite animate__float animate__slower"></div><span class="animate__animated animate__infinite animate__float animate__slow"></span>
+                      <div class="after animate__animated animate__infinite animate__float"></div>
+                    </div>
+                    <div class="icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 77.19 77.19">
+                        <path class="color" d="m41.06,76.2l36.13-9.85V1l-36.13,9.85v65.35Zm28.96-17.75l-4.06,1.08c-.21.06-.43.08-.64.08-1.09,0-2.09-.73-2.38-1.83-.35-1.32.43-2.67,1.75-3.02l4.06-1.08c1.31-.35,2.66.43,3.02,1.75.35,1.32-.43,2.67-1.75,3.02Zm-21.13-39.37l19.85-5.35c1.32-.36,2.67.42,3.02,1.74.35,1.31-.42,2.67-1.74,3.02l-19.85,5.36c-.22.06-.43.09-.65.09-1.09,0-2.08-.72-2.38-1.83-.35-1.31.43-2.67,1.74-3.02Zm0,14.41l19.85-5.35c1.32-.36,2.67.42,3.02,1.74.35,1.32-.42,2.67-1.74,3.02l-19.85,5.35c-.22.06-.43.09-.65.09-1.09,0-2.08-.73-2.38-1.83-.35-1.32.43-2.67,1.74-3.02Zm0,12.77l19.85-5.35c1.32-.36,2.67.42,3.02,1.74.35,1.32-.42,2.67-1.74,3.02l-19.85,5.35c-.22.06-.43.09-.65.09-1.09,0-2.08-.72-2.38-1.82-.35-1.32.43-2.67,1.74-3.02Zm-.02,12.78l6.04-1.68c1.31-.37,2.67.4,3.04,1.71.36,1.31-.4,2.67-1.72,3.04l-6.04,1.68c-.22.06-.44.09-.66.09-1.08,0-2.07-.71-2.37-1.81-.37-1.31.4-2.67,1.71-3.04Z"></path>
+                        <path class="color" d="m36.13,10.85L0,1v65.34l36.13,9.85V10.85Zm-6.06,37.63c-.29,1.11-1.29,1.84-2.38,1.84-.21,0-.42-.03-.63-.08l-19.88-5.27c-1.32-.35-2.1-1.7-1.75-3.02.35-1.32,1.71-2.1,3.02-1.75l19.88,5.27c1.32.35,2.1,1.7,1.75,3.02Zm0-12.99c-.29,1.11-1.29,1.84-2.38,1.84-.21,0-.42-.03-.63-.08l-19.88-5.27c-1.32-.35-2.1-1.7-1.75-3.02.35-1.32,1.7-2.1,3.02-1.75l19.88,5.27c1.32.35,2.1,1.7,1.75,3.02Z"></path>
+                      </svg>
+                    </div><span class="name">公開說明書</span>
+                    <div class="icon-download">
+                      <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40">
+                        <path class="color" d="m20,33.37c-.63,0-1.23-.25-1.67-.69l-10.7-10.7c-.92-.92-.92-2.42,0-3.34.92-.92,2.42-.92,3.34,0l9.03,9.03,9.03-9.03c.92-.92,2.42-.92,3.34,0s.92,2.42,0,3.34l-10.7,10.7c-.44.44-1.04.69-1.67.69Z"></path>
+                        <path class="color" d="m20,32.16c-1.31,0-2.36-1.06-2.36-2.36V2.36c0-1.31,1.06-2.36,2.36-2.36s2.36,1.06,2.36,2.36v27.43c0,1.31-1.06,2.36-2.36,2.36Z"></path>
+                        <path class="color" d="m31.82,40H8.18c-1.31,0-2.36-1.06-2.36-2.36s1.06-2.36,2.36-2.36h23.65c1.31,0,2.36,1.06,2.36,2.36s-1.06,2.36-2.36,2.36Z"></path>
+                      </svg>
+                    </div>
+                    <div class="item-after">
+                      <div class="before animate__animated animate__infinite animate__float animate__slower"></div><span class="animate__animated animate__infinite animate__float animate__slow"></span>
+                      <div class="after animate__animated animate__infinite animate__float"></div>
+                    </div></a></div>
+                <div class="section-list-item" data-aos="fade-up" data-aos-delay="100"><a class="section-list-link" href="https://www.fsitc.com.tw/ViewFile.aspx?path=2&amp;id=169" target="_blank">
+                    <div class="item-before">
+                      <div class="before animate__animated animate__infinite animate__float animate__slower"></div><span class="animate__animated animate__infinite animate__float animate__slow"></span>
+                      <div class="after animate__animated animate__infinite animate__float"></div>
+                    </div>
+                    <div class="icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 77.19 77.19">
+                        <path class="color" d="m67.28,70.7V23.72h-13.5c-5.42,0-9.83-4.41-9.83-9.83V1.35H9.91v74.49h52.22c2.83,0,5.14-2.31,5.14-5.14Zm-37.79-18.04h-9.24c-1.29,0-2.34-1.05-2.34-2.34s1.05-2.34,2.34-2.34h9.24c1.29,0,2.34,1.05,2.34,2.34s-1.05,2.34-2.34,2.34Zm15.64,0h-4.56c-1.29,0-2.34-1.05-2.34-2.34s1.05-2.34,2.34-2.34h4.56c1.29,0,2.34,1.05,2.34,2.34s-1.05,2.34-2.34,2.34Zm11.82-12.87H20.25c-1.29,0-2.34-1.05-2.34-2.34s1.05-2.34,2.34-2.34h36.7c1.29,0,2.34,1.05,2.34,2.34s-1.05,2.34-2.34,2.34Z"></path>
+                        <path class="color" d="m53.78,19.03h10.01l-15.15-14.53v9.39c0,2.83,2.31,5.14,5.14,5.14Z"></path>
+                      </svg>
+                    </div><span class="name">簡式公開說明書</span>
+                    <div class="icon-download">
+                      <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40">
+                        <path class="color" d="m20,33.37c-.63,0-1.23-.25-1.67-.69l-10.7-10.7c-.92-.92-.92-2.42,0-3.34.92-.92,2.42-.92,3.34,0l9.03,9.03,9.03-9.03c.92-.92,2.42-.92,3.34,0s.92,2.42,0,3.34l-10.7,10.7c-.44.44-1.04.69-1.67.69Z"></path>
+                        <path class="color" d="m20,32.16c-1.31,0-2.36-1.06-2.36-2.36V2.36c0-1.31,1.06-2.36,2.36-2.36s2.36,1.06,2.36,2.36v27.43c0,1.31-1.06,2.36-2.36,2.36Z"></path>
+                        <path class="color" d="m31.82,40H8.18c-1.31,0-2.36-1.06-2.36-2.36s1.06-2.36,2.36-2.36h23.65c1.31,0,2.36,1.06,2.36,2.36s-1.06,2.36-2.36,2.36Z"></path>
+                      </svg>
+                    </div>
+                    <div class="item-after">
+                      <div class="before animate__animated animate__infinite animate__float animate__slower"></div><span class="animate__animated animate__infinite animate__float animate__slow"></span>
+                      <div class="after animate__animated animate__infinite animate__float"></div>
+                    </div></a></div>
+                <div class="section-list-item" data-aos="fade-up" data-aos-delay="200"><a class="section-list-link" href="https://www.fsitc.com.tw/Files/EDM/act/dm_giima1106.pdf" target="_blank">
+                    <div class="item-before">
+                      <div class="before animate__animated animate__infinite animate__float animate__slower"></div><span class="animate__animated animate__infinite animate__float animate__slow"></span>
+                      <div class="after animate__animated animate__infinite animate__float"></div>
+                    </div>
+                    <div class="icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 77.19 77.19">
+                        <path class="color" d="m22.11,65.52c0-2.23.67-4.38,1.92-6.23l16.01-24.71-5.27-16.52h22.3V4.94H3.75v64.69h19.16c-.51-1.27-.8-2.66-.8-4.11Zm8.74-27.8H14.24v-4.37h16.61v4.37Zm-10.06-24.04c3.62,0,6.56,2.94,6.56,6.56s-2.94,6.56-6.56,6.56-6.56-2.94-6.56-6.56,2.94-6.56,6.56-6.56Zm-6.55,30.16h7.87v4.37h-7.87v-4.37Z"></path>
+                        <polygon class="color" points="57.81 32.91 61.16 22.42 40.76 22.42 44.1 32.91 57.81 32.91"></polygon>
+                        <path class="color" d="m74.25,61.72l-15.83-24.43h-14.92l-15.83,24.43c-.75,1.08-1.19,2.39-1.19,3.8,0,3.72,3.04,6.73,6.8,6.73h35.36c3.75,0,6.8-3.01,6.8-6.73,0-1.41-.44-2.72-1.19-3.8Zm-22.92-7.97c2.24.55,5.98,1.46,5.98,5.72,0,1.06-.35,4.15-4.17,5.08v2.46h-4.37v-2.43c-2.5-.66-4.17-2.61-4.17-5.11h4.37c0,.91,1.33.98,1.73.98,2.23,0,2.23-.66,2.23-.98,0-.59-.1-.85-2.65-1.47-2.13-.52-5.69-1.38-5.69-5.31,0-2.19,1.43-4.4,4.17-5.11v-2.43h4.37v2.49c2.86.77,4.17,2.91,4.17,5.04h-4.37c0-.91-1.71-.98-2.23-.98-1.1,0-1.73.36-1.73.98,0,.34.22.54,2.35,1.06Z"></path>
+                      </svg>
+                    </div><span class="name">基金DM</span>
+                    <div class="icon-download">
+                      <svg xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40">
+                        <path class="color" d="m20,33.37c-.63,0-1.23-.25-1.67-.69l-10.7-10.7c-.92-.92-.92-2.42,0-3.34.92-.92,2.42-.92,3.34,0l9.03,9.03,9.03-9.03c.92-.92,2.42-.92,3.34,0s.92,2.42,0,3.34l-10.7,10.7c-.44.44-1.04.69-1.67.69Z"></path>
+                        <path class="color" d="m20,32.16c-1.31,0-2.36-1.06-2.36-2.36V2.36c0-1.31,1.06-2.36,2.36-2.36s2.36,1.06,2.36,2.36v27.43c0,1.31-1.06,2.36-2.36,2.36Z"></path>
+                        <path class="color" d="m31.82,40H8.18c-1.31,0-2.36-1.06-2.36-2.36s1.06-2.36,2.36-2.36h23.65c1.31,0,2.36,1.06,2.36,2.36s-1.06,2.36-2.36,2.36Z"></path>
+                      </svg>
+                    </div>
+                    <div class="item-after animate__animated animate__infinite animate__float animate__slower">
+                      <div class="before animate__animated animate__infinite animate__float animate__slower"></div><span class="animate__animated animate__infinite animate__float animate__slow"></span>
+                      <div class="after animate__animated animate__infinite animate__float"></div>
+                    </div></a></div>
+              </div>
+              <div class="section-title" id="section-action">
+                <div class="d-none">立即申購</div>
+                <div class="img-response img-response-pos" style="padding-bottom:calc(100% / 775 * 154)"><img class="lazy" data-aos="fade-up" data-src="./images/sections/section-footer/section-footer-title.png"></div>
+              </div>
+              <div class="section-info">
+                <div class="section-info-item" data-aos="fade-up" data-aos-delay="0">
+                  <div class="name">基金保管銀行</div>
+                  <div class="content">臺灣銀行</div>
+                </div>
+                <div class="section-info-item" data-aos="fade-up" data-aos-delay="100">
+                  <div class="name">其他銷售機構</div>
+                  <div class="content">第一銀行</div>
+                </div>
+                <div class="section-info-item" data-aos="fade-up" data-aos-delay="200">
+                  <div class="name">基金經理公司</div>
+                  <div class="content">百揚投資 <a class="cta" href="https://www.fsitc.com.tw/etrade/" target="_blank"><span class="cta-arrow">►</span>立即申購<span class="cta-arrow">◄</span></a></div>
+                </div>
+              </div>
+              <div data-aos="fade-up"><a class="section-action" href="https://www.fsitc.com.tw/openacc/open_apply.aspx?utm_source=act&amp;utm_medium=ipo-btn&amp;utm_campaign=ipo-2310_w1" target="_blank">
+                  <div class="section-action-before">
+                    <div class="before animate__animated animate__infinite animate__float animate__slower"></div><span class="animate__animated animate__infinite animate__float"></span>
+                    <div class="after animate__animated animate__infinite animate__float animate__slow"></div>
+                  </div>
+                  <h6 class="cta"><span class="cta-arrow">►</span>新客戶按此 立即線上開戶<span class="cta-arrow">◄</span></h6>
+                  <p>募集期間，線上申購享手續費超值優惠！</p></a></div>
+              <div class="section-notes">
+                <p>百揚投資獨立經營管理。本基金經金管會核准或同意生效，惟不表示絕無風險。基金經理公司以往之經理績效不保證基金之最低投資收益；基金經理公司除盡善良管理人之注意義務外，不負責基金之盈虧，亦不保證最低之收益，投資人申購前應詳閱基金公開說明書。有關基金應負擔之費用及基金之相關投資風險已揭露於基金之公開說明書或投資人須知中，基金經理公司及各銷售機構備有公開說明書，歡迎索取，或自行至基金經理公司官網（<a href="//www.fsitc.com.tw" target="_blank">www.fsitc.com.tw</a>）、公開資訊觀測站（<a href="//mops.twse.com.tw" target="_blank">mops.twse.com.tw</a>）下載。<span class="highlight">部分可配息基金配息前未先扣除應負擔之相關費用，且基金的配息可能由基金的收益或本金或收益平準金中支付。任何涉及由本金支出的部份，可能導致原始投資金額以同等比例減損。基金配息率不代表基金報酬率，且過去配息率不代表未來配息率；基金淨值可能因市場因素而上下波動。基金經理公司不保證本基金最低之收益率或獲利，配息金額會因操作及收入來源而有變化，且投資之風險無法因分散投資而完全消除，投資人仍應自行承擔相關風險。投資人可至基金經理公司官網查詢最近12個月內由本金支付之配息組成項目。本基金得投資於符合美國Rule144A規定之債券，該債券屬私募性質，較可能發生流動性不足，財務訊息揭露不完整或因價格不透明導致波動性較大之風險。此外，本基金最高可投資基金總資產40%於具損失吸收能力債券(含應急可轉換債券(Contingent Convertible Bond, CoCo Bond)及具總損失吸收能力(Total Loss-Absorbing Capacity,TLAC)債券)，該類債券可能包括金融領域集中度風險、導致部分或全部債權減記、息票取消、流動性風險、債權轉換股權等變動風險，實際投資上限詳見基金公開說明書。由於轉換公司債同時兼具債券與股票之性質，因此除利率風險、流動性風險及信用風險外，還可能因標的股票價格波動而造成該可轉換公司債之價格波動而投資非投資等級或未經信用評等之轉換公司債所承受之信用風險相對較高。</span>內容涉及新興市場部分，因其波動性與風險程度較高，且政治與經濟情勢穩定度可能低於已開發國家，可能使資產價值受不同程度之影響。匯率走勢可能影響所投資之海外資產而使資產價值變動。本資料提及之經濟走勢預測不必然代表該基金之績效，基金投資風險請詳閱基金公開說明書。本資料提及之企業、指數或投資標的，僅為舉例說明之用，不代表任何投資之推薦。基金風險報酬等級，係參酌中華民國證券投資信託暨顧問商業同業公會所訂分類標準，RR係計算過去5年基金淨值波動度標準差，以標準差區間予以分類等級，由低至高分為RR1~RR5等五個等級，數字愈大代表風險越高。此等級分類係基於一般市場狀況反映市場價格波動風險，無法涵蓋所有風險(如：基金計價幣別匯率風險、投資標的產業風險、信用風險、利率風險、流動性風險…等)，不宜作為投資唯一依據，投資人仍應注意所投資基金個別的風險，並考量個人風險承擔能力、資金可運用期間等，始為投資判斷。本基金屬環境、社會及治理相關主題基金，相關基金之風險可能含有產業景氣循環變動、流動性不足、外匯管制、投資地區政經社會變動、對第三方資料來源依賴、對特定ESG投資重點之集中度或其他投資風險。有關基金之ESG資訊，投資人應於申購前詳閱基金公開說明書或投資人須知所載之所有特色及目標等資訊，可至本公司官網 ( <a href="https://www.fsitc.com.tw/" target="_blank">https://www.fsitc.com.tw/</a> ) 或至基金資訊觀測站 ( <a href="https://announce.fundclear.com.tw/MOPSFundWeb/ESG.jsp" target="_blank">https://announce.fundclear.com.tw/MOPSFundWeb/ESG.jsp</a> ) 進行查詢。<span class="small">（第一金證券投資信託股份有限公司 | 台北市民權東路三段 6 號 7 樓 | 02-2504-1000）</span></p>
+              </div>
+            </div>
+          </div>
+          <div class="d-none d-md-block img-response img-response-pos" style="padding-bottom:calc(100% / 2000 * 478)"><img class="lazy" data-aos="fade-up" data-src="./images/sections/section-footer/section-footer-kv.png"></div>
+          <div class="d-md-none img-response img-response-pos" style="padding-bottom:calc(100% / 1000 * 486)"><img class="lazy" data-aos="fade-up" data-src="./images/sections/section-footer/section-footer-mobile-kv.png"></div>
+        </div>
+      </div>
+    </div>
+    <script src="./libs/jquery.min.js"></script>
+    <script src="./libs/bootstrap/bootstrap.bundle.min.js"></script>
+    <script src="./libs/aos/aos.js"></script>
+    <script src="./libs/owl-carousel/owl.carousel.js"></script>
+    <script src="./js/scripts.js"></script>
+  </body>
+</html>

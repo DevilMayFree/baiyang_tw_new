@@ -1,0 +1,19 @@
+﻿.ulSelect ul { display: block; padding: 0px 15px 0px 15px;z-index: 10;border: 0;}
+.ulSelect li:first-child { margin-top: 15px; }
+.ulSelect li:last-child { margin-bottom: 15px; }
+
+.signIn .inputBox .keyboardBox{ display:block;padding: 0px 15px 0px 15px;}
+.signIn .inputBox .keyboardBox .innerdiv { padding: 15px 15px 5px 15px;}
+
+.fundProfit_hidden { display: block; background: #fffcf7; border-radius: 4px; }
+@media screen and (max-width: 767px) {
+    .listBox .listTit ~ .slidebg_gray .formboxList_mid {display: block;background: #f2f2f2;border-top: 1px solid #d2d2d2; }
+    .slidebg_gray .expand_box{display:block;}
+}
+.table_add_list{display:block;}
+
+/*贖回List*/
+.fund_input.expand_box.changeblock{display:block ;padding: 0px;border: 0px;}
+.changepadding{padding: 30px 40px 20px 40px;border-top: solid 1px #d2d2d2;}
+.changepaddingMobile{padding: 15px}
+.listBox .listTit ~ .formboxList_mid{ display:block;}
