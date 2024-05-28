@@ -13,7 +13,7 @@
 
 .box-2{ width:100%;display:block;  margin:0 auto;}
 .box-2 img{ width:100%;}
-.banner{width:100%; float:left;}
+.banner{width:71%; float:left;}
 .transaction{width:14.5%; display:block; float:left; text-align:center; background:#01573e url(../images/index/transaction-login.jpg) no-repeat center 65%;padding: 1.8px;}
 .transaction:hover{background:#01573e url(../images/index/transaction-login-hover.png) no-repeat center 60%;}
 
